@@ -1,7 +1,12 @@
 # Cybersecurity
-###### The World of Cybersecurity
+###### The World of Cybersecurity:
+> A collection of awesome software, libraries, documents, books, resources and cool stuff about cybersecurity.
+> Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 Securing the information, network, records, and the application has come to be one of the largest challenges. Cybersecurity  is  a  very  important  part  of  the  cyber  world.  Because  cybersecurity  is  a performance  of  protecting  data,  application,  system,  and information  from  illegal  access  or attacks.
+
+
+
 
 Today, The field of **cybersecurity** can be categorized into main ten (10) domains: 
 ```
@@ -16,6 +21,8 @@ Today, The field of **cybersecurity** can be categorized into main ten (10) doma
 -  Legal, Regulations, Investigations and Compliance
 -  Physical (Environmental) Security
 ```
+
+# Contents
 
 ## Top 10 Cybersecurity Domains
 
