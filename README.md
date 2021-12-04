@@ -17,7 +17,7 @@ Today, The field of **cybersecurity** can be categorized into main ten (10) doma
 -  Physical (Environmental) Security
 ```
 
-## Top Cybersecurity Domains
+## Top 10 Cybersecurity Domains
 
 - ### Access Control
 
@@ -49,7 +49,7 @@ Today, The field of **cybersecurity** can be categorized into main ten (10) doma
 - ### Physical (Environmental) Security
 
 
-## Top Cybersecurity Sectors
+## Top 15 Cybersecurity Sectors
 From a market perspective, Current & emerging technologies & services, key facts, sector background and analysis of the following 15 cybersecurity sectors: 
 
 1. Endpoint Security 
