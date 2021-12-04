@@ -113,16 +113,16 @@ Hewlett-Packard Co, HyTrust, ID Analytics, Igloo Security Inc, Imprivata, Intel 
 
 - #### InfoSec Write-ups 	
 
-###### A collection of write-ups from the best hackers in the world on topics ranging from bug bounties and CTFs to vulnhub machines, hardware challenges and real life encounters. In a nutshell, we are the largest InfoSec publication on Medium. 	
+> ###### A collection of write-ups from the best hackers in the world on topics ranging from bug bounties and CTFs to vulnhub machines, hardware challenges and real life encounters. In a nutshell, we are the largest InfoSec publication on Medium. 	
 	
-#### + PC Magazine 
-###### PC Magazine: redefining technology news and reviews since 1982.
+- ####  PC Magazine 
+> ###### PC Magazine: redefining technology news and reviews since 1982.
 
 
-#### + Threat Intel 	
+####  Threat Intel 	
 ###### Insights into the world of threat intelligence, cybercrime and IT security. Brought to you by researchers at Symantec. 	
 	
-#### + DoublePulsar 	
+####  DoublePulsar 	
 ###### Cybersecurity from the trenches, written by Kevin Beaumont. Opinions are of the author alone, not their employer. 	
 
 #### + [MITRE ATT&CK®]( https://attack.mitre.org) 	
