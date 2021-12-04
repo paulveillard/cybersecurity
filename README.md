@@ -4,17 +4,18 @@
 Securing the information, network, records, and the application has come to be one of the largest challenges. Cybersecurity  is  a  very  important  part  of  the  cyber  world.  Because  cybersecurity  is  a performance  of  protecting  data,  application,  system,  and information  from  illegal  access  or attacks.
 
 Today, The field of **cybersecurity** can be categorized into main ten (10) domains: 
-⋅⋅* Access Control
-⋅⋅* Telecommunications and Network Security
-⋅⋅* Information Security Governance and Risk Management
-⋅⋅* Software Development Security
-⋅⋅* Cryptography
-⋅⋅* Security Architecture and Design
-⋅⋅* Operations Security
-⋅⋅* Business Continuity and Disaster Recovery Planning
-⋅⋅* Legal, Regulations, Investigations and Compliance
-⋅⋅* Physical (Environmental) Security
-
+```
+-  Access Control
+-  Telecommunications and Network Security
+-  Information Security Governance and Risk Management
+-  Software Development Security
+-  Cryptography
+-  Security Architecture and Design
+-  Operations Security
+-  Business Continuity and Disaster Recovery Planning
+-  Legal, Regulations, Investigations and Compliance
+-  Physical (Environmental) Security
+```
 
 ## Top Cybersecurity Domains
 
@@ -30,7 +31,7 @@ Today, The field of **cybersecurity** can be categorized into main ten (10) doma
 ### Software Development Security
 
 
-### Cryptography
+### [Cryptography](https://github.com/sobolevn/awesome-cryptography)
 
 
 ### Security Architecture and Design
