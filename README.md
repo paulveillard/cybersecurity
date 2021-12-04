@@ -116,46 +116,46 @@ Hewlett-Packard Co, HyTrust, ID Analytics, Igloo Security Inc, Imprivata, Intel 
 ###### A collection of write-ups from the best hackers in the world on topics ranging from bug bounties and CTFs to vulnhub machines, hardware challenges and real life encounters. In a nutshell, we are the largest InfoSec publication on Medium. 	
 	
 #### + PC Magazine 
-####### PC Magazine: redefining technology news and reviews since 1982.
+###### PC Magazine: redefining technology news and reviews since 1982.
 
 
 #### + Threat Intel 	
-####### Insights into the world of threat intelligence, cybercrime and IT security. Brought to you by researchers at Symantec. 	
+###### Insights into the world of threat intelligence, cybercrime and IT security. Brought to you by researchers at Symantec. 	
 	
 #### + DoublePulsar 	
-####### Cybersecurity from the trenches, written by Kevin Beaumont. Opinions are of the author alone, not their employer. 	
+###### Cybersecurity from the trenches, written by Kevin Beaumont. Opinions are of the author alone, not their employer. 	
 
 #### + [MITRE ATT&CK®]( https://attack.mitre.org) 	
-####### This is the official blog for MITRE ATT&CK®, the MITRE-developed, globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.  	
+###### This is the official blog for MITRE ATT&CK®, the MITRE-developed, globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.  	
 
 #### + ASecuritySite: When Bob Met Alice 	
-####### This publication brings together interesting articles related to cyber security. 	
+###### This publication brings together interesting articles related to cyber security. 	
 
 #### + Hedera Hashgraph Blog 	
-####### Hedera is a decentralized public network where anyone can carve out a piece of cyberspace to transact, play, and socialize in a secure, trusted environment. 
+###### Hedera is a decentralized public network where anyone can carve out a piece of cyberspace to transact, play, and socialize in a secure, trusted environment. 
 	
 #### + Decoded 	
-####### New skills for a new world 	
+###### New skills for a new world 	
 
 #### + [SFU Professional Master’s Program in Computer Science]( https://sfu.ca/computing/pmp) 	
-####### This is an unofficial publication written and maintained by students in the Professional Master’s Program in the School of Computing Science at Simon Fraser University. 
+###### This is an unofficial publication written and maintained by students in the Professional Master’s Program in the School of Computing Science at Simon Fraser University. 
 	
 #### + Anton on Security 	
-####### A new start for my security blog. Also see our podcast at bit.ly/CloudSecPodcast 
+###### A new start for my security blog. Also see our podcast at bit.ly/CloudSecPodcast 
 	
   
 #### + CTF Writeups 	
-####### A collection of write-ups for various systems. 
+###### A collection of write-ups for various systems. 
 	
 #### + Uber Privacy & Security 	
-####### Insights and updates from Uber’s security and privacy teams 	
+###### Insights and updates from Uber’s security and privacy teams 	
 
 #### Cobalt.io 	
-#######  Connecting the global application security community to enterprises. 
+######  Connecting the global application security community to enterprises. 
 	
 #### Independent Security Evaluators 	
-#######  Security specialists that provide custom services including security assessments and software development. ISE also runs IoT Village, which hosts talks by expert security researchers and hacking contests. 
+######  Security specialists that provide custom services including security assessments and software development. ISE also runs IoT Village, which hosts talks by expert security researchers and hacking contests. 
   
   
 ####  Privacy Guy 	
-#######  The Internet Privacy Expert discussing the latest news about privacy and internet security.
+######  The Internet Privacy Expert discussing the latest news about privacy and internet security.
