@@ -111,7 +111,7 @@ Hewlett-Packard Co, HyTrust, ID Analytics, Igloo Security Inc, Imprivata, Intel 
 ## Top Cybersecurity Publications
 ### [Publications](https://toppub.xyz/publications/tags/1218) on Small, Medium, and Large Businesses
 
-#### + InfoSec Write-ups 	
+- #### InfoSec Write-ups 	
 
 ###### A collection of write-ups from the best hackers in the world on topics ranging from bug bounties and CTFs to vulnhub machines, hardware challenges and real life encounters. In a nutshell, we are the largest InfoSec publication on Medium. 	
 	
