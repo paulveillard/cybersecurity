@@ -16,7 +16,7 @@ Today, The field of **cybersecurity** can be categorized into main ten (10) doma
 ⋅⋅* Physical (Environmental) Security
 
 
-## Cybersecurity Domains
+## Top Cybersecurity Domains
 
 ### Access Control
 
@@ -48,7 +48,7 @@ Today, The field of **cybersecurity** can be categorized into main ten (10) doma
 ### Physical (Environmental) Security
 
 
-## Cybersecurity Sectors
+## Top Cybersecurity Sectors
 From a market perspective, Current & emerging technologies & services, key facts, sector background and analysis of the following 15 cybersecurity sectors: 
 
 1. Endpoint Security 
@@ -68,7 +68,7 @@ From a market perspective, Current & emerging technologies & services, key facts
 15. Vulnerability/Risk Management & Managed Security Services
 
 
-## Cybersecurity Vendors
+## Top Cybersecurity Vendors
 According to Marketwatch, as of september 2021, there are 190 cybersecurity companies operating in the market:
 
 #### A
