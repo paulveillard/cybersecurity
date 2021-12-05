@@ -44,7 +44,7 @@ Today, The field of **cybersecurity** can be categorized into ten (10) main doma
 - ### Security Architecture and Design
 
 
-- ### Operations Security & Threat Intelligence
+- ### Operations Security & [Threat Intelligence](https://github.com/paulveillard/cybersecurity-threat-intelligence)
 
 
 - ### Business Continuity and Disaster Recovery Planning
