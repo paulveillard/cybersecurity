@@ -16,7 +16,7 @@ Today, The field of **cybersecurity** can be categorized into main ten (10) doma
 -  Software Development Security
 -  Cryptography
 -  Security Architecture and Design
--  Operations Security
+-  Operations Security & Threat Intelligence
 -  Business Continuity and Disaster Recovery Planning
 -  Legal, Regulations, Investigations and Compliance
 -  Physical (Environmental) Security
@@ -44,7 +44,7 @@ Today, The field of **cybersecurity** can be categorized into main ten (10) doma
 - ### Security Architecture and Design
 
 
-- ### Operations Security
+- ### Operations Security & Threat Intelligence
 
 
 - ### Business Continuity and Disaster Recovery Planning
