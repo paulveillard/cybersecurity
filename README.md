@@ -8,7 +8,7 @@ Digital technologies lie at the heart of nearly every industry today. The automa
 
 
 
-Today, The field of **cybersecurity** can be categorized into main ten (10) domains: 
+Today, The field of **cybersecurity** can be categorized into ten (10) main domains: 
 ```
 -  Access Control
 -  Telecommunications and Network Security
