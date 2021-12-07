@@ -80,39 +80,37 @@ Today, The field of **cybersecurity** can be categorized into ten (10) main doma
 ### Security Domains
 
 
-## Top 10 Cybersecurity Domains
-
-- ### Access Control
+* Access Control
 
 
-- ### Telecommunications and Network Security
+* Telecommunications and Network Security
 
 
-- ### Information Security Governance and Risk Management
+* Information Security Governance and Risk Management
 
 
-- ### Software Development Security
+* Software Development Security
 
 
-- ### [Cryptography](https://github.com/sobolevn/awesome-cryptography)
+* [Cryptography](https://github.com/sobolevn/awesome-cryptography)
 
 
-- ### Security Architecture and Design
+* Security Architecture and Design
 
 
-- ### Operations Security & [Threat Intelligence](https://github.com/paulveillard/cybersecurity-threat-intelligence)
+* Operations Security & [Threat Intelligence](https://github.com/paulveillard/cybersecurity-threat-intelligence)
 
 
-- ### Business Continuity and Disaster Recovery Planning
+* Business Continuity and Disaster Recovery Planning
 
 
-- ### Legal, Regulations, Investigations and Compliance
+* Legal, Regulations, Investigations and Compliance
 
 
-- ### [Physical (Environmental) Security](https://github.com/paulveillard/cybersecurity-industrial-control-systems-security)
+* [Physical (Environmental) Security](https://github.com/paulveillard/cybersecurity-industrial-control-systems-security)
 
 
-## Top 15 Cybersecurity Sectors
+### Security Sectors
 From a market perspective, Current & emerging technologies & services, key facts, sector background and analysis of the following 15 cybersecurity sectors: 
 
 1. Endpoint Security 
