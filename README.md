@@ -175,11 +175,11 @@ Kaspersky Lab, L-3 Communications, Lacoon Security Ltd, Lancope, LANDesk Softwar
 ## Security Publications
 ### [Publications](https://toppub.xyz/publications/tags/1218) on Small, Medium, and Large Businesses
 
-- #### InfoSec Write-ups 	
+- #### [InfoSec Write-ups](https://infosecwriteups.com/) 	
 
 > ###### A collection of write-ups from the best hackers in the world on topics ranging from bug bounties and CTFs to vulnhub machines, hardware challenges and real life encounters. In a nutshell, we are the largest InfoSec publication on Medium. 	
 	
-- ####  PC Magazine 
+- ####  [PC Magazine](https://www.pcmag.com/categories/security) 
 > ###### PC Magazine: redefining technology news and reviews since 1982.
 
 - ####  Threat Intel 	
