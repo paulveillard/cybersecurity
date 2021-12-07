@@ -92,7 +92,7 @@ Today, The field of **cybersecurity** can be categorized into ten (10) main doma
 * Software Development Security
 
 
-* [Cryptography](https://github.com/sobolevn/awesome-cryptography)
+* [Cryptography](https://github.com/paulveillard/cybersecurity-cryptography)
 
 
 * Security Architecture and Design
@@ -130,7 +130,8 @@ From a market perspective, Current & emerging technologies & services, key facts
 15. Vulnerability/Risk Management & Managed Security Services
 
 
-## Top 200 Cybersecurity Vendors
+### Security Vendors
+> Top 200 Cybersecurity Vendors
 From Marketwatch [Cybersecurity Market 2021-2030](https://www.marketwatch.com/press-release/cybersecurity-market-2021-2030-leading-major-countries-impact-of-covid-19-regional-growth-future-status-and-outlook-technological-factors-and-forecast-period-of-2030-2021-09-16?tesla=y) as of september 2021, there have been 190 cybersecurity companies operating in the market:
 
 #### A
@@ -171,7 +172,7 @@ Kaspersky Lab, L-3 Communications, Lacoon Security Ltd, Lancope, LANDesk Softwar
 #### X
 
 
-## Top Cybersecurity Publications
+## Security Publications
 ### [Publications](https://toppub.xyz/publications/tags/1218) on Small, Medium, and Large Businesses
 
 - #### InfoSec Write-ups 	
@@ -221,11 +222,6 @@ Kaspersky Lab, L-3 Communications, Lacoon Security Ltd, Lancope, LANDesk Softwar
   
 - ####  Privacy Guy 	
 > ######  The Internet Privacy Expert discussing the latest news about privacy and internet security.
-
-
-
-
-
 
 
 
