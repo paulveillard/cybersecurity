@@ -7,7 +7,7 @@
 
 ![cybersecurity](https://github.com/paulveillard/cybersecurity/blob/main/cyber-security.png)
 
-**[Cybersecurity](https://en.wikipedia.org/wiki/Computer_security), computer security, or information technology security (IT Security)**  is  a  very  important  part  of  the  cyber  world. [Cybersecurity](https://www.cisco.com/c/en/us/products/security/what-is-cybersecurity.html) is the practice of protecting systems, networks, and programs from digital attacks.
+**[Cybersecurity](https://en.wikipedia.org/wiki/Computer_security), computer security, or information technology security (IT Security)**  is  a  very  important  part  of  the  cyber  world. 
 
 
 
