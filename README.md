@@ -131,8 +131,8 @@ From a market perspective, Current & emerging technologies & services, key facts
 
 
 ### Security Vendors
-> Top 200 Cybersecurity Vendors
-From Marketwatch [Cybersecurity Market 2021-2030](https://www.marketwatch.com/press-release/cybersecurity-market-2021-2030-leading-major-countries-impact-of-covid-19-regional-growth-future-status-and-outlook-technological-factors-and-forecast-period-of-2030-2021-09-16?tesla=y) as of september 2021, there have been 190 cybersecurity companies operating in the market:
+#### Top 200 Cybersecurity Vendors
+> From Marketwatch [Cybersecurity Market 2021-2030](https://www.marketwatch.com/press-release/cybersecurity-market-2021-2030-leading-major-countries-impact-of-covid-19-regional-growth-future-status-and-outlook-technological-factors-and-forecast-period-of-2030-2021-09-16?tesla=y) as of september 2021, there have been 190 cybersecurity companies operating in the market:
 
 #### A
 > 41st Parameter, Accenture, Agiliance, AhnLab, Airbus, AirWatch, Akamai, Alert Logic, AlertEnterprise, AlienVault, Alt-N Technologies, Application Security, AppSense Limited, Arbor Networks, Attachmate, Authentify, AVAST Software, Aveksa, AVG Technologies, Avira, 
