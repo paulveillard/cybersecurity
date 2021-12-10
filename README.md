@@ -139,7 +139,7 @@ From a market perspective, Current & emerging technologies & services, key facts
 > From Marketwatch [Cybersecurity Market 2021-2030](https://www.marketwatch.com/press-release/cybersecurity-market-2021-2030-leading-major-countries-impact-of-covid-19-regional-growth-future-status-and-outlook-technological-factors-and-forecast-period-of-2030-2021-09-16?tesla=y) as of september 2021, there have been 190 cybersecurity companies operating in the market:
 
 #### A
-> 41st Parameter, Accenture, Agiliance, AhnLab, Airbus, AirWatch, Akamai, Alert Logic, AlertEnterprise, AlienVault, Alt-N Technologies, Application Security, AppSense Limited, Arbor Networks, Attachmate, Authentify, AVAST Software, Aveksa, AVG Technologies, Avira, 
+> [Accenture](https://www.accenture.com/ca-en/services/security-index), Agiliance, AhnLab, Airbus, AirWatch, Akamai, Alert Logic, AlertEnterprise, AlienVault, Alt-N Technologies, Application Security, AppSense Limited, Arbor Networks, Attachmate, Authentify, AVAST Software, Aveksa, AVG Technologies, Avira, 
 
 
 #### B
@@ -170,7 +170,25 @@ From a market perspective, Current & emerging technologies & services, key facts
 #### H
 > Hewlett-Packard Co, HyTrust, ID Analytics, Igloo Security Inc, Imprivata, Intel Security Group, International Business Machines Corp, Intrusion Inc, IOActive, Iovation, Juniper Network, 
 
-Kaspersky Lab, L-3 Communications, Lacoon Security Ltd, Lancope, LANDesk Software, LogRhythm, Lookingglass Cyber Solutions, Lookout Mobile, Lumension Security, M5 Network Security, Mandiant, Mantech International Corp, Memento, Merlin International, MessageLabs, MetricStream, Mobile Active Defense, Mobile Vault, MobileIron, Mobilityone Ltd, Mocana, MU Dynamics, N-Dimension Solutions, NetCentrics Corporation, Network Security Systems, Nics Tech Co. Ltd., NIKSUN, NSS Labs Inc., Odyssey Technologies, Okta, OpenDNS, Palantir Technologies Inc, Palo Alto Networks Inc, Panda Security, ParetoLogic, Perimeter Internetworking Corp., PerspecSys, Ping Identity, Prolexic Technologies, Proofpoint, Qualys Inc., Quick Heal Technologies (P) Ltd., QUMAS, QuoVadis, Radware Ltd, Rapid7, Raytheon Pikewerks Corporation, Red Lambda Inc., ReD plc, RedSeal Networks Inc., Retail Decisions Plc, RLM Communications Inc., RSA Security LLC, SafeNet Inc., SailPoint Technologies Inc., SAINT Corporation, Salient Federal Solutions Inc., SecurityMetrics, Senetas Corp Ltd, SilverSky, Skybox Security Inc., SolarWinds, Solera Networks Inc., Sophos Ltd., Sotera Defense Solutions Inc., Splunk Inc., Stormshield Network Security (Formerly: NETASQ S.A.), Strikeforce Technologies, Symantec Corporation, Sympli ied Inc., Synectics Plc, Tangoe, TeleSign Corp., Tenable Network Security, Thales, The KEYW Holding Corporation, ThreatMetrix, TIBCO Software, TraceSecurity, Trend Micro Inc, Tripwire, Trusteer, Trustwave, Utimaco Safeware Inc., Vanguard Integrity Professionals Inc., Varonis Systems, VASCO Data Security International, Venafi, Veracode, Verdasys, Verint Systems Inc, WatchGuard Technologies, Webroot, WhiteHat Security, Workshare Technology, Zix Corporation, Zscaler
+#### K
+Kaspersky Lab, 
+
+#### L
+L-3 Communications, Lacoon Security Ltd, Lancope, LANDesk Software, LogRhythm, Lookingglass Cyber Solutions, Lookout Mobile, Lumension Security, 
+
+#### M
+
+M5 Network Security, Mandiant, Mantech International Corp, Memento, Merlin International, MessageLabs, MetricStream, Mobile Active Defense, Mobile Vault, MobileIron, Mobilityone Ltd, Mocana, MU Dynamics, 
+
+#### N
+N-Dimension Solutions, NetCentrics Corporation, Network Security Systems, Nics Tech Co. Ltd., NIKSUN, NSS Labs Inc., 
+
+#### O
+
+Odyssey Technologies, Okta, OpenDNS, 
+
+#### P
+Palantir Technologies Inc, Palo Alto Networks Inc, Panda Security, ParetoLogic, Perimeter Internetworking Corp., PerspecSys, Ping Identity, Prolexic Technologies, Proofpoint, Qualys Inc., Quick Heal Technologies (P) Ltd., QUMAS, QuoVadis, Radware Ltd, Rapid7, Raytheon Pikewerks Corporation, Red Lambda Inc., ReD plc, RedSeal Networks Inc., Retail Decisions Plc, RLM Communications Inc., RSA Security LLC, SafeNet Inc., SailPoint Technologies Inc., SAINT Corporation, Salient Federal Solutions Inc., SecurityMetrics, Senetas Corp Ltd, SilverSky, Skybox Security Inc., SolarWinds, Solera Networks Inc., Sophos Ltd., Sotera Defense Solutions Inc., Splunk Inc., Stormshield Network Security (Formerly: NETASQ S.A.), Strikeforce Technologies, Symantec Corporation, Sympli ied Inc., Synectics Plc, Tangoe, TeleSign Corp., Tenable Network Security, Thales, The KEYW Holding Corporation, ThreatMetrix, TIBCO Software, TraceSecurity, Trend Micro Inc, Tripwire, Trusteer, Trustwave, Utimaco Safeware Inc., Vanguard Integrity Professionals Inc., Varonis Systems, VASCO Data Security International, Venafi, Veracode, Verdasys, Verint Systems Inc, WatchGuard Technologies, Webroot, WhiteHat Security, Workshare Technology, Zix Corporation, Zscaler
 
 
 #### X
