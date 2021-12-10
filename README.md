@@ -71,7 +71,7 @@ Today, The field of **cybersecurity** can be categorized into ten (10) main doma
   - [Datastores](#datastores)
   - [Fraud prevention](#fraud-prevention)
   - [EBooks](#ebooks)
-  - [Other Awesome Lists](#other-awesome-lists)
+  - [Other Cybersecurity Lists](#other-cybersecurity-lists)
     - [Other Security Awesome Lists](#other-security-awesome-lists)
     - [Other Common Awesome Lists](#other-common-awesome-lists)
   - [Contributing](#contributing)
@@ -593,7 +593,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking) - This list is for anyone wishing to learn about web application security but do not have a starting point.
 - [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 - [Awesome Electron.js Hacking](https://github.com/doyensec/awesome-electronjs-hacking) - A curated list of awesome resources about Electron.js (in)security
-- [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of threat intelligence resources.
+- [Cybersecurity Threat Intelligence](https://github.com/pauveillard/cybersecurity-threat-intelligence) - A curated list of threat intelligence resources.
 - [Awesome Threat Modeling](https://github.com/redshiftzero/awesome-threat-modeling) -  A curated list of threat modeling resources.
 - [Cybersecurity Cryptography](https://github.com/paulveillard/cybersecurity-cryptography) -  A curated list of cryptography resources.
 - [Awesome Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
