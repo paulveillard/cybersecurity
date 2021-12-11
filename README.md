@@ -251,9 +251,9 @@ Repository | Description
 [Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery)    | List of resources which help during asset discovery phase of a security assessment engagement
 [Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) 						| List of Bug Bounty Programs and write-ups from the Bug Bounty hunters
 [Capsulecorp Pentest](https://github.com/r3dy/capsulecorp-pentest) 						| Vagrant+Ansible virtual network penetration testing lab. Companion to "The Art of Network Penetration Testing" by Royce Davis 
-[CTF](https://github.com/apsdehal/awesome-ctf) 										| List of CTF frameworks, libraries, resources and softwares
+[CTF](https://github.com/paulveillard/cybersecurity-ctf) 										| List of CTF frameworks, libraries, resources and softwares
 [Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) | Curated list of hacking environments where you can train your cyber skills legally and safely
-[DevSecOps](https://github.com/devsecops/awesome-devsecops) 						| List of awesome DevSecOps tools with the help from community experiments and contributions
+[DevSecOps](https://github.com/paulveillard/cybersecurity-devsecops) 						| List of awesome DevSecOps tools with the help from community experiments and contributions
 [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) | A curated list of awesome resources about embedded and IoT security
 [Exploit Development](https://github.com/FabioBaroni/awesome-exploit-development) 	| Resources for learning about Exploit Development
 [Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) 								| List of fuzzing resources for learning Fuzzing and initial phases of Exploit Development like root cause analysis
@@ -269,7 +269,7 @@ Repository | Description
 [OSINT](https://github.com/jivoi/awesome-osint) 									 | List of amazingly awesome Open Source Intelligence (OSINT) tools and resources
 [OSX and iOS Security](https://github.com/ashishb/osx-and-ios-security-awesome) 	| OSX and iOS related security tools
 [Pcaptools](https://github.com/caesar0301/awesome-pcaptools) 						| Collection of tools developed by researchers in the Computer Science area to process network traces
-[Pentest](https://github.com/enaqx/awesome-pentest) 								| List of awesome penetration testing resources, tools and other shiny things
+[Penetration testing](https://github.com/paulveillard/cybersecurity-penetration-testing) 								| List of awesome penetration testing resources, tools and other shiny things
 [PHP Security](https://github.com/ziadoz/awesome-php#security) 						| Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities
 [Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) | List of Awesome Red Team / Red Teaming Resources
 [Reversing](https://github.com/fdivrp/awesome-reversing) 						| List of awesome reverse engineering resources
