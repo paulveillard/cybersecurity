@@ -242,7 +242,7 @@ Palantir Technologies Inc, Palo Alto Networks Inc, Panda Security, ParetoLogic, 
 > ######  The Internet Privacy Expert discussing the latest news about privacy and internet security.
 
 
-## Security Extras
+## Security Repositories
 
 Repository | Description
 ---- | ----
