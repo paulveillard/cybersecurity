@@ -205,28 +205,21 @@ Palantir Technologies Inc, Palo Alto Networks Inc, Panda Security, ParetoLogic, 
 	
 * [DoublePulsar](https://doublepulsar.com/) - Cybersecurity from the trenches, written by Kevin Beaumont. Opinions are of the author alone, not their employer. 	
 
-* [MITRE ATT&CK®]( https://attack.mitre.org) - This is the official blog for MITRE ATT&CK®, the MITRE-developed, globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.  	
+* [MITRE ATT&CK®](https://attack.mitre.org) - This is the official blog for MITRE ATT&CK®, the MITRE-developed, globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.  	
 
-* ASecuritySite: When Bob Met Alice - This publication brings together interesting articles related to cyber security. 	
+* [ASecuritySite](https://asecuritysite.com/) - This publication brings together interesting articles related to cyber security. 	
 
-- #### Hedera Hashgraph Blog 	
-> ###### Hedera is a decentralized public network where anyone can carve out a piece of cyberspace to transact, play, and socialize in a secure, trusted environment. 
+* [Hedera Hashgraph Blog](https://hedera.com/blog) - Hedera is a decentralized public network where anyone can carve out a piece of cyberspace to transact, play, and socialize in a secure, trusted environment. 
 	
-- #### Decoded 	
-> ###### New skills for a new world 	
+* [Decoded](https://decoded.com/) - New skills for a new world 	
 
-- #### [SFU Professional Master’s Program in Computer Science]( https://sfu.ca/computing/pmp) 	
-> ###### This is an unofficial publication written and maintained by students in the Professional Master’s Program in the School of Computing Science at Simon Fraser University. 
+* [SFU Professional Master’s Program in Computer Science]( https://sfu.ca/computing/pmp) - This is an unofficial publication written and maintained by students in the Professional Master’s Program in the School of Computing Science at Simon Fraser University. 
 	
-- #### Anton on Security 	
-> ###### A new start for my security blog. Also see our podcast at bit.ly/CloudSecPodcast 
+* [Anton on Security](https://medium.com/anton-on-security) - A new start for my security blog. Also see our podcast at bit.ly/CloudSecPodcast 
 	
-  
-- #### CTF Writeups 	
-> ###### A collection of write-ups for various systems. 
+* [CTF Writeups](https://ctftime.org/writeups) - A collection of write-ups for various systems. 
 	
-- #### Uber Privacy & Security 	
-> ###### Insights and updates from Uber’s security and privacy teams 	
+* Uber Privacy & Security - Insights and updates from Uber’s security and privacy teams 	
 
 - #### Cobalt.io 	
 > ######  Connecting the global application security community to enterprises. 
