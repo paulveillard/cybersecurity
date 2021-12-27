@@ -219,17 +219,13 @@ Palantir Technologies Inc, Palo Alto Networks Inc, Panda Security, ParetoLogic, 
 	
 * [CTF Writeups](https://ctftime.org/writeups) - A collection of write-ups for various systems. 
 	
-* Uber Privacy & Security - Insights and updates from Uber’s security and privacy teams 	
+* [Uber Privacy & Security](https://medium.com/uber-security-privacy) - Insights and updates from Uber’s security and privacy teams 	
 
-- #### Cobalt.io 	
-> ######  Connecting the global application security community to enterprises. 
+* [Cobalt.io](https://cobalt.io/) - Connecting the global application security community to enterprises. 
 	
-- #### Independent Security Evaluators 	
-> ######  Security specialists that provide custom services including security assessments and software development. ISE also runs IoT Village, which hosts talks by expert security researchers and hacking contests. 
+* [Independent Security Evaluators](https://www.ise.io/) - Security specialists that provide custom services including security assessments and software development. ISE also runs IoT Village, which hosts talks by expert security researchers and hacking contests. 
   
-  
-- ####  Privacy Guy 	
-> ######  The Internet Privacy Expert discussing the latest news about privacy and internet security.
+* [Privacy Guy](https://medium.com/@internetprivacyguy) - The Internet Privacy Expert discussing the latest news about privacy and internet security.
 
 - ####  Freeman Spogli Institute for International Studies	
 > The Freeman Spogli Institute for International Studies is Stanford’s premier research institute for global affairs.	
