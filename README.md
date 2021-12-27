@@ -3,6 +3,7 @@
 > A collection of awesome software, libraries, documents, books, resources and cool stuff about cybersecurity.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
+## What is Cybersecurity?
 [Cybersecurity](https://www.cisco.com/c/en/us/products/security/what-is-cybersecurity.html) is the practice of protecting systems, networks, and programs from digital attacks. Digital technologies lie at the heart of nearly every industry today. The automation and greater connectedness they afford have revolutionized the world’s economic and cultural institutions — but they’ve also brought risk in the form of cyberattacks. Securing applications, data, and digital networks has come to be one of the biggest challenges. 
 
 ![cybersecurity](https://github.com/paulveillard/cybersecurity/blob/main/img/cybersecurity.png)
