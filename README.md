@@ -241,6 +241,24 @@ Palantir Technologies Inc, Palo Alto Networks Inc, Panda Security, ParetoLogic, 
 - ####  Privacy Guy 	
 > ######  The Internet Privacy Expert discussing the latest news about privacy and internet security.
 
+- ####  Freeman Spogli Institute for International Studies	
+> The Freeman Spogli Institute for International Studies is Stanford’s premier research institute for global affairs.	
+e-tech	stories about the impact of smart technologies on our daily lives	
+- Huntress	Cybersecurity for the 99%	
+- The Salty Hash	Tips, tricks, pointers and perspectives on building secure, testable, maintainable apps. Thoughts and observations about security and privacy from IronCore Labs.	
+- MITRE-Engenuity	MITRE Engenuity carries the MITRE Corporation’s heritage of trust, objectivity and groundbreaking systems engineering. We are an independent organization, but we uphold MITRE’s mission of a safer world and commitment to the greater good.	
+- Confiant	Confiant was formed out of a recognition that the world’s most sophisticated advertisers aren’t Verizon or P&G, but criminals using the industry for their own, selfish ends. We believe in the intelligent application of technology to fight back and make media safe for everyone.	
+- Bob Kfir’s Tech Blog	A technology blog with an emphasis on cybersecurity and privacy.	
+- Techiepedia	Where Innovation is Composed	
+- Security Compass	Infosec related news and information, from our very own employees! Visit us at www.securitycompass.com
+- Purple TEAM	Help cybersecurity professionals to enhance their knowledge.	
+- ScaleSec	ScaleSec blog for cloud security and compliance	204
+- MII Cyber Security Consulting Services	MII Cyber Security Consulting Services is a division under PT. Mitra Integrasi Informatika and part of Metrodata Group. 
+- MII Cyber Security Consulting Services provide following services : Security Assessment, DFIR Services, MSS SOC, Training, and other cyber security fields.	
+CyberArk Engineering	Tales of technology, architecture, software, security, and innovation from CyberArk’s world-class engineering team	
+	System Weakness	System Weakness is a publication that specialises in publishing upcoming writers in cybersecurity and ethical hacking space. Our security experts write to make the cyber universe more secure, one vulnerability at a time.	
+- CSG @ GovTech	CSG — cyber lead for the Singapore Government sector — keeping the Singapore Government’s ICT and Smart Systems safe and secure. Our blog is all about the techniques and technologies in cybersecurity. Check out our weekly posts; till then, keep cyber safe, and cyber ready!
+
 
 ## Security Repositories
 
