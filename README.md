@@ -201,15 +201,13 @@ Palantir Technologies Inc, Palo Alto Networks Inc, Panda Security, ParetoLogic, 
 	
 * [PC Magazine](https://www.pcmag.com/categories/security) - PC Magazine: redefining technology news and reviews since 1982.
 
-* Threat Intel - Insights into the world of threat intelligence, cybercrime and IT security. Brought to you by researchers at Symantec. 	
+* [Threat Intel](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence) - Insights into the world of threat intelligence, cybercrime and IT security. Brought to you by researchers at Symantec. 	
 	
-* DoublePulsar - Cybersecurity from the trenches, written by Kevin Beaumont. Opinions are of the author alone, not their employer. 	
+* [DoublePulsar](https://doublepulsar.com/) - Cybersecurity from the trenches, written by Kevin Beaumont. Opinions are of the author alone, not their employer. 	
 
-- #### [MITRE ATT&CK®]( https://attack.mitre.org) 	
-> ###### This is the official blog for MITRE ATT&CK®, the MITRE-developed, globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.  	
+* [MITRE ATT&CK®]( https://attack.mitre.org) - This is the official blog for MITRE ATT&CK®, the MITRE-developed, globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.  	
 
- - #### ASecuritySite: When Bob Met Alice 	
-> ###### This publication brings together interesting articles related to cyber security. 	
+* ASecuritySite: When Bob Met Alice - This publication brings together interesting articles related to cyber security. 	
 
 - #### Hedera Hashgraph Blog 	
 > ###### Hedera is a decentralized public network where anyone can carve out a piece of cyberspace to transact, play, and socialize in a secure, trusted environment. 
