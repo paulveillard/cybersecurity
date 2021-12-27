@@ -689,7 +689,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 
 - [Cybersecurity Android Security](https://github.com/paulveillard/cybersecurity-android-security) - A collection of android security related resources.
 - [Cybersecurity macOS & iOS Security](https://github.com/paulveillard/cybersecurity-macOS-iOS-security) - A collection of macOS and iOS security related resources.
-- [Awesome ARM Exploitation](https://github.com/HenryHoggard/awesome-arm-exploitation) - A curated list of ARM exploitation resources.
+- [Cybersecurity ARM Exploitation](https://github.com/paulveillard/cybersecurity-windows-exploitation) - A curated list of Windows & ARM exploitation resources.
 - [Cybersecurity CTF](https://github.com/paulveillard/cybersecurity-ctf) - A curated list of CTF frameworks, libraries, resources and software.
 - [Awesome Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) - A curated list of hacking environments where you can train your cyber skills legally and safely.
 - [Awesome Personal Security](https://github.com/Lissy93/personal-security-checklist) - A curated list of digital security and privacy tips, with links to further resources.
