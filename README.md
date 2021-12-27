@@ -203,8 +203,7 @@ Palantir Technologies Inc, Palo Alto Networks Inc, Panda Security, ParetoLogic, 
 
 * Threat Intel - Insights into the world of threat intelligence, cybercrime and IT security. Brought to you by researchers at Symantec. 	
 	
-- ####  DoublePulsar 	
-> ###### Cybersecurity from the trenches, written by Kevin Beaumont. Opinions are of the author alone, not their employer. 	
+* DoublePulsar - Cybersecurity from the trenches, written by Kevin Beaumont. Opinions are of the author alone, not their employer. 	
 
 - #### [MITRE ATT&CK®]( https://attack.mitre.org) 	
 > ###### This is the official blog for MITRE ATT&CK®, the MITRE-developed, globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.  	
