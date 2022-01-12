@@ -701,7 +701,7 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [Awesome PCAP Tools](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces.
 - [Cybersecurity Penetration Testing](https://github.com/paulveillard/cybersecurity-penetration-testing) - A collection of awesome penetration testing resources, tools and other shiny things.
 - [Awesome Linux Containers](https://github.com/Friz-zy/awesome-linux-containers) - A curated list of awesome Linux Containers frameworks, libraries and software.
-- [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) - A curated list of resources for incident response.
+- [Cybersecurity Incident Response](https://github.com/paulveillard/cybersecurity-incident-response) - A curated list of resources for incident response.
 - [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking) - This list is for anyone wishing to learn about web application security but do not have a starting point.
 - [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 - [Awesome Electron.js Hacking](https://github.com/doyensec/awesome-electronjs-hacking) - A curated list of awesome resources about Electron.js (in)security
