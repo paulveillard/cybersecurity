@@ -270,7 +270,7 @@ Repository | Description
 [Honeypots](https://github.com/paralax/awesome-honeypots) 							| List of honeypot resources
 [Incident Response](https://github.com/meirwah/awesome-incident-response) 			| List of tools for incident response
 [Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security)      | List of resources related to Industrial Control System (ICS) security
-[InfoSec](https://github.com/onlurking/awesome-infosec) 							| List of awesome infosec courses and training resources
+[InfoSec](https://github.com/paulveillard/cybersecurity-infosec) 							| List of awesome infosec courses and training resources
 [IoT Hacks](https://github.com/nebgnahz/awesome-iot-hacks) 							| Collection of Hacks in IoT Space
 [Mainframe Hacking](https://github.com/samanL33T/Awesome-Mainframe-Hacking) 				| List of Awesome Mainframe Hacking/Pentesting Resources
 [Malware Analysis](https://github.com/paulveillard/cybersecurity-malware-analysis) 				| List of awesome malware analysis tools and resources
@@ -292,7 +292,7 @@ Repository | Description
 [Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) 	| List of resources for learning about vehicle security and car hacking
 [Vulnerability Research](https://github.com/re-pronin/awesome-vulnerability-research) | List of resources about Vulnerability Research
 [Web Hacking](https://github.com/infoslack/awesome-web-hacking) 					| List of web application security
-[Windows Exploitation - Advanced](https://github.com/paulveillard/cybersecurity) | List of Awesome Advanced Windows Exploitation References
+[Windows Exploitation - Advanced](https://github.com/paulveillard/cybersecurity-windows-exploitation) | List of Awesome Advanced Windows Exploitation References
 [WiFi Arsenal](https://github.com/0x90/wifi-arsenal) 								| Pack of various useful/useless tools for 802.11 hacking
 [YARA](https://github.com/InQuest/awesome-yara)                                     | List of awesome YARA rules, tools, and people
 [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)                                     | A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking.
