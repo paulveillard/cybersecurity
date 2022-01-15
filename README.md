@@ -255,7 +255,7 @@ CyberArk Engineering	Tales of technology, architecture, software, security, and 
 Repository | Description
 ---- | ----
 [Android Security](https://github.com/paulveillard/cybersecurity-android-security) 			| Collection of Android security related resources
-[AppSec](https://github.com/paragonie/awesome-appsec)								| Resources for learning about application security
+[AppSec](https://github.com/paulveillard/cybersecurity-appsec)								| Resources for learning about application security
 [Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery)    | List of resources which help during asset discovery phase of a security assessment engagement
 [Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) 						| List of Bug Bounty Programs and write-ups from the Bug Bounty hunters
 [Capsulecorp Pentest](https://github.com/r3dy/capsulecorp-pentest) 						| Vagrant+Ansible virtual network penetration testing lab. Companion to "The Art of Network Penetration Testing" by Royce Davis 
@@ -265,7 +265,7 @@ Repository | Description
 [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) | A curated list of awesome resources about embedded and IoT security
 [Exploit Development](https://github.com/FabioBaroni/awesome-exploit-development) 	| Resources for learning about Exploit Development
 [Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) 								| List of fuzzing resources for learning Fuzzing and initial phases of Exploit Development like root cause analysis
-[Hacking](https://github.com/carpedm20/awesome-hacking) 						| List of awesome Hacking tutorials, tools and resources
+[Hacking](https://github.com/paulveillard/cybersecurity-hacking) 						| List of awesome Hacking tutorials, tools and resources
 [Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)          | Collection of hacking / penetration testing resources to make you better!
 [Honeypots](https://github.com/paralax/awesome-honeypots) 							| List of honeypot resources
 [Incident Response](https://github.com/meirwah/awesome-incident-response) 			| List of tools for incident response
@@ -283,7 +283,7 @@ Repository | Description
 [Reversing](https://github.com/fdivrp/awesome-reversing) 						| List of awesome reverse engineering resources
 [Sec Talks](https://github.com/PaulSec/awesome-sec-talks) 							| List of awesome security talks
 [SecLists](https://github.com/danielmiessler/SecLists) 								| Collection of multiple types of lists used during security assessments
-[Security](https://github.com/sbilly/awesome-security) 								| Collection of awesome software, libraries, documents, books, resources and cools stuffs about security
+[Security](https://github.com/paulveillard/cybersecurity) 								| Collection of awesome software, libraries, documents, books, resources and cools stuffs about security
 [Serverless Security](https://github.com/puresec/awesome-serverless-security/) 			| Collection of Serverless security related resources
 [Social Engineering](https://github.com/v2-dev/awesome-social-engineering) | List of awesome social engineering resources
 [Static Analysis](https://github.com/mre/awesome-static-analysis) 					| List of static analysis tools, linters and code quality checkers for various programming languages
@@ -292,7 +292,7 @@ Repository | Description
 [Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) 	| List of resources for learning about vehicle security and car hacking
 [Vulnerability Research](https://github.com/re-pronin/awesome-vulnerability-research) | List of resources about Vulnerability Research
 [Web Hacking](https://github.com/infoslack/awesome-web-hacking) 					| List of web application security
-[Windows Exploitation - Advanced](https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References) | List of Awesome Advanced Windows Exploitation References
+[Windows Exploitation - Advanced](https://github.com/paulveillard/cybersecurity) | List of Awesome Advanced Windows Exploitation References
 [WiFi Arsenal](https://github.com/0x90/wifi-arsenal) 								| Pack of various useful/useless tools for 802.11 hacking
 [YARA](https://github.com/InQuest/awesome-yara)                                     | List of awesome YARA rules, tools, and people
 [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap)                                     | A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking.
