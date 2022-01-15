@@ -3,7 +3,7 @@
 > A collection of awesome software, libraries, documents, books, resources and cool stuff about cybersecurity.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
-## What is Cybersecurity?
+## `What is Cybersecurity?`
 [Cybersecurity](https://www.cisco.com/c/en/us/products/security/what-is-cybersecurity.html) is the practice of protecting systems, networks, and programs from digital attacks. Digital technologies lie at the heart of nearly every industry today. The automation and greater connectedness they afford have revolutionized the world’s economic and cultural institutions — but they’ve also brought risk in the form of cyberattacks. Securing applications, data, and digital networks has come to be one of the biggest challenges. 
 
 ![cybersecurity](https://github.com/paulveillard/cybersecurity/blob/main/img/cybersecurity.png)
@@ -27,7 +27,7 @@ Today, The field of **cybersecurity** can be categorized into ten (10) main doma
 -  Physical (Environmental) Security
 ```
 
-## Contents
+## `Table of Contents`
   - [Cybersecurity](#cybersecurity)
     - [Security Domains](#security-domains)
     - [Security Sectors](#security-domains)
@@ -80,7 +80,7 @@ Today, The field of **cybersecurity** can be categorized into ten (10) main doma
 ------
 
 
-## Cybersecurity
+## `Cybersecurity`
 
 ![cybersecurity](https://github.com/paulveillard/cybersecurity/blob/main/cyber-security.png)
 
@@ -117,7 +117,7 @@ Today, The field of **cybersecurity** can be categorized into ten (10) main doma
 * [Physical (Environmental) Security](https://github.com/paulveillard/cybersecurity-industrial-control-systems-security)
 
 
-### Security Sectors
+### `Security Sectors`
 From a market perspective, Current & emerging technologies & services, key facts, sector background and analysis of the following 15 cybersecurity sectors: 
 
 1. Endpoint Security 
@@ -137,7 +137,7 @@ From a market perspective, Current & emerging technologies & services, key facts
 15. Vulnerability/Risk Management & Managed Security Services
 
 
-### Security Vendors
+### `Security Vendors`
 #### Top 200 Cybersecurity Vendors
 > From Marketwatch [Cybersecurity Market 2021-2030](https://www.marketwatch.com/press-release/cybersecurity-market-2021-2030-leading-major-countries-impact-of-covid-19-regional-growth-future-status-and-outlook-technological-factors-and-forecast-period-of-2030-2021-09-16?tesla=y) as of september 2021, there have been 190 cybersecurity companies operating in the market:
 
@@ -197,7 +197,7 @@ Palantir Technologies Inc, Palo Alto Networks Inc, Panda Security, ParetoLogic, 
 #### X
 
 
-## Security Publications
+## `Security Publications`
 ### [Publications](https://toppub.xyz/publications/tags/1218) on Small, Medium, and Large Businesses
 
 * [InfoSec Write-ups](https://infosecwriteups.com/) - A collection of write-ups from the best hackers in the world on topics ranging from bug bounties and CTFs to vulnhub machines, hardware challenges and real life encounters. In a nutshell, we are the largest InfoSec publication on Medium. 	
