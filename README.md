@@ -28,7 +28,6 @@ Today, The field of **cybersecurity** can be categorized into ten (10) main doma
 -  Physical (Environmental) Security
 ```
 
-![cybersecurity](https://github.com/paulveillard/cybersecurity/blob/main/img/Cyber-Security-Awareness-Hub-icon.png)
 
 ## `Table of Contents`
   - [Cybersecurity](#cybersecurity)
