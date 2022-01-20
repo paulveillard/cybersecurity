@@ -6,7 +6,8 @@
 ## `What is Cybersecurity?`
 [Cybersecurity](https://www.cisco.com/c/en/us/products/security/what-is-cybersecurity.html) is the practice of protecting systems, networks, and programs from digital attacks. Digital technologies lie at the heart of nearly every industry today. The automation and greater connectedness they afford have revolutionized the world’s economic and cultural institutions — but they’ve also brought risk in the form of cyberattacks. Securing applications, data, and digital networks has come to be one of the biggest challenges. 
 
-![cybersecurity](https://github.com/paulveillard/cybersecurity/blob/main/img/Cyber-Security-Awareness-Hub-icon.png)
+
+![security](https://github.com/paulveillard/cybersecurity/blob/main/img/Cyber-Security-Download-PNG-Image.png)
 
 **[Cybersecurity](https://en.wikipedia.org/wiki/Computer_security), computer security, or information technology security (IT Security)**  is  a  very  important  part  of  the  cyber  world. 
 
@@ -27,7 +28,7 @@ Today, The field of **cybersecurity** can be categorized into ten (10) main doma
 -  Physical (Environmental) Security
 ```
 
-
+![cybersecurity](https://github.com/paulveillard/cybersecurity/blob/main/img/Cyber-Security-Awareness-Hub-icon.png)
 
 ## `Table of Contents`
   - [Cybersecurity](#cybersecurity)
