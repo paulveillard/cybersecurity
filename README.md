@@ -252,7 +252,7 @@ CyberArk Engineering	Tales of technology, architecture, software, security, and 
 - CSG @ GovTech	CSG — cyber lead for the Singapore Government sector — keeping the Singapore Government’s ICT and Smart Systems safe and secure. Our blog is all about the techniques and technologies in cybersecurity. Check out our weekly posts; till then, keep cyber safe, and cyber ready!
 
 
-## Security Repositories
+## `Security Repositories`
 
 Repository | Description
 ---- | ----
@@ -340,7 +340,7 @@ Repository | Description
 
 
 
-## Network
+## `Network`
 
 ### Scanning / Pentesting
 
