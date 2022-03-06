@@ -176,50 +176,55 @@ From a market perspective, Current & emerging technologies & services, key facts
 > Hewlett-Packard Co, HyTrust, ID Analytics, Igloo Security Inc, Imprivata, Intel Security Group, International Business Machines Corp, Intrusion Inc, IOActive, Iovation, Juniper Network, 
 
 #### K
-Kaspersky Lab, 
+> Kaspersky Lab, 
 
 #### L
-L-3 Communications, Lacoon Security Ltd, Lancope, LANDesk Software, LogRhythm, Lookingglass Cyber Solutions, Lookout Mobile, Lumension Security, 
+> L-3 Communications, Lacoon Security Ltd, Lancope, LANDesk Software, LogRhythm, Lookingglass Cyber Solutions, Lookout Mobile, Lumension Security, 
 
 #### M
-
-M5 Network Security, Mandiant, Mantech International Corp, Memento, Merlin International, MessageLabs, MetricStream, Mobile Active Defense, Mobile Vault, MobileIron, Mobilityone Ltd, Mocana, MU Dynamics, 
+> M5 Network Security, Mandiant, Mantech International Corp, Memento, Merlin International, MessageLabs, MetricStream, Mobile Active Defense, Mobile Vault, MobileIron, Mobilityone Ltd, Mocana, MU Dynamics, 
 
 #### N
-N-Dimension Solutions, NetCentrics Corporation, Network Security Systems, Nics Tech Co. Ltd., NIKSUN, NSS Labs Inc., 
+> N-Dimension Solutions, NetCentrics Corporation, Network Security Systems, Nics Tech Co. Ltd., NIKSUN, NSS Labs Inc., 
 
 #### O
-
-Odyssey Technologies, Okta, OpenDNS, 
+> Odyssey Technologies, Okta, OpenDNS, 
 
 #### P
-Palantir Technologies Inc, Palo Alto Networks Inc, Panda Security, ParetoLogic, Perimeter Internetworking Corp., PerspecSys, Ping Identity, Prolexic Technologies, Proofpoint, 
+> Palantir Technologies Inc, Palo Alto Networks Inc, Panda Security, ParetoLogic, Perimeter Internetworking Corp., PerspecSys, Ping Identity, Prolexic Technologies, Proofpoint, 
 
 #### Q
-Qualys Inc., Quick Heal Technologies (P) Ltd., QUMAS, QuoVadis, 
-
-Radware Ltd, Rapid7, Raytheon Pikewerks Corporation, Red Lambda Inc., ReD plc, RedSeal Networks Inc., Retail Decisions Plc, RLM Communications Inc., RSA Security LLC,
+> Qualys Inc., Quick Heal Technologies (P) Ltd., QUMAS, QuoVadis, 
 
 
-SafeNet Inc., SailPoint Technologies Inc., SAINT Corporation, Salient Federal Solutions Inc., SecurityMetrics, Senetas Corp Ltd, SilverSky, Skybox Security Inc., SolarWinds, Solera Networks Inc., Sophos Ltd., Sotera Defense Solutions Inc., Splunk Inc., Stormshield Network Security (Formerly: NETASQ S.A.), Strikeforce Technologies, Symantec Corporation, Sympli ied Inc., Synectics Plc, 
+#### R
+> Radware Ltd, Rapid7, Raytheon Pikewerks Corporation, Red Lambda Inc., ReD plc, RedSeal Networks Inc., Retail Decisions Plc, RLM Communications Inc., RSA Security LLC,
 
+#### S
+>SafeNet Inc., SailPoint Technologies Inc., SAINT Corporation, Salient Federal Solutions Inc., SecurityMetrics, Senetas Corp Ltd, SilverSky, Skybox Security Inc., SolarWinds, Solera Networks Inc., Sophos Ltd., Sotera Defense Solutions Inc., Splunk Inc., Stormshield Network Security (Formerly: NETASQ S.A.), Strikeforce Technologies, Symantec Corporation, Sympli ied Inc., Synectics Plc, 
 
-Tangoe, TeleSign Corp., Tenable Network Security, Thales, The KEYW Holding Corporation, ThreatMetrix, TIBCO Software, TraceSecurity, Trend Micro Inc, Tripwire, Trusteer, Trustwave, 
+#### T
+> Tangoe, TeleSign Corp., Tenable Network Security, Thales, The KEYW Holding Corporation, ThreatMetrix, TIBCO Software, TraceSecurity, Trend Micro Inc, Tripwire, Trusteer, Trustwave, 
 
-#### X
+#### U
 Utimaco Safeware Inc., 
 
-#### X
-Vanguard Integrity Professionals Inc., Varonis Systems, VASCO Data Security International, Venafi, Veracode, Verdasys, Verint Systems Inc, 
+#### V
+> Vanguard Integrity Professionals Inc., Varonis Systems, VASCO Data Security International, Venafi, Veracode, Verdasys, Verint Systems Inc, 
+
+
+#### w
+> WatchGuard Technologies, Webroot, WhiteHat Security, Workshare Technology, 
 
 
 #### X
-WatchGuard Technologies, Webroot, WhiteHat Security, Workshare Technology, 
+> 
 
-#### X
+#### Y
+> 
 
 #### Z
-Zix Corporation, Zscaler
+> Zix Corporation, Zscaler
 
 
 
