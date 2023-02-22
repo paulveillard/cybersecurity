@@ -148,7 +148,7 @@ From Marketwatch [Cybersecurity Market 2021-2030](https://www.marketwatch.com/pr
 
 
 #### B
-> Barracuda Networks, Beyond Security, BeyondTrust, Bit9, Bitdefender, BlackBerry, BlackStratus, Blue Coat Systems, BoxTone, Bromium, BullGuard, 
+> [Barracuda Networks](https://www.barracuda.com/), Beyond Security, BeyondTrust, Bit9, Bitdefender, BlackBerry, BlackStratus, Blue Coat Systems, BoxTone, Bromium, BullGuard, 
 
 
 #### C
