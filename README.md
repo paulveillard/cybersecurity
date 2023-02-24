@@ -144,7 +144,7 @@ From a market perspective, Current & emerging technologies & services, key facts
 From Marketwatch [Cybersecurity Market 2021-2030](https://www.marketwatch.com/press-release/cybersecurity-market-2021-2030-leading-major-countries-impact-of-covid-19-regional-growth-future-status-and-outlook-technological-factors-and-forecast-period-of-2030-2021-09-16?tesla=y) as of september 2021, there have been 190 cybersecurity companies operating in the market:
 
 #### A
-> [Accenture](https://www.accenture.com/ca-en/services/security-index), [Agiliance](https://www.resolver.com/), [AhnLab](https://global.ahnlab.com/site/main.do), [Airbus](https://www.airbus.com/en/products-services/security/cybersecurity), [AirWatch](https://www.vmware.com/products/workspace-one.html), [Akamai](https://www.akamai.com/solutions/security), Alert Logic, AlertEnterprise, AlienVault, Alt-N Technologies, Application Security, AppSense Limited, Arbor Networks, Attachmate, Authentify, AVAST Software, Aveksa, AVG Technologies, Avira, 
+> [Accenture](https://www.accenture.com/ca-en/services/security-index), [Agiliance](https://www.resolver.com/), [AhnLab](https://global.ahnlab.com/site/main.do), [Airbus](https://www.airbus.com/en/products-services/security/cybersecurity), [AirWatch](https://www.vmware.com/products/workspace-one.html), [Akamai](https://www.akamai.com/solutions/security), [Alert Logic](https://www.alertlogic.com/), AlertEnterprise, AlienVault, Alt-N Technologies, Application Security, AppSense Limited, Arbor Networks, Attachmate, Authentify, AVAST Software, Aveksa, AVG Technologies, Avira, 
 
 
 #### B
