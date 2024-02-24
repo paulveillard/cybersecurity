@@ -4,7 +4,10 @@ An ongoing & curated collection of awesome software best practices and technique
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 ## `What is Cybersecurity?`
-[Cybersecurity](https://www.cisco.com/c/en/us/products/security/what-is-cybersecurity.html) is the practice of protecting systems, networks, and programs from digital attacks. Digital technologies lie at the heart of nearly every industry today. The automation and greater connectedness they afford have revolutionized the world’s economic and cultural institutions — but they’ve also brought risk in the form of cyberattacks. Securing applications, data, and digital networks has come to be one of the biggest challenges. 
+Cybersecurity is the collective process of protecting computer systems, networks, and programs from cyberattacks. 
+[CISA](https://www.cisa.gov/news-events/news/what-cybersecurity) defines it as "Cybersecurity is the art of protecting networks, devices, and data from unauthorized access or criminal use and the practice of ensuring confidentiality, integrity, and availability of information."
+
+- Digital technologies lie at the heart of nearly every industry today. The automation and greater connectedness they afford have revolutionized the world’s economic and cultural institutions — but they’ve also brought risk in the form of cyberattacks. Securing applications, data, and digital networks has come to be one of the biggest challenges. 
 
 
 ![security](https://github.com/paulveillard/cybersecurity/blob/main/img/Cyber-Security-Download-PNG-Image.png)
