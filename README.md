@@ -4,7 +4,7 @@ An ongoing & curated collection of awesome software best practices and technique
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 ## `What is Cybersecurity?`
-** Cybersecurity is the collective process of protecting computer systems, networks, and programs from cyberattacks.
+- Cybersecurity is the collective process of protecting computer systems, networks, and programs from cyberattacks.
 
 > [CISA](https://www.cisa.gov/news-events/news/what-cybersecurity) defines it as "Cybersecurity is the art of protecting networks, devices, and data from unauthorized access or criminal use and the practice of ensuring confidentiality, integrity, and availability of information."
 
