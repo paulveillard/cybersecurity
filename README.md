@@ -7,6 +7,7 @@ An ongoing & curated collection of awesome software best practices and technique
 - Cybersecurity is the collective process of protecting computer systems, networks, and programs from cyberattacks.
 
 > [CISA](https://www.cisa.gov/news-events/news/what-cybersecurity) defines it as "Cybersecurity is the art of protecting networks, devices, and data from unauthorized access or criminal use and the practice of ensuring confidentiality, integrity, and availability of information."
+> It seems that everything relies on computers and the internet now—communication (e.g., email, smartphones, tablets), entertainment (e.g., interactive video games, social media, apps ), transportation (e.g., navigation systems), shopping (e.g., online shopping, credit cards), medicine (e.g., medical equipment, medical records), and the list goes on. How much of your daily life relies on technology? How much of your personal information is stored either on your own computer, smartphone, tablet or on someone else's system?
 
 
 
