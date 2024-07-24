@@ -1,0 +1,748 @@
+<frameworks>
+  <framework name="aicpa_soc2_tsc">
+    <name>AICPA 2017 SOC2 Trust Services Criteria (TSC)</name>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Control%20Frameworks/AICPA%20SOC2%20Trust%20Services%20Criteria%20(TSC)/AICPA_SOC_2_TSC_2017.csv</file>
+    <columns>
+      <column>
+        <name>Framework</name>
+        <mapping>controls_control_framework</mapping>
+      </column>
+      <column>
+        <name>Control Number</name>
+        <mapping>controls_control_number</mapping>
+      </column>
+      <column>
+        <name>Control Short Name</name>
+        <mapping>controls_short_name</mapping>
+      </column>
+      <column>
+        <name>Control Long Name</name>
+        <mapping>controls_long_name</mapping>
+      </column>
+      <column>
+        <name>Control Description</name>
+        <mapping>controls_description</mapping>
+      </column>
+      <column>
+        <name>Control Family</name>
+        <mapping>controls_control_family</mapping>
+      </column>
+    </columns>
+  </framework>
+  <framework name="cis_csc">
+    <name>CIS Critical Security Controls v7</name>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Control%20Frameworks/CIS%20Critical%20Security%20Controls/CIS_Critical_Security_Controls_7.csv</file>
+    <columns>
+      <column>
+        <name>Framework</name>
+        <mapping>controls_control_framework</mapping>
+      </column>
+      <column>
+        <name>Control Number</name>
+        <mapping>controls_control_number</mapping>
+      </column>
+      <column>
+        <name>Control Priority</name>
+        <mapping>controls_control_priority</mapping>
+      </column>
+      <column>
+        <name>Control Class</name>
+        <mapping>controls_control_class</mapping>
+      </column>
+      <column>
+        <name>Control Phase</name>
+        <mapping>controls_control_phase</mapping>
+      </column>
+      <column>
+        <name>Control Short Name</name>
+        <mapping>controls_short_name</mapping>
+      </column>
+      <column>
+        <name>Control Long Name</name>
+        <mapping>controls_long_name</mapping>
+      </column>
+      <column>
+        <name>Control Description</name>
+        <mapping>controls_description</mapping>
+      </column>
+      <column>
+        <name>Control Family</name>
+        <mapping>controls_control_family</mapping>
+      </column>
+    </columns>
+  </framework>
+  <framework name="cmmc_1.02_ML1">
+    <name>CMMC v1.02 Maturity Level 1</name>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Control%20Frameworks/CMMC%20v1.02/CMMC%20v1.02%20Maturity%20Level%201.csv</file>
+    <columns>
+      <column>
+        <name>Framework Name</name>
+        <mapping>controls_control_framework</mapping>
+      </column>
+      <column>
+        <name>Control Family</name>
+        <mapping>controls_control_family</mapping>
+      </column>
+      <column>
+        <name>Control Class</name>
+        <mapping>controls_control_class</mapping>
+      </column>
+      <column>
+        <name>Control Number</name>
+        <mapping>controls_control_number</mapping>
+      </column>
+      <column>
+        <name>Control Short Name</name>
+        <mapping>controls_short_name</mapping>
+      </column>
+      <column>
+        <name>Control Long Name</name>
+        <mapping>controls_long_name</mapping>
+      </column>
+      <column>
+        <name>Control Description</name>
+        <mapping>controls_description</mapping>
+      </column>
+      <column>
+        <name>Supplemental Guidance</name>
+        <mapping>controls_supplemental_guidance</mapping>
+      </column>
+    </columns>
+  </framework>
+  <framework name="cmmc_1.02_ML2">
+    <name>CMMC v1.02 Maturity Level 2</name>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Control%20Frameworks/CMMC%20v1.02/CMMC%20v1.02%20Maturity%20Level%202.csv</file>
+    <columns>
+      <column>
+        <name>Framework Name</name>
+        <mapping>controls_control_framework</mapping>
+      </column>
+      <column>
+        <name>Control Family</name>
+        <mapping>controls_control_family</mapping>
+      </column>
+      <column>
+        <name>Control Class</name>
+        <mapping>controls_control_class</mapping>
+      </column>
+      <column>
+        <name>Control Number</name>
+        <mapping>controls_control_number</mapping>
+      </column>
+      <column>
+        <name>Control Short Name</name>
+        <mapping>controls_short_name</mapping>
+      </column>
+      <column>
+        <name>Control Long Name</name>
+        <mapping>controls_long_name</mapping>
+      </column>
+      <column>
+        <name>Control Description</name>
+        <mapping>controls_description</mapping>
+      </column>
+      <column>
+        <name>Supplemental Guidance</name>
+        <mapping>controls_supplemental_guidance</mapping>
+      </column>
+      <column>
+        <name>Domain Name</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>Domain Identifier</name>
+        <mapping></mapping>
+      </column>
+    </columns>
+  </framework>
+  <framework name="cmmc_1.02_ML3">
+    <name>CMMC v1.02 Maturity Level 3</name>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Control%20Frameworks/CMMC%20v1.02/CMMC%20v1.02%20Maturity%20Level%203.csv</file>
+    <columns>
+      <column>
+        <name>Framework Name</name>
+        <mapping>controls_control_framework</mapping>
+      </column>
+      <column>
+        <name>Control Family</name>
+        <mapping>controls_control_family</mapping>
+      </column>
+      <column>
+        <name>Control Class</name>
+        <mapping>controls_control_class</mapping>
+      </column>
+      <column>
+        <name>Control Number</name>
+        <mapping>controls_control_number</mapping>
+      </column>
+      <column>
+        <name>Control Short Name</name>
+        <mapping>controls_short_name</mapping>
+      </column>
+      <column>
+        <name>Control Long Name</name>
+        <mapping>controls_long_name</mapping>
+      </column>
+      <column>
+        <name>Control Description</name>
+        <mapping>controls_description</mapping>
+      </column>
+      <column>
+        <name>Supplemental Guidance</name>
+        <mapping>controls_supplemental_guidance</mapping>
+      </column>
+      <column>
+        <name>Domain Name</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>Domain Identifier</name>
+        <mapping></mapping>
+      </column>
+    </columns>
+  </framework>
+  <framework name="cmmc_1.02_ML4">
+    <name>CMMC v1.02 Maturity Level 4</name>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Control%20Frameworks/CMMC%20v1.02/CMMC%20v1.02%20Maturity%20Level%204.csv</file>
+    <columns>
+      <column>
+        <name>Framework Name</name>
+        <mapping>controls_control_framework</mapping>
+      </column>
+      <column>
+        <name>Control Family</name>
+        <mapping>controls_control_family</mapping>
+      </column>
+      <column>
+        <name>Control Class</name>
+        <mapping>controls_control_class</mapping>
+      </column>
+      <column>
+        <name>Control Number</name>
+        <mapping>controls_control_number</mapping>
+      </column>
+      <column>
+        <name>Control Short Name</name>
+        <mapping>controls_short_name</mapping>
+      </column>
+      <column>
+        <name>Control Long Name</name>
+        <mapping>controls_long_name</mapping>
+      </column>
+      <column>
+        <name>Control Description</name>
+        <mapping>controls_description</mapping>
+      </column>
+      <column>
+        <name>Supplemental Guidance</name>
+        <mapping>controls_supplemental_guidance</mapping>
+      </column>
+      <column>
+        <name>Domain Name</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>Domain Identifier</name>
+        <mapping></mapping>
+      </column>
+    </columns>
+  </framework>
+  <framework name="cmmc_1.02_ML5">
+    <name>CMMC v1.02 Maturity Level 5</name>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Control%20Frameworks/CMMC%20v1.02/CMMC%20v1.02%20Maturity%20Level%205.csv</file>
+    <columns>
+      <column>
+        <name>Framework Name</name>
+        <mapping>controls_control_framework</mapping>
+      </column>
+      <column>
+        <name>Control Family</name>
+        <mapping>controls_control_family</mapping>
+      </column>
+      <column>
+        <name>Control Class</name>
+        <mapping>controls_control_class</mapping>
+      </column>
+      <column>
+        <name>Control Number</name>
+        <mapping>controls_control_number</mapping>
+      </column>
+      <column>
+        <name>Control Short Name</name>
+        <mapping>controls_short_name</mapping>
+      </column>
+      <column>
+        <name>Control Long Name</name>
+        <mapping>controls_long_name</mapping>
+      </column>
+      <column>
+        <name>Control Description</name>
+        <mapping>controls_description</mapping>
+      </column>
+      <column>
+        <name>Supplemental Guidance</name>
+        <mapping>controls_supplemental_guidance</mapping>
+      </column>
+      <column>
+        <name>Domain Name</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>Domain Identifier</name>
+        <mapping></mapping>
+      </column>
+    </columns>
+  </framework>
+  <framework name="cmmc_2.0_L1">
+    <name>Cybersecurity Maturity Model Certification (CMMC) Version 2.0 - Level 1</name>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Control%20Frameworks/Cybersecurity%20Maturity%20Model%20Certification%20(CMMC)%20Version%202.0/Cybersecurity%20Maturity%20Model%20Certification%20(CMMC)%20Version%202.0%20-%20Level%201.csv</file>
+    <columns>
+      <column>
+        <name>Framework Name</name>
+        <mapping>controls_control_framework</mapping>
+      </column>
+      <column>
+        <name>Control Family</name>
+        <mapping>controls_control_family</mapping>
+      </column>
+      <column>
+        <name>Control Priority</name>
+        <mapping>controls_control_priority</mapping>
+      </column>
+      <column>
+        <name>Control Number</name>
+        <mapping>controls_control_number</mapping>
+      </column>
+      <column>
+        <name>Control Short Name</name>
+        <mapping>controls_short_name</mapping>
+      </column>
+      <column>
+        <name>Control Long Name</name>
+        <mapping>controls_long_name</mapping>
+      </column>
+      <column>
+        <name>Control Description</name>
+        <mapping>controls_description</mapping>
+      </column>
+      <column>
+        <name>Supplemental Guidance</name>
+        <mapping>controls_supplemental_guidance</mapping>
+      </column>
+    </columns>
+  </framework>
+  <framework name="cmmc_2.0_L2">
+    <name>Cybersecurity Maturity Model Certification (CMMC) Version 2.0 - Level 2</name>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Control%20Frameworks/Cybersecurity%20Maturity%20Model%20Certification%20(CMMC)%20Version%202.0/Cybersecurity%20Maturity%20Model%20Certification%20(CMMC)%20Version%202.0%20-%20Level%202.csv</file>
+    <columns>
+      <column>
+        <name>Framework Name</name>
+        <mapping>controls_control_framework</mapping>
+      </column>
+      <column>
+        <name>Control Family</name>
+        <mapping>controls_control_family</mapping>
+      </column>
+      <column>
+        <name>Control Priority</name>
+        <mapping>controls_control_priority</mapping>
+      </column>
+      <column>
+        <name>Control Number</name>
+        <mapping>controls_control_number</mapping>
+      </column>
+      <column>
+        <name>Control Short Name</name>
+        <mapping>controls_short_name</mapping>
+      </column>
+      <column>
+        <name>Control Long Name</name>
+        <mapping>controls_long_name</mapping>
+      </column>
+      <column>
+        <name>Control Description</name>
+        <mapping>controls_description</mapping>
+      </column>
+      <column>
+        <name>Supplemental Guidance</name>
+        <mapping>controls_supplemental_guidance</mapping>
+      </column>
+    </columns>
+  </framework>
+  <framework name="fedramp_low_baseline_controls">
+    <name>FedRAMP Low Baseline Controls</name>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Control%20Frameworks/FedRAMP%20Security%20Control%20Baselines/Low%20Baseline%20Controls.csv</file>
+    <columns>
+      <column>
+        <name>Framework Name</name>
+        <mapping>controls_control_framework</mapping>
+      </column>
+      <column>
+        <name>Control Family</name>
+        <mapping>controls_control_family</mapping>
+      </column>
+      <column>
+        <name>Control Number</name>
+        <mapping>controls_control_number</mapping>
+      </column>
+      <column>
+        <name>Control Short Name</name>
+        <mapping>controls_short_name</mapping>
+      </column>
+      <column>
+        <name>Control Long Name</name>
+        <mapping>controls_long_name</mapping>
+      </column>
+      <column>
+        <name>Control Description</name>
+        <mapping>controls_description</mapping>
+      </column>
+      <column>
+        <name>Supplemental Guidance</name>
+        <mapping>controls_supplemental_guidance</mapping>
+      </column>
+    </columns>
+  </framework>
+  <framework name="fedramp_moderate_baseline_controls">
+    <name>FedRAMP Moderate Baseline Controls</name>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Control%20Frameworks/FedRAMP%20Security%20Control%20Baselines/Moderate%20Baseline%20Controls.csv</file>
+    <columns>
+      <column>
+        <name>Framework Name</name>
+        <mapping>controls_control_framework</mapping>
+      </column>
+      <column>
+        <name>Control Family</name>
+        <mapping>controls_control_family</mapping>
+      </column>
+      <column>
+        <name>Control Number</name>
+        <mapping>controls_control_number</mapping>
+      </column>
+      <column>
+        <name>Control Short Name</name>
+        <mapping>controls_short_name</mapping>
+      </column>
+      <column>
+        <name>Control Long Name</name>
+        <mapping>controls_long_name</mapping>
+      </column>
+      <column>
+        <name>Control Description</name>
+        <mapping>controls_description</mapping>
+      </column>
+      <column>
+        <name>Supplemental Guidance</name>
+        <mapping>controls_supplemental_guidance</mapping>
+      </column>
+    </columns>
+  </framework>
+  <framework name="fedramp_high_baseline_controls">
+    <name>FedRAMP High Baseline Controls</name>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Control%20Frameworks/FedRAMP%20Security%20Control%20Baselines/High%20Baseline%20Controls.csv</file>
+    <columns>
+      <column>
+        <name>Framework Name</name>
+        <mapping>controls_control_framework</mapping>
+      </column>
+      <column>
+        <name>Control Family</name>
+        <mapping>controls_control_family</mapping>
+      </column>
+      <column>
+        <name>Control Number</name>
+        <mapping>controls_control_number</mapping>
+      </column>
+      <column>
+        <name>Control Short Name</name>
+        <mapping>controls_short_name</mapping>
+      </column>
+      <column>
+        <name>Control Long Name</name>
+        <mapping>controls_long_name</mapping>
+      </column>
+      <column>
+        <name>Control Description</name>
+        <mapping>controls_description</mapping>
+      </column>
+      <column>
+        <name>Supplemental Guidance</name>
+        <mapping>controls_supplemental_guidance</mapping>
+      </column>
+    </columns>
+  </framework>
+    <framework name="glba_standards_for_safeguarding_customer_information">
+    <name>GLBA Standards for Safeguarding Customer Information</name>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Control%20Frameworks/GLBA%20Standards%20for%20Safeguarding%20Customer%20Information/GLBA%20Standards%20for%20Safeguarding%20Customer%20Information.csv</file>
+    <columns>
+      <column>
+        <name>Framework</name>
+        <mapping>controls_control_framework</mapping>
+      </column>
+      <column>
+        <name>Control Number</name>
+        <mapping>controls_control_number</mapping>
+      </column>
+      <column>
+        <name>Control Class</name>
+        <mapping>controls_control_class</mapping>
+      </column>
+      <column>
+        <name>Control Family</name>
+        <mapping>controls_control_family</mapping>
+      </column>
+      <column>
+        <name>Control Short Name</name>
+        <mapping>controls_short_name</mapping>
+      </column>
+      <column>
+        <name>Control Long Name</name>
+        <mapping>controls_long_name</mapping>
+      </column>
+      <column>
+        <name>Control Description</name>
+        <mapping>controls_description</mapping>
+      </column>
+      <column>
+        <name>Supplemental Guidance</name>
+        <mapping>controls_supplemental_guidance</mapping>
+      </column>
+    </columns>
+  </framework>
+  <framework name="isr_v2">
+    <name>Information Security Regulation Version 2.0</name>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Control%20Frameworks/Information%20Security%20Regulation/Information_Security_Regulation_v2.csv</file>
+    <columns>
+      <column>
+        <name>Control Framework</name>
+        <mapping>controls_control_framework</mapping>
+      </column>
+      <column>
+        <name>Control Family</name>
+        <mapping>controls_control_family</mapping>
+      </column>
+      <column>
+        <name>Control Class</name>
+        <mapping>controls_control_class</mapping>
+      </column>
+      <column>
+        <name>Control Short Name</name>
+        <mapping>controls_short_name</mapping>
+      </column>
+      <column>
+        <name>Control Long Name</name>
+        <mapping>controls_long_name</mapping>   
+      </column>
+      <column>
+        <name>Control Number</name>
+        <mapping>controls_control_number</mapping>
+      </column>
+      <column>
+        <name>Requirements</name>
+        <mapping>controls_description</mapping>
+      </column>
+    </columns>
+  </framework>
+  <framework name="nist_800_53">
+    <name>NIST 800-53</name>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Control%20Frameworks/NIST%20800-53/NIST_800_53.csv</file>
+    <columns>
+      <column>
+        <name>Framework</name>
+        <mapping>controls_control_framework</mapping>
+      </column>
+      <column>
+        <name>Class</name>
+        <mapping>controls_control_class</mapping>
+      </column>
+      <column>
+        <name>Family</name>
+        <mapping>controls_control_family</mapping>
+      </column>
+      <column>
+        <name>Number</name>
+        <mapping>controls_control_number</mapping>
+      </column>
+      <column>
+        <name>Withdrawn?</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>Title</name>
+        <mapping>controls_short_name</mapping>
+      </column>
+      <column>
+        <name>LongName</name>
+        <mapping>controls_long_name</mapping>
+      </column>
+      <column>
+        <name>Impact</name>
+        <mapping></mapping>
+      </column>
+      <column>
+        <name>Priority</name>
+        <mapping>controls_control_priority</mapping>
+      </column>
+      <column>
+        <name>Description</name>
+        <mapping>controls_description</mapping>
+      </column>
+      <column>
+        <name>Supplemental-Guidance</name>
+        <mapping>controls_supplemental_guidance</mapping>
+      </column>
+    </columns>
+  </framework>
+  <framework name="nist_800_171">
+    <name>NIST 800-171</name>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Control%20Frameworks/NIST%20800-171/NIST_800_171.csv</file>
+    <columns>
+      <column>
+        <name>Framework</name>
+        <mapping>controls_control_framework</mapping>
+      </column>
+      <column>
+        <name>Control Number</name>
+        <mapping>controls_control_number</mapping>
+      </column>
+      <column>
+        <name>Class</name>
+        <mapping>controls_control_class</mapping>
+      </column>
+      <column>
+        <name>Family</name>
+        <mapping>controls_control_family</mapping>
+      </column>
+      <column>
+        <name>Short Name</name>
+        <mapping>controls_short_name</mapping>
+      </column>
+      <column>
+        <name>Long Name</name>
+        <mapping>controls_long_name</mapping>
+      </column>
+      <column>
+        <name>Description</name>
+        <mapping>controls_description</mapping>
+      </column>
+      <column>
+        <name>Supplemental Guidance</name>
+        <mapping>controls_supplemental_guidance</mapping>
+      </column>
+    </columns>
+  </framework>
+  <framework name="nist_csf">
+    <name>NIST Cybersecurity Framework (CSF)</name>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Control%20Frameworks/NIST%20Cybersecurity%20Framework%20(CSF)/NIST_CSF.csv</file>
+    <columns>
+      <column>
+        <name>Control Framework</name>
+        <mapping>controls_control_framework</mapping>
+      </column>
+      <column>
+        <name>Control Short Name</name>
+        <mapping>controls_short_name</mapping>
+      </column>
+      <column>
+        <name>Control Long Name</name>
+        <mapping>controls_long_name</mapping>
+      </column>
+      <column>
+        <name>Control Description</name>
+        <mapping>controls_description</mapping>
+      </column>
+      <column>
+        <name>Control Number</name>
+        <mapping>controls_control_number</mapping>
+      </column>
+      <column>
+        <name>Control Phase</name>
+        <mapping>controls_control_phase</mapping>
+      </column>
+      <column>
+        <name>Control Family</name>
+        <mapping>controls_control_family</mapping>
+      </column>
+    </columns>
+  </framework>
+  <framework name="pci_dss_3_2_1">
+    <name>PCI Data Security Standard v3.2.1</name>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Control%20Frameworks/PCI%20DSS%203.2.1/PCI%20DSS%20v3.2.1.csv</file>
+    <columns>
+      <column>
+        <name>Control Framework</name>
+        <mapping>controls_control_framework</mapping>
+      </column>
+      <column>
+        <name>Control Short Name</name>
+        <mapping>controls_short_name</mapping>
+      </column>
+      <column>
+        <name>Control Long Name</name>
+        <mapping>controls_long_name</mapping>
+      </column>
+      <column>
+        <name>Control Description</name>
+        <mapping>controls_description</mapping>
+      </column>
+      <column>
+        <name>Supplemental Guidance</name>
+        <mapping>controls_supplemental_guidance</mapping>
+      </column>
+      <column>
+        <name>Control Number</name>
+        <mapping>controls_control_number</mapping>
+      </column>
+      <column>
+        <name>Control Family</name>
+        <mapping>controls_control_family</mapping>
+      </column>
+      <column>
+        <name>Control Class</name>
+        <mapping>controls_control_class</mapping>
+      </column>
+      <column>
+        <name>Control Priority</name>
+        <mapping>controls_control_priority</mapping>
+      </column>
+    </columns>
+  </framework>
+    <framework name="pci_dss_4_0">
+    <name>PCI Data Security Standard v4.0</name>
+    <file>https://raw.githubusercontent.com/simplerisk/import-content/master/Control%20Frameworks/PCI%20DSS%204.0/PCI%20DSS%20v4.0.csv</file>
+    <columns>
+      <column>
+        <name>Control Framework</name>
+        <mapping>controls_control_framework</mapping>
+      </column>
+      <column>
+        <name>Control Short Name</name>
+        <mapping>controls_short_name</mapping>
+      </column>
+      <column>
+        <name>Control Long Name</name>
+        <mapping>controls_long_name</mapping>
+      </column>
+      <column>
+        <name>Control Description</name>
+        <mapping>controls_description</mapping>
+      </column>
+      <column>
+        <name>Supplemental Guidance</name>
+        <mapping>controls_supplemental_guidance</mapping>
+      </column>
+      <column>
+        <name>Control Number</name>
+        <mapping>controls_control_number</mapping>
+      </column>
+      <column>
+        <name>Control Family</name>
+        <mapping>controls_control_family</mapping>
+      </column>
+      <column>
+        <name>Control Class</name>
+        <mapping>controls_control_class</mapping>
+      </column>
+    </columns>
+  </framework>
+</frameworks>

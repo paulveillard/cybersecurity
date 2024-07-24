@@ -1,0 +1,73 @@
+﻿Framework Name,Control Family,Control Class,Control Number,Control Short Name,Control Long Name,Control Description,Supplemental Guidance,Domain Name,Domain Identifier
+CMMC v1.02 Maturity Level 5,PROCESS MATURITY (ML),MC01: Improve Access Control activities,AC.5.995,AC.5.995,AC.5.995: Standardize and optimize a documented approach for Access Control across all applicable organizational units.,Standardize and optimize a documented approach for Access Control across all applicable organizational units.,"• CERT RMM v1.2 GG3.GP1
+• CERT RMM v1.2 GG3.GP2",Access Control,AC
+CMMC v1.02 Maturity Level 5,PROCESS MATURITY (ML),MC01: Improve Asset Management activities,AM.5.995,AM.5.995,AM.5.995: Standardize and optimize a documented approach for Asset Management across all applicable organizational units.,Standardize and optimize a documented approach for Asset Management across all applicable organizational units.,"• CERT RMM v1.2 GG3.GP1
+• CERT RMM v1.2 GG3.GP3",Asset Management,AM
+CMMC v1.02 Maturity Level 5,PROCESS MATURITY (ML),MC01: Improve Audit and Accountability activities,AU.5.995,AU.5.995,AU.5.995: Standardize and optimize a documented approach for Audit and Accountability across all applicable organizational units.,Standardize and optimize a documented approach for Audit and Accountability across all applicable organizational units.,"• CERT RMM v1.2 GG3.GP1
+• CERT RMM v1.2 GG3.GP4",Audit and Accountability,AU
+CMMC v1.02 Maturity Level 5,PROCESS MATURITY (ML),MC01: Improve Awareness and Training activities,AT.5.995,AT.5.995,AT.5.995: Standardize and optimize a documented approach for Awareness and Training across all applicable organizational units.,Standardize and optimize a documented approach for Awareness and Training across all applicable organizational units.,"• CERT RMM v1.2 GG3.GP1
+• CERT RMM v1.2 GG3.GP5",Awareness and Training,AT
+CMMC v1.02 Maturity Level 5,PROCESS MATURITY (ML),MC01: Improve Configuration Management activities,CM.5.995,CM.5.995,CM.5.995: Standardize and optimize a documented approach for Configuration Management across all applicable organizational units.,Standardize and optimize a documented approach for Configuration Management across all applicable organizational units.,"• CERT RMM v1.2 GG3.GP1
+• CERT RMM v1.2 GG3.GP6",Configuration Management,CM
+CMMC v1.02 Maturity Level 5,PROCESS MATURITY (ML),MC01: Improve Identification and Authentication activities,IA.5.995,IA.5.995,IA.5.995: Standardize and optimize a documented approach for Identification and Authentication across all applicable organizational units.,Standardize and optimize a documented approach for Identification and Authentication across all applicable organizational units.,"• CERT RMM v1.2 GG3.GP1
+• CERT RMM v1.2 GG3.GP7",Identification and Authentication,IA
+CMMC v1.02 Maturity Level 5,PROCESS MATURITY (ML),MC01: Improve Incident Response activities,IR.5.995,IR.5.995,IR.5.995: Standardize and optimize a documented approach for Incident Response across all applicable organizational units.,Standardize and optimize a documented approach for Incident Response across all applicable organizational units.,"• CERT RMM v1.2 GG3.GP1
+• CERT RMM v1.2 GG3.GP8",Incident Response,IR
+CMMC v1.02 Maturity Level 5,PROCESS MATURITY (ML),MC01: Improve Maintenance activities,MA.5.995,MA.5.995,MA.5.995: Standardize and optimize a documented approach for Maintenance across all applicable organizational units.,Standardize and optimize a documented approach for Maintenance across all applicable organizational units.,"• CERT RMM v1.2 GG3.GP1
+• CERT RMM v1.2 GG3.GP9",Maintenance,MA
+CMMC v1.02 Maturity Level 5,PROCESS MATURITY (ML),MC01: Improve Media Protection activities,MP.5.995,MP.5.995,MP.5.995: Standardize and optimize a documented approach for Media Protection across all applicable organizational units.,Standardize and optimize a documented approach for Media Protection across all applicable organizational units.,"• CERT RMM v1.2 GG3.GP1
+• CERT RMM v1.2 GG3.GP10",Media Protection,MP
+CMMC v1.02 Maturity Level 5,PROCESS MATURITY (ML),MC01: Improve Personnel Security activities,PS.5.995,PS.5.995,PS.5.995: Standardize and optimize a documented approach for Personnel Security across all applicable organizational units.,Standardize and optimize a documented approach for Personnel Security across all applicable organizational units.,"• CERT RMM v1.2 GG3.GP1
+• CERT RMM v1.2 GG3.GP11",Personnel Security,PS
+CMMC v1.02 Maturity Level 5,PROCESS MATURITY (ML),MC01: Improve Physical Protection activities,PE.5.995,PE.5.995,PE.5.995: Standardize and optimize a documented approach for Physical Protection across all applicable organizational units.,Standardize and optimize a documented approach for Physical Protection across all applicable organizational units.,"• CERT RMM v1.2 GG3.GP1
+• CERT RMM v1.2 GG3.GP12",Physical Protection,PE
+CMMC v1.02 Maturity Level 5,PROCESS MATURITY (ML),MC01: Improve Recovery activities,RE.5.995,RE.5.995,RE.5.995: Standardize and optimize a documented approach for Recovery across all applicable organizational units.,Standardize and optimize a documented approach for Recovery across all applicable organizational units.,"• CERT RMM v1.2 GG3.GP1
+• CERT RMM v1.2 GG3.GP13",Recovery,RE
+CMMC v1.02 Maturity Level 5,PROCESS MATURITY (ML),MC01: Improve Risk Management activities,RM.5.995,RM.5.995,RM.5.995: Standardize and optimize a documented approach for Risk Management across all applicable organizational units.,Standardize and optimize a documented approach for Risk Management across all applicable organizational units.,"• CERT RMM v1.2 GG3.GP1
+• CERT RMM v1.2 GG3.GP14",Risk Management,RM
+CMMC v1.02 Maturity Level 5,PROCESS MATURITY (ML),MC01: Improve Security Assessment activities,CA.5.995,CA.5.995,CA.5.995: Standardize and optimize a documented approach for Security Assessment across all applicable organizational units.,Standardize and optimize a documented approach for Security Assessment across all applicable organizational units.,"• CERT RMM v1.2 GG3.GP1
+• CERT RMM v1.2 GG3.GP15",Security Assessment,CA
+CMMC v1.02 Maturity Level 5,PROCESS MATURITY (ML),MC01: Improve Situational Awareness activities,SA.5.995,SA.5.995,SA.5.995: Standardize and optimize a documented approach for Situational Awareness across all applicable organizational units.,Standardize and optimize a documented approach for Situational Awareness across all applicable organizational units.,"• CERT RMM v1.2 GG3.GP1
+• CERT RMM v1.2 GG3.GP16",Situational Awareness,SA
+CMMC v1.02 Maturity Level 5,PROCESS MATURITY (ML),MC01: Improve System and Communications Protection activities,SC.5.995,SC.5.995,SC.5.995: Standardize and optimize a documented approach for System and Communications Protection across all applicable organizational units.,Standardize and optimize a documented approach for System and Communications Protection across all applicable organizational units.,"• CERT RMM v1.2 GG3.GP1
+• CERT RMM v1.2 GG3.GP17",System and Communications Protection,SC
+CMMC v1.02 Maturity Level 5,PROCESS MATURITY (ML),MC01: Improve System and Information Integrity activities,SI.5.995,SI.5.995,SI.5.995: Standardize and optimize a documented approach for System and Information Integrity across all applicable organizational units.,Standardize and optimize a documented approach for System and Information Integrity across all applicable organizational units.,"• CERT RMM v1.2 GG3.GP1
+• CERT RMM v1.2 GG3.GP18",System and Information Integrity,SI
+CMMC v1.02 Maturity Level 5,ACCESS CONTROL (AC),C002: Control internal system access,AC.5.024,AC.5.024,AC.5.024: Identify and mitigate risk associated with unidentified wireless access points connected to the network.,Identify and mitigate risk associated with unidentified wireless access points connected to the network.,"• CMMC
+• CIS Controls v7.1 15.3
+• NIST CSF v1.1 PR.DS-5, DE.AE-1, DE.CM-7
+• NIST SP 800-53 Rev 4 SI-4(14)",,
+CMMC v1.02 Maturity Level 5,AUDIT AND ACCOUNTABILITY (AU),C008: Perform auditing,AU.5.055,AU.5.055,AU.5.055: Identify assets not reporting audit logs and assure appropriate organizationally defined systems are logging.,Identify assets not reporting audit logs and assure appropriate organizationally defined systems are logging.,"• CMMC
+• CIS Controls v7.1 6.2
+• NIST SP 800-53 Rev 4 AU-12",,
+CMMC v1.02 Maturity Level 5,CONFIGURATION MANAGEMENT (CM),C014: Perform configuration and change management,CM.5.074,CM.5.074,"CM.5.074: Verify the integrity and correctness of security critical or essential software as defined by the organization (e.g., roots of trust, formal verification, or cryptographic signatures).","Verify the integrity and correctness of security critical or essential software as defined by the organization (e.g., roots of trust, formal verification, or cryptographic signatures).","• CMMC modification of Draft NIST SP 800-171B 3.14.1e
+• CIS Controls v7.1 2.10
+• NIST CSF v1.1 PR.DS-6, PR.DS-8, PR.IP-2
+• CERT RMM v1.2 TM:SG2.SP2
+• NIST SP 800-53 Rev 4  SI-7(6), SI-7(9), SI-7(10), SA-17",,
+CMMC v1.02 Maturity Level 5,INCIDENT RESPONSE (IR),C016: Plan incident response,IR.5.106,IR.5.106,"IR.5.106: In response to cyber incidents, utilize forensic data gathering across impacted systems, ensuring the secure transfer and protection of forensic data.","In response to cyber incidents, utilize forensic data gathering across impacted systems, ensuring the secure transfer and protection of forensic data.","• CMMC
+• NIST CSF v1.1 RS.AM-3
+• NIST SP 800-53 Rev 4 AU-12",,
+CMMC v1.02 Maturity Level 5,INCIDENT RESPONSE (IR),C018: Develop and implement a response to a declared incident,IR.5.102,IR.5.102,"IR.5.102: Use a combination of manual and automated, real-time responses to anomalous activities that match incident patterns.","Use a combination of manual and automated, real-time responses to anomalous activities that match incident patterns.","• CMMC
+• NIST SP 800-53 Rev 4 IR-4(1)",,
+CMMC v1.02 Maturity Level 5,INCIDENT RESPONSE (IR),C018: Develop and implement a response to a declared incident,IR.5.108,IR.5.108,IR.5.108: Establish and maintain a cyber incident response team that can investigate an issue physically or virtually at any location within 24 hours.,Establish and maintain a cyber incident response team that can investigate an issue physically or virtually at any location within 24 hours.,• CMMC modification of Draft NIST SP 800-171B 3.6.2e,,
+CMMC v1.02 Maturity Level 5,INCIDENT RESPONSE (IR),C020: Test incident response,IR.5.110,IR.5.110,IR.5.110: Perform unannounced operational exercises to demonstrate technical and procedural responses.,Perform unannounced operational exercises to demonstrate technical and procedural responses.,"• CMMC
+• CIS Controls v7.1 19.7",,
+CMMC v1.02 Maturity Level 5,RECOVERY (RE),C030: Manage information security continuity,RE.5.140,RE.5.140,"RE.5.140: Ensure information processing facilities meet organizationally defined information security continuity, redundancy, and availability requirements.","Ensure information processing facilities meet organizationally defined information security continuity, redundancy, and availability requirements.","• CMMC
+• NIST CSF v1.1 PR.IP-9
+• CERT RMM v1.2 RRM:SG1.SP2
+• NIST 800-53 Rev 4 CP-10",,
+CMMC v1.02 Maturity Level 5,RISK MANAGEMENT (RM),C032: Manage risk,RM.5.152,RM.5.152,RM.5.152: Utilize an exception process for non-whitelisted software that includes mitigation techniques.,Utilize an exception process for non-whitelisted software that includes mitigation techniques.,• CMMC,,
+CMMC v1.02 Maturity Level 5,RISK MANAGEMENT (RM),C032: Manage risk,RM.5.155,RM.5.155,RM.5.155: Analyze the effectiveness of security solutions at least annually to address anticipated risk to the system and the organization based on current and accumulated threat intelligence.,Analyze the effectiveness of security solutions at least annually to address anticipated risk to the system and the organization based on current and accumulated threat intelligence.,"• CMMC modification of Draft NIST SP 800-171B 3.11.5e
+• CERT RMM v1.2 RISK:SG6.SP1",,
+CMMC v1.02 Maturity Level 5,SYSTEM AND COMMUNICATIONS PROTECTION (SC),C038: Define security requirements for systems and communications,SC.5.198,SC.5.198,SC.5.198: Configure monitoring systems to record packets passing through the organization's Internet network boundaries and other organizationally defined boundaries.,Configure monitoring systems to record packets passing through the organization's Internet network boundaries and other organizationally defined boundaries.,• CIS Controls v7.1 12.5,,
+CMMC v1.02 Maturity Level 5,SYSTEM AND COMMUNICATIONS PROTECTION (SC),C038: Define security requirements for systems and communications,SC.5.230,SC.5.230,SC.5.230: Enforce port and protocol compliance.,Enforce port and protocol compliance.,"• CMMC
+• CIS Controls v7.1 9.2
+• NIST 800-53 Rev 4 SC-7(17)",,
+CMMC v1.02 Maturity Level 5,SYSTEM AND COMMUNICATIONS PROTECTION (SC),C039: Control communications at system boundaries,SC.5.208,SC.5.208,SC.5.208: Employ organizationally defined and tailored boundary protections in addition to commercially available solutions.,Employ organizationally defined and tailored boundary protections in addition to commercially available solutions.,• CMMC,,
+CMMC v1.02 Maturity Level 5,SYSTEM AND INFORMATION INTEGRITY (SI),C041: Identify malicious content,SI.5.222,SI.5.222,SI.5.222: Analyze system behavior to detect and mitigate execution of normal system commands and scripts that indicate malicious actions.,Analyze system behavior to detect and mitigate execution of normal system commands and scripts that indicate malicious actions.,• CMMC,,
+CMMC v1.02 Maturity Level 5,SYSTEM AND INFORMATION INTEGRITY (SI),C042: Perform network and system monitoring,SI.5.223,SI.5.223,SI.5.223: Monitor individuals and system components on an ongoing basis for anomalous or suspicious behavior.,Monitor individuals and system components on an ongoing basis for anomalous or suspicious behavior.,"• Draft NIST SP 800-171B 3.14.2e
+• CIS Controls v7.1 13.3, 16.12, 16.13
+• NIST CSF v1.1 DE.CM-1, DE.CM-3
+• CERT RMM v1.2 MON:SG1.SP3
+• NIST SP 800-53 Rev 4 SI-4",,

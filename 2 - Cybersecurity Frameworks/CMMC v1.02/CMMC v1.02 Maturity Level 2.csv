@@ -1,0 +1,265 @@
+﻿Framework Name,Control Family,Control Class,Control Number,Control Short Name,Control Long Name,Control Description,Supplemental Guidance,Domain Name,Domain Identifier
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Access Control activities,AC.2.999,AC.2.999,AC.2.999: Establish a policy that includes Access Control.,Establish a policy that includes Access Control.,• CERT RMM v1.2 GG2.GP1 subpractice 2,Access Control,AC
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Access Control activities,AC.2.998,AC.2.998,AC.2.998: Document the CMMC practices to implement the Access Control policy.,Document the CMMC practices to implement the Access Control policy.,• CERT RMM v1.2 GG2.GP2 subpractice 2,Access Control,AC
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Asset Management activities,AM.2.999,AM.2.999,AM.2.999: Establish a policy that includes Asset Management.,Establish a policy that includes Asset Management.,• CERT RMM v1.2 GG2.GP1 subpractice 2,Asset Management,AM
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Asset Management activities,AM.2.998,AM.2.998,AM.2.998: Document the CMMC practices to implement the Asset Management policy.,Document the CMMC practices to implement the Asset Management policy.,• CERT RMM v1.2 GG2.GP2 subpractice 2,Asset Management,AM
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Audit and Accountability activities,AU.2.999,AU.2.999,AU.2.999: Establish a policy that includes Audit and Accountability.,Establish a policy that includes Audit and Accountability.,• CERT RMM v1.2 GG2.GP1 subpractice 2,Audit and Accountability,AU
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Audit and Accountability activities,AU.2.998,AU.2.998,AU.2.998: Document the CMMC practices to implement the Audit and Accountability policy.,Document the CMMC practices to implement the Audit and Accountability policy.,• CERT RMM v1.2 GG2.GP2 subpractice 2,Audit and Accountability,AU
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Awareness and Training activities,AT.2.999,AT.2.999,AT.2.999: Establish a policy that includes Awareness and Training.,Establish a policy that includes Awareness and Training.,• CERT RMM v1.2 GG2.GP1 subpractice 2,Awareness and Training,AT
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Awareness and Training activities,AT.2.998,AT.2.998,AT.2.998: Document the CMMC practices to implement the Awareness and Training policy.,Document the CMMC practices to implement the Awareness and Training policy.,• CERT RMM v1.2 GG2.GP2 subpractice 2,Awareness and Training,AT
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Configuration Management activities,CM.2.999,CM.2.999,CM.2.999: Establish a policy that includes Configuration Management.,Establish a policy that includes Configuration Management.,• CERT RMM v1.2 GG2.GP1 subpractice 2,Configuration Management,CM
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Configuration Management activities,CM.2.998,CM.2.998,CM.2.998: Document the CMMC practices to implement the Configuration Management policy.,Document the CMMC practices to implement the Configuration Management policy.,• CERT RMM v1.2 GG2.GP2 subpractice 2,Configuration Management,CM
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Identification and Authentication activities,IA.2.999,IA.2.999,IA.2.999: Establish a policy that includes Identification and Authentication.,Establish a policy that includes Identification and Authentication.,• CERT RMM v1.2 GG2.GP1 subpractice 2,Identification and Authentication,IA
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Identification and Authentication activities,IA.2.998,IA.2.998,IA.2.998: Document the CMMC practices to implement the Identification and Authentication policy.,Document the CMMC practices to implement the Identification and Authentication policy.,• CERT RMM v1.2 GG2.GP2 subpractice 2,Identification and Authentication,IA
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Incident Response activities,IR.2.999,IR.2.999,IR.2.999: Establish a policy that includes Incident Response.,Establish a policy that includes Incident Response.,• CERT RMM v1.2 GG2.GP1 subpractice 2,Incident Response,IR
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Incident Response activities,IR.2.998,IR.2.998,IR.2.998: Document the CMMC practices to implement the Incident Response policy.,Document the CMMC practices to implement the Incident Response policy.,• CERT RMM v1.2 GG2.GP2 subpractice 2,Incident Response,IR
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Maintenance activities,MA.2.999,MA.2.999,MA.2.999: Establish a policy that includes Maintenance.,Establish a policy that includes Maintenance.,• CERT RMM v1.2 GG2.GP1 subpractice 2,Maintenance,MA
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Maintenance activities,MA.2.998,MA.2.998,MA.2.998: Document the CMMC practices to implement the Maintenance policy.,Document the CMMC practices to implement the Maintenance policy.,• CERT RMM v1.2 GG2.GP2 subpractice 2,Maintenance,MA
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Media Protection activities,MP.2.999,MP.2.999,MP.2.999: Establish a policy that includes Media Protection.,Establish a policy that includes Media Protection.,• CERT RMM v1.2 GG2.GP1 subpractice 2,Media Protection,MP
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Media Protection activities,MP.2.998,MP.2.998,MP.2.998: Document the CMMC practices to implement the Media Protection policy.,Document the CMMC practices to implement the Media Protection policy.,• CERT RMM v1.2 GG2.GP2 subpractice 2,Media Protection,MP
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Personnel Security activities,PS.2.999,PS.2.999,PS.2.999: Establish a policy that includes Personnel Security.,Establish a policy that includes Personnel Security.,• CERT RMM v1.2 GG2.GP1 subpractice 2,Personnel Security,PS
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Personnel Security activities,PS.2.998,PS.2.998,PS.2.998: Document the CMMC practices to implement the Personnel Security policy.,Document the CMMC practices to implement the Personnel Security policy.,• CERT RMM v1.2 GG2.GP2 subpractice 2,Personnel Security,PS
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Physical Protection activities,PE.2.999,PE.2.999,PE.2.999: Establish a policy that includes Physical Protection.,Establish a policy that includes Physical Protection.,• CERT RMM v1.2 GG2.GP1 subpractice 2,Physical Protection,PE
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Physical Protection activities,PE.2.998,PE.2.998,PE.2.998: Document the CMMC practices to implement the Physical Protection policy.,Document the CMMC practices to implement the Physical Protection policy.,• CERT RMM v1.2 GG2.GP2 subpractice 2,Physical Protection,PE
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Recovery activities,RE.2.999,RE.2.999,RE.2.999: Establish a policy that includes Recovery.,Establish a policy that includes Recovery.,• CERT RMM v1.2 GG2.GP1 subpractice 2,Recovery,RE
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Recovery activities,RE.2.998,RE.2.998,RE.2.998: Document the CMMC practices to implement the Recovery policy.,Document the CMMC practices to implement the Recovery policy.,• CERT RMM v1.2 GG2.GP2 subpractice 2,Recovery,RE
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Risk Management activities,RM.2.999,RM.2.999,RM.2.999: Establish a policy that includes Risk Management.,Establish a policy that includes Risk Management.,• CERT RMM v1.2 GG2.GP1 subpractice 2,Risk Management,RM
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Risk Management activities,RM.2.998,RM.2.998,RM.2.998: Document the CMMC practices to implement the Risk Management policy.,Document the CMMC practices to implement the Risk Management policy.,• CERT RMM v1.2 GG2.GP2 subpractice 2,Risk Management,RM
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Security Assessment activities,CA.2.999,CA.2.999,CA.2.999: Establish a policy that includes Security Assessment.,Establish a policy that includes Security Assessment.,• CERT RMM v1.2 GG2.GP1 subpractice 2,Security Assessment,CA
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Security Assessment activities,CA.2.998,CA.2.998,CA.2.998: Document the CMMC practices to implement the Security Assessment policy.,Document the CMMC practices to implement the Security Assessment policy.,• CERT RMM v1.2 GG2.GP2 subpractice 2,Security Assessment,CA
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Situational Awareness activities,SA.2.999,SA.2.999,SA.2.999: Establish a policy that includes Situational Awareness.,Establish a policy that includes Situational Awareness.,• CERT RMM v1.2 GG2.GP1 subpractice 2,Situational Awareness,SA
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve Situational Awareness activities,SA.2.998,SA.2.998,SA.2.998: Document the CMMC practices to implement the Situational Awareness policy.,Document the CMMC practices to implement the Situational Awareness policy.,• CERT RMM v1.2 GG2.GP2 subpractice 2,Situational Awareness,SA
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve System and Communications Protection activities,SC.2.999,SC.2.999,SC.2.999: Establish a policy that includes System and Communications Protection.,Establish a policy that includes System and Communications Protection.,• CERT RMM v1.2 GG2.GP1 subpractice 2,System and Communications Protection,SC
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve System and Communications Protection activities,SC.2.998,SC.2.998,SC.2.998: Document the CMMC practices to implement the System and Communications Protection policy.,Document the CMMC practices to implement the System and Communications Protection policy.,• CERT RMM v1.2 GG2.GP2 subpractice 2,System and Communications Protection,SC
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve System and Information Integrity activities,SI.2.999,SI.2.999,SI.2.999: Establish a policy that includes System and Information Integrity.,Establish a policy that includes System and Information Integrity.,• CERT RMM v1.2 GG2.GP1 subpractice 2,System and Information Integrity,SI
+CMMC v1.02 Maturity Level 2,PROCESS MATURITY (ML),MC01: Improve System and Information Integrity activities,SI.2.998,SI.2.998,SI.2.998: Document the CMMC practices to implement the System and Information Integrity policy.,Document the CMMC practices to implement the System and Information Integrity policy.,• CERT RMM v1.2 GG2.GP2 subpractice 2,System and Information Integrity,SI
+CMMC v1.02 Maturity Level 2,ACCESS CONTROL (AC),C001: Establish system access requirements,AC.2.005,AC.2.005,AC.2.005: Provide privacy and security notices consistent with applicable CUI rules.,Provide privacy and security notices consistent with applicable CUI rules.,"• NIST SP 800-171 Rev 1 3.1.9
+• NIST SP 800-53 Rev 4 AC-8",,
+CMMC v1.02 Maturity Level 2,ACCESS CONTROL (AC),C001: Establish system access requirements,AC.2.006,AC.2.006,AC.2.006: Limit use of portable storage devices on external systems.,Limit use of portable storage devices on external systems.,"• NIST SP 800-171 Rev 1 3.1.21
+• CIS Controls v7.1 13.7, 13.8, 13.9
+• NIST CSF v1.1 ID.AM-4, PR.PT-2
+• NIST SP 800-53 Rev 4 AC-20(2)",,
+CMMC v1.02 Maturity Level 2,ACCESS CONTROL (AC),C002: Control internal system access,AC.2.007,AC.2.007,"AC.2.007: Employ the principle of least privilege, including for specific security functions and privileged accounts.","Employ the principle of least privilege, including for specific security functions and privileged accounts.","• NIST SP 800-171 Rev 1 3.1.5
+• CIS Controls v7.1 14.6
+• NIST CSF v1.1 PR.AC-4
+• CERT RMM v1.2 KIM:SG4.SP1
+• NIST SP 800-53 Rev 4 AC-6, AC-6(1), AC-6(5)
+• UK NCSC Cyber Essentials",,
+CMMC v1.02 Maturity Level 2,ACCESS CONTROL (AC),C002: Control internal system access,AC.2.008,AC.2.008,AC.2.008: Use non-privileged accounts or roles when accessing nonsecurity functions.,Use non-privileged accounts or roles when accessing nonsecurity functions.,"• NIST SP 800-171 Rev 1 3.1.6
+• CIS Controls v7.1 4.3, 4.6
+• NIST CSF v1.1 PR.AC-4
+• NIST SP 800-53 Rev 4 AC-6(2)
+• UK NCSC Cyber Essentials",,
+CMMC v1.02 Maturity Level 2,ACCESS CONTROL (AC),C002: Control internal system access,AC.2.009,AC.2.009,AC.2.009: Limit unsuccessful logon attempts. ,Limit unsuccessful logon attempts. ,"• NIST SP 800-171 Rev 1 3.1.8 
+• NIST CSF v1.1 PR.AC-7
+• NIST SP 800-53 Rev 4 AC-7",,
+CMMC v1.02 Maturity Level 2,ACCESS CONTROL (AC),C002: Control internal system access,AC.2.010,AC.2.010,AC.2.010: Use session lock with pattern-hiding displays to prevent access and viewing of data after a period of inactivity. ,Use session lock with pattern-hiding displays to prevent access and viewing of data after a period of inactivity. ,"• NIST SP 800-171 Rev 1 3.1.10
+• CIS Controls v7.1 16.11
+• NIST SP 800-53 Rev 4 AC-11, AC-11(1)",,
+CMMC v1.02 Maturity Level 2,ACCESS CONTROL (AC),C002: Control internal system access,AC.2.011,AC.2.011,AC.2.011: Authorize wireless access prior to allowing such connections.,Authorize wireless access prior to allowing such connections.,"• NIST SP 800-171 Rev 1 3.1.16
+• CIS Controls v7.1 15.1, 15.10
+• NIST CSF v1.1 PR.PT-4
+• CERT RMM v1.2 TM:SG2.SP2
+• NIST SP 800-53 Rev 4 AC-18",,
+CMMC v1.02 Maturity Level 2,ACCESS CONTROL (AC),C003: Control remote system access,AC.2.013,AC.2.013,AC.2.013: Monitor and control remote access sessions.,Monitor and control remote access sessions.,"• NIST SP 800-171 Rev 1 3.1.12
+• CIS Controls v7.1 12.11, 12.12
+• NIST CSF v1.1 PR.AC-3, PR.PT-4
+• CERT RMM v1.2 TM:SG2.SP2
+• NIST SP 800-53 Rev 4 AC-17(1)",,
+CMMC v1.02 Maturity Level 2,ACCESS CONTROL (AC),C003: Control remote system access,AC.2.015,AC.2.015,AC.2.015: Route remote access via managed access control points.,Route remote access via managed access control points.,"• NIST SP 800-171 Rev 1 3.1.14
+• CIS Controls v7.1 15.5, 15.10
+• NIST CSF v1.1 PR.AC-3, PR.PT-4
+• CERT RMM v1.2 TM:SG2.SP2
+• NIST SP 800-53 Rev 4 AC-17(3)",,
+CMMC v1.02 Maturity Level 2,ACCESS CONTROL (AC),C004: Limit data access to authorized users and processes,AC.2.016,AC.2.016,AC.2.016: Control the flow of CUI in accordance with approved authorizations.,Control the flow of CUI in accordance with approved authorizations.,"• NIST SP 800-171 Rev 1 3.1.3
+• CIS Controls v7.1 12.1, 12.2, 12.5, 12.8, 13.3, 14.1, 14.6, 14.7
+• NIST CSF v1.1 ID.AM-3, PR.AC-5, PR.DS-5, PR.PT-4
+• CERT RMM v1.2 TM:SG4.SP1
+• NIST SP 800-53 Rev 4 AC-4
+• UK NCSC Cyber Essentials",,
+CMMC v1.02 Maturity Level 2,AUDIT AND ACCOUNTABILITY (AU),C007: Define audit requirements,AU.2.041,AU.2.041,AU.2.041: Ensure that the actions of individual system users can be uniquely traced to those users so they can be held accountable for their actions.,Ensure that the actions of individual system users can be uniquely traced to those users so they can be held accountable for their actions.,"• NIST SP 800-171 Rev 1 3.3.2
+• CIS Controls v7.1 16.8, 16.9
+• NIST CSF v1.1 DE.CM-1, DE.CM-3, DE.CM-7
+• CERT RMM v1.2 MON:SG1.SP3
+• NIST SP 800-53 Rev 4 AU-2, AU-3, AU-3(1), AU-6, AU-11, AU-12",,
+CMMC v1.02 Maturity Level 2,AUDIT AND ACCOUNTABILITY (AU),C008: Perform auditing,AU.2.042,AU.2.042,"AU.2.042: Create and retain system audit logs and records to the extent needed to enable the monitoring, analysis, investigation, and reporting of unlawful or unauthorized system activity.","Create and retain system audit logs and records to the extent needed to enable the monitoring, analysis, investigation, and reporting of unlawful or unauthorized system activity.","• NIST SP 800-171 Rev 1 3.3.1
+• CIS Controls v7.1 6.2
+• NIST CSF v1.1. DE.CM-1, DE.CM-3, DE.CM-7
+• CERT RMM v1.2 MON:SG2.SP3
+• NIST SP 800-53 Rev 4 AU-2, AU-3, AU-3(1), AU-6, AU-11, AU-12",,
+CMMC v1.02 Maturity Level 2,AUDIT AND ACCOUNTABILITY (AU),C008: Perform auditing,AU.2.043,AU.2.043,AU.2.043: Provide a system capability that compares and synchronizes internal system clocks with an authoritative source to generate time stamps for audit records.,Provide a system capability that compares and synchronizes internal system clocks with an authoritative source to generate time stamps for audit records.,"• NIST SP 800-171 Rev 1 3.3.7
+• CIS Controls v7.1 6.1
+• NIST CSF v1.1 PR.PT-1
+• NIST SP 800-53 Rev 4 AU-8, AU-8(1)",,
+CMMC v1.02 Maturity Level 2,AUDIT AND ACCOUNTABILITY (AU),C010: Review and manage audit logs,AU.2.044,AU.2.044,AU.2.044: Review audit logs.,Review audit logs.,"• CMMC
+• CIS Controls v7.1 6.7
+• NIST CSF v1.1 PR.PT-1
+• CERT RMM v1.2 COMP:SG3.SP1
+• NIST SP 800-53 Rev 4 AU-6",,
+CMMC v1.02 Maturity Level 2,AWARENESS AND TRAINING (AT),C011: Conduct security awareness activities,AT.2.056,AT.2.056,"AT.2.056: Ensure that managers, system administrators, and users of organizational systems are made aware of the security risks associated with their activities and of the applicable policies, standards, and procedures related to the security of those systems.","Ensure that managers, system administrators, and users of organizational systems are made aware of the security risks associated with their activities and of the applicable policies, standards, and procedures related to the security of those systems.","• NIST SP 800-171 Rev 1 3.2.1
+• CIS Controls v7.1 17.3
+• NIST CSF v1.1 PR.AT-1, PR.AT-2, PR.AT-3, PR.AT-4, PR.AT-5
+• CERT RMM v1.2 OTA:SG1.SP1
+• NIST SP 800-53 Rev 4 AT-2, AT-3",,
+CMMC v1.02 Maturity Level 2,AWARENESS AND TRAINING (AT),C012: Conduct training,AT.2.057,AT.2.057,AT.2.057: Ensure that personnel are trained to carry out their assigned information security-related duties and responsibilities.,Ensure that personnel are trained to carry out their assigned information security-related duties and responsibilities.,"• NIST SP 800-171 Rev 1 3.2.2
+• CIS Controls v7.1 17.5, 17.6, 17.7, 17.8, 17.9
+• NIST CSF v1.1 PR.AT-1, PR.AT-2, PR.AT-3, PR.AT-4, PR.AT-5
+• CERT RMM v1.2 OTA:SG4.SP1
+• NIST SP 800-53 Rev 4 AT-2, AT-3",,
+CMMC v1.02 Maturity Level 2,CONFIGURATION MANAGEMENT (CM),C013: Establish configuration baselines,CM.2.061,CM.2.061,"CM.2.061: Establish and maintain baseline configurations and inventories of organizational systems (including hardware, software, firmware, and documentation) throughout the respective system development life cycles.","Establish and maintain baseline configurations and inventories of organizational systems (including hardware, software, firmware, and documentation) throughout the respective system development life cycles.","• NIST SP 800-171 Rev 1 3.4.1
+• CIS Controls v7.1 1.4, 1.5, 2.1, 2.4, 5.1
+• NIST CSF v1.1 ID.AM-1, ID.AM-2, PR.DS-3, PR.DS-7, PR.IP-1, DE.AE-1
+• CERT RMM v1.2 KIM:SG5.SP2
+• NIST SP 800-53 Rev 4 CM-2, CM-6, CM-8, CM-8(1)
+• UK NCSC Cyber Essentials",,
+CMMC v1.02 Maturity Level 2,CONFIGURATION MANAGEMENT (CM),C013: Establish configuration baselines,CM.2.062,CM.2.062,CM.2.062: Employ the principle of least functionality by configuring organizational systems to provide only essential capabilities.,Employ the principle of least functionality by configuring organizational systems to provide only essential capabilities.,"• NIST SP 800-171 Rev 1 3.4.6
+• NIST CSF v1.1 PR.IP-1, PR.PT-3
+• CERT RMM v1.2 TM:SG2.SP2
+• NIST SP 800-53 Rev 4 CM-7
+• UK NCSC Cyber Essentials ",,
+CMMC v1.02 Maturity Level 2,CONFIGURATION MANAGEMENT (CM),C013: Establish configuration baselines,CM.2.063,CM.2.063,CM.2.063: Control and monitor user-installed software.,Control and monitor user-installed software.,"• NIST SP 800-171 Rev 1 3.4.9
+• CIS Controls v7.1 2.1, 2.2, 2.6
+• NIST CSF v1.1 DE.CM-3
+• CERT RMM v1.2 MON:SG2.SP3
+• NIST SP 800-53 Rev 4 CM-11",,
+CMMC v1.02 Maturity Level 2,CONFIGURATION MANAGEMENT (CM),C014: Perform configuration and change management,CM.2.064,CM.2.064,CM.2.064: Establish and enforce security configuration settings for information technology products employed in organizational systems.,Establish and enforce security configuration settings for information technology products employed in organizational systems.,"• NIST SP 800-171 Rev 1 3.4.2
+• CIS Controls v7.1 1.4, 1.5, 2.1, 2.4, 5.1
+• NIST CSF v1.1 ID.AM-1, ID.AM-2, PR.DS-3, PR.DS-7, PR.IP-1, DE.AE-1
+• CERT RMM v1.2 TM:SG2.SP2
+• NIST SP 800-53 Rev 4 CM-2, CM-6, CM-8, CM-8(1)
+• UK NCSC Cyber Essentials",,
+CMMC v1.02 Maturity Level 2,CONFIGURATION MANAGEMENT (CM),C014: Perform configuration and change management,CM.2.065,CM.2.065,"CM.2.065: Track, review, approve, or disapprove, and log changes to organizational systems.","Track, review, approve, or disapprove, and log changes to organizational systems.","• NIST SP 800-171 Rev 1 3.4.3
+• NIST CSF v1.1 PR.IP-1, PR.IP-3
+• CERT RMM v1.2 KIM:SG5.SP2
+• NIST SP 800-53 Rev 4 CM-3
+• AU ACSC Essential Eight",,
+CMMC v1.02 Maturity Level 2,CONFIGURATION MANAGEMENT (CM),C014: Perform configuration and change management,CM.2.066,CM.2.066,CM.2.066: Analyze the security impact of changes prior to implementation.,Analyze the security impact of changes prior to implementation.,"• NIST SP 800-171 Rev 1 3.4.4
+• NIST CSF v1.1 PR.IP-3
+• NIST SP 800-53 Rev 4 CM-4",,
+CMMC v1.02 Maturity Level 2,IDENTIFICATION AND AUTHENTICATION (IA),C015: Grant access to authenticated entities,IA.2.078,IA.2.078,IA.2.078: Enforce a minimum password complexity and change of characters when new passwords are created.,Enforce a minimum password complexity and change of characters when new passwords are created.,"• NIST SP 800-171 Rev 1 3.5.7
+• CIS Controls v7.1 4.2, 4.4
+• NIST CSF v1.1 PR.AC-1, PR.AC-6, PR.AC-7
+• NIST SP 800-53 Rev 4 IA-5(1)
+• UK NCSC Cyber Essentials",,
+CMMC v1.02 Maturity Level 2,IDENTIFICATION AND AUTHENTICATION (IA),C015: Grant access to authenticated entities,IA.2.079,IA.2.079,IA.2.079: Prohibit password reuse for a specified number of generations.,Prohibit password reuse for a specified number of generations.,"• NIST SP 800-171 Rev 1 3.5.8
+• CIS Controls v7.1 4.2, 4.4
+• NIST CSF v1.1 PR.AC-1, PR.AC-6, PR.AC-7
+• NIST SP 800-53 Rev 4 IA-5(1)",,
+CMMC v1.02 Maturity Level 2,IDENTIFICATION AND AUTHENTICATION (IA),C015: Grant access to authenticated entities,IA.2.080,IA.2.080,IA.2.080: Allow temporary password use for system logons with an immediate change to a permanent password.,Allow temporary password use for system logons with an immediate change to a permanent password.,"• NIST SP 800-171 Rev 1 3.5.9
+• NIST CSF v1.1 PR.AC-1, PR.AC-6, PR.AC-7
+• NIST SP 800-53 Rev 4 IA-5(1)",,
+CMMC v1.02 Maturity Level 2,IDENTIFICATION AND AUTHENTICATION (IA),C015: Grant access to authenticated entities,IA.2.081,IA.2.081,IA.2.081: Store and transmit only cryptographically-protected passwords.,Store and transmit only cryptographically-protected passwords.,"• NIST SP 800-171 Rev 1 3.5.10
+• CIS Controls v7.1 16.4, 16.5
+• NIST CSF v1.1 PR.AC-1, PR.AC-6, PR.AC-7
+• CERT RMM v1.2 KIM:SG4.SP1
+• NIST SP 800-53 Rev 4 IA-5(1)",,
+CMMC v1.02 Maturity Level 2,IDENTIFICATION AND AUTHENTICATION (IA),C015: Grant access to authenticated entities,IA.2.082,IA.2.082,IA.2.082: Obscure feedback of authentication information.,Obscure feedback of authentication information.,"• NIST SP 800-171 Rev 1 3.5.11
+• NIST CSF v1.1 PR.AC-1
+• NIST SP 800-53 Rev 4 IA-6",,
+CMMC v1.02 Maturity Level 2,INCIDENT RESPONSE (IR),C016: Plan incident response,IR.2.092,IR.2.092,"IR.2.092: Establish an operational incident-handling capability for organizational systems that includes preparation, detection, analysis, containment, recovery, and user response activities.","Establish an operational incident-handling capability for organizational systems that includes preparation, detection, analysis, containment, recovery, and user response activities.","• NIST SP 800-171 Rev 1 3.6.1
+• NIST CSF v1.1. RS.RP-1
+• CERT RMM v1.2 IMC:SG1.SP1
+• NIST SP 800-53 Rev 4 IR-2, IR-4",,
+CMMC v1.02 Maturity Level 2,INCIDENT RESPONSE (IR),C017: Detect and report events,IR.2.093,IR.2.093,IR.2.093: Detect and report events.,Detect and report events.,"• CIS Controls v7.1 19.4
+• NIST CSF v1.1 DE.CM-1, DE.CM-2, DE.CM-3, RS.CO-2
+• CERT RMM v1.2 IMC:SG2.SP1
+• NIST SP 800-53 Rev 4 IR-6",,
+CMMC v1.02 Maturity Level 2,INCIDENT RESPONSE (IR),C017: Detect and report events,IR.2.094,IR.2.094,IR.2.094: Analyze and triage events to support event resolution and incident declaration.,Analyze and triage events to support event resolution and incident declaration.,"• CERT RMM v1.2 IMC:SG2.SP4
+• NIST SP 800-53 Rev 4 IR-4(3)",,
+CMMC v1.02 Maturity Level 2,INCIDENT RESPONSE (IR),C018: Develop and implement a response to a declared incident,IR.2.096,IR.2.096,IR.2.096: Develop and implement responses to declared incidents according to pre-defined procedures.,Develop and implement responses to declared incidents according to pre-defined procedures.,"• CIS Controls v7.1 19.1
+• NIST CSF v1.1 RS.RP-1
+• CERT RMM v1.2 IMC:SG4.SP2
+• NIST SP 800-53 Rev 4 IR-4",,
+CMMC v1.02 Maturity Level 2,INCIDENT RESPONSE (IR),C019: Perform post incident reviews,IR.2.097,IR.2.097,IR.2.097: Perform root cause analysis on incidents to determine underlying causes.,Perform root cause analysis on incidents to determine underlying causes.,"• NIST CSF v1.1 DE.AE-2
+• CERT RMM v1.2 IMC:SG5.SP1
+• NIST SP 800-53 Rev 4 AU-2",,
+CMMC v1.02 Maturity Level 2,MAINTENANCE (MA),C021: Manage maintenance,MA.2.111,MA.2.111,MA.2.111: Perform maintenance on organizational systems.,Perform maintenance on organizational systems.,"• NIST SP 800-171 Rev 1 3.7.1
+• NIST CSF v1.1 PR.MA-1
+• CERT RMM v1.2 TM:SG5.SP2
+• NIST SP 800-53 Rev 4 MA-2",,
+CMMC v1.02 Maturity Level 2,MAINTENANCE (MA),C021: Manage maintenance,MA.2.112,MA.2.112,"MA.2.112: Provide controls on the tools, techniques, mechanisms, and personnel used to conduct system maintenance.","Provide controls on the tools, techniques, mechanisms, and personnel used to conduct system maintenance.","• NIST SP 800-171 Rev 1 3.7.2
+• NIST CSF v1.2 PR.MA-1
+• CERT RMM v1.2 TM:SG5.SP2
+• NIST SP 800-53 Rev 4 MA-3",,
+CMMC v1.02 Maturity Level 2,MAINTENANCE (MA),C021: Manage maintenance,MA.2.113,MA.2.113,MA.2.113: Require multifactor authentication to establish nonlocal maintenance sessions via external network connections and terminate such connections when nonlocal maintenance is complete.,Require multifactor authentication to establish nonlocal maintenance sessions via external network connections and terminate such connections when nonlocal maintenance is complete.,"• NIST SP 800-171 Rev 1 3.7.5
+• NIST CSF v1.1 PR.MA-2
+• CERT RMM v1.2 TM:SG4.SP1
+• NIST SP 800-53 Rev 4 MA-4",,
+CMMC v1.02 Maturity Level 2,MAINTENANCE (MA),C021: Manage maintenance,MA.2.114,MA.2.114,MA.2.114: Supervise the maintenance activities of personnel without required access authorization.,Supervise the maintenance activities of personnel without required access authorization.,"• NIST SP 800-171 Rev 1 3.7.6
+• CERT RMM v1.2 TM:SG5.SP2
+• NIST SP 800-53 Rev 4 MA-5",,
+CMMC v1.02 Maturity Level 2,MEDIA PROTECTION (MP),C023: Protect and control media,MP.2.119,MP.2.119,"MP.2.119: Protect (i.e., physically control and securely store) system media containing CUI, both paper and digital.","Protect (i.e., physically control and securely store) system media containing CUI, both paper and digital.","• NIST SP 800-171 Rev 1 3.8.1
+• NIST CSF v1.1 PR.PT-2
+• CERT RMM v1.2 KIM:SG2.SP2
+• NIST SP 800-53 Rev 4 MP-4",,
+CMMC v1.02 Maturity Level 2,MEDIA PROTECTION (MP),C023: Protect and control media,MP.2.120,MP.2.120,MP.2.120: Limit access to CUI on system media to authorized users.,Limit access to CUI on system media to authorized users.,"• NIST SP 800-171 Rev 1 3.8.2
+• CIS Controls v7.1 14.6
+• NIST CSF v1.1 PR.PT-2
+• CERT RMM v1.2 MON:SG2.SP4
+• NIST SP 800-53 Rev 4 MP-2",,
+CMMC v1.02 Maturity Level 2,MEDIA PROTECTION (MP),C023: Protect and control media,MP.2.121,MP.2.121,MP.2.121: Control the use of removable media on system components.,Control the use of removable media on system components.,"• NIST SP 800-171 Rev 1 3.8.7
+• CIS Controls v7.1 13.7, 13.8
+• NIST CSF v1.1 PR.PT-2
+• CERT RMM v1.2 MON:SG2.SP4
+• NIST SP 800-53 Rev 4 MP-7",,
+CMMC v1.02 Maturity Level 2,PERSONNEL SECURITY (PS),C026: Screen personnel,PS.2.127,PS.2.127,PS.2.127: Screen individuals prior to authorizing access to organizational systems containing CUI.,Screen individuals prior to authorizing access to organizational systems containing CUI.,"• NIST SP 800-171 Rev 1 3.9.1
+• CERT RMM v1.2 HRM:SG2.SP1
+• NIST SP 800-53 Rev 4 PS-3",,
+CMMC v1.02 Maturity Level 2,PERSONNEL SECURITY (PS),C027: Protect CUI during personnel actions,PS.2.128,PS.2.128,PS.2.128: Ensure that organizational systems containing CUI are protected during and after personnel actions such as terminations and transfers.,Ensure that organizational systems containing CUI are protected during and after personnel actions such as terminations and transfers.,"• NIST SP 800-171 Rev 1 3.9.2
+• NIST CSF v1.1 PR.AC-1
+• CERT RMM v1.2 HRM:SG4.SP2
+• NIST SP 800-53 Rev 4 PS-4, PS-5",,
+CMMC v1.02 Maturity Level 2,PHYSICAL PROTECTION (PE),C028: Limit physical access,PE.2.135,PE.2.135,PE.2.135: Protect and monitor the physical facility and support infrastructure for organizational systems.,Protect and monitor the physical facility and support infrastructure for organizational systems.,"• NIST SP 800-171 Rev 1 3.10.2
+• NIST CSF v1.1 PR.AC-2
+• CERT RMM v1.2 KIM:SG4.SP2
+• NIST SP 800-53 Rev 4 PE-6",,
+CMMC v1.02 Maturity Level 2,RECOVERY (RE),C029: Manage backups,RE.2.137,RE.2.137,RE.2.137: Regularly perform and test data backups.,Regularly perform and test data backups.,"• CIS Controls v7.1 10.1, 10.3
+• NIST CSF v1.1 PR.IP-4
+• CERT RMM v1.2 KIM:SG6.SP1
+• NIST 800-53 Rev 4 CP-9
+• AU ACSC Essential Eight",,
+CMMC v1.02 Maturity Level 2,RECOVERY (RE),C029: Manage backups,RE.2.138,RE.2.138,RE.2.138: Protect the confidentiality of backup CUI at storage locations.,Protect the confidentiality of backup CUI at storage locations.,"• NIST SP 800-171 Rev 1 3.8.9
+• CERT RMM v1.2 MON:SG2.SP4
+• NIST 800-53 Rev 4 CP-9",,
+CMMC v1.02 Maturity Level 2,RISK MANAGEMENT (RM),C031: Identify and evaluate risk,RM.2.141,RM.2.141,"RM.2.141: Periodically assess the risk to organizational operations (including mission, functions, image, or reputation), organizational assets, and individuals, resulting from the operation of organizational systems and the associated processing, storage, or transmission of CUI.","Periodically assess the risk to organizational operations (including mission, functions, image, or reputation), organizational assets, and individuals, resulting from the operation of organizational systems and the associated processing, storage, or transmission of CUI.","• NIST SP 800-171 Rev 1 3.11.1
+• NIST CSF v1.1 ID.RA-1, ID.RA-4, DE.AE-4, RS.MI-3
+• CERT RMM v1.2 RISK:SG4
+• NIST SP 800-53 Rev 4 RA-3",,
+CMMC v1.02 Maturity Level 2,RISK MANAGEMENT (RM),C031: Identify and evaluate risk,RM.2.142,RM.2.142,RM.2.142: Scan for vulnerabilities in organizational systems and applications periodically and when new vulnerabilities affecting those systems and applications are identified.,Scan for vulnerabilities in organizational systems and applications periodically and when new vulnerabilities affecting those systems and applications are identified.,"• NIST SP 800-171 Rev 1 3.11.2
+• CIS Controls v7.1 3.1, 3.2
+• NIST CSF v1.1 ID.RA-1
+• CERT RMM v1.2 VAR:SG2.SP2
+• NIST SP 800-53 Rev 4 RA-5",,
+CMMC v1.02 Maturity Level 2,RISK MANAGEMENT (RM),C032: Manage risk,RM.2.143,RM.2.143,RM.2.143: Remediate vulnerabilities in accordance with risk assessments.,Remediate vulnerabilities in accordance with risk assessments.,"• NIST SP 800-171 Rev 1 3.11.3
+• CIS Controls v7.1 3.7
+• NIST CSF v1.1 RS.MI-3
+• CERT RMM v1.2 VAR:SG3.SP1
+• NIST SP 800-53 Rev 4 RA-5",,
+CMMC v1.02 Maturity Level 2,SECURITY ASSESSMENT (CA),C034: Develop and manage a system security plan,CA.2.157,CA.2.157,"CA.2.157: Develop, document, and periodically update system security plans that describe system boundaries, system environments of operation, how security requirements are implemented, and the relationships with or connections to other systems.","Develop, document, and periodically update system security plans that describe system boundaries, system environments of operation, how security requirements are implemented, and the relationships with or connections to other systems.","• NIST SP 800-171 Rev 1 3.12.4
+• NIST CSF v1.1 PR.IP-7
+• NIST SP 800-53 Rev 4 PL-2",,
+CMMC v1.02 Maturity Level 2,SECURITY ASSESSMENT (CA),C035: Define and manage controls,CA.2.158,CA.2.158,CA.2.158: Periodically assess the security controls in organizational systems to determine if the controls are effective in their application.,Periodically assess the security controls in organizational systems to determine if the controls are effective in their application.,"• NIST SP 800-171 Rev 1 3.12.1
+• NIST CSF v1.1 DE.DP-3
+• NIST SP 800-53 Rev 4 CA-2",,
+CMMC v1.02 Maturity Level 2,SECURITY ASSESSMENT (CA),C035: Define and manage controls,CA.2.159,CA.2.159,CA.2.159: Develop and implement plans of action designed to correct deficiencies and reduce or eliminate vulnerabilities in organizational systems.,Develop and implement plans of action designed to correct deficiencies and reduce or eliminate vulnerabilities in organizational systems.,"• NIST SP 800-171 Rev 1 3.12.2
+• CERT RMM v1.2 RISK:SG5.SP1
+• NIST SP 800-53 Rev 4 CA-5",,
+CMMC v1.02 Maturity Level 2,SYSTEM AND COMMUNICATIONS PROTECTION (SC),C038: Define security requirements for systems and communications,SC.2.178,SC.2.178,SC.2.178: Prohibit remote activation of collaborative computing devices and provide indication of devices in use to users present at the device.,Prohibit remote activation of collaborative computing devices and provide indication of devices in use to users present at the device.,"• NIST SP 800-171 Rev 1 3.13.12
+• NIST CSF v1.1 PR.AC-3
+• NIST SP 800-53 Rev 4 SC-15",,
+CMMC v1.02 Maturity Level 2,SYSTEM AND COMMUNICATIONS PROTECTION (SC),C038: Define security requirements for systems and communications,SC.2.179,SC.2.179,SC.2.179: Use encrypted sessions for the management of network devices.,Use encrypted sessions for the management of network devices.,"• CMMC 
+• CIS Controls v7.1 11.5",,
+CMMC v1.02 Maturity Level 2,SYSTEM AND INFORMATION INTEGRITY (SI),C040: Identify and manage information system flaws,SI.2.214,SI.2.214,SI.2.214: Monitor system security alerts and advisories and take action in response.,Monitor system security alerts and advisories and take action in response.,"• NIST SP 800-171 Rev 1 3.14.3
+• CIS Controls v7.1 6.5, 6.6
+• NIST CSF v1.1 RS.AN-5
+• CERT RMM v1.2 IMC:SG2.SP1
+• NIST SP 800-53 Rev 4 SI-5",,
+CMMC v1.02 Maturity Level 2,SYSTEM AND INFORMATION INTEGRITY (SI),C042: Perform network and system monitoring,SI.2.216,SI.2.216,"SI.2.216: Monitor organizational systems, including inbound and outbound communications traffic, to detect attacks and indicators of potential attacks.","Monitor organizational systems, including inbound and outbound communications traffic, to detect attacks and indicators of potential attacks.","• NIST SP 800-171 Rev 1 3.14.6
+• CIS Controls v7.1 12.6
+• NIST CSF v1.1 DE.CM-1
+• CERT RMM v1.2 MON:SG1.SP3
+• NIST SP 800-53 Rev 4 SI-4",,
+CMMC v1.02 Maturity Level 2,SYSTEM AND INFORMATION INTEGRITY (SI),C042: Perform network and system monitoring,SI.2.217,SI.2.217,SI.2.217: Identify unauthorized use of organizational systems.,Identify unauthorized use of organizational systems.,"• NIST SP 800-171 Rev 1 3.14.7
+• NIST CSF v1.1 DE.CM-1, DE.CM-7
+• CERT RMM v1.2 MON:SG1.SP3
+• NIST SP 800-53 Rev 4 SI-4",,

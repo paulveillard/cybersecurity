@@ -1,0 +1,246 @@
+﻿Framework Name,Control Family,Control Class,Control Number,Control Short Name,Control Long Name,Control Description,Supplemental Guidance,Domain Name,Domain Identifier
+CMMC v1.02 Maturity Level 3,PROCESS MATURITY (ML),MC01: Improve Access Control activities,AC.3.997,AC.3.997,"AC.3.997: Establish, maintain, and resource a plan that includes Access Control.","Establish, maintain, and resource a plan that includes Access Control.","• CERT RMM v1.2 GG2.GP2
+• CERT RMM v1.2 GG2.GP3",Access Control,AC
+CMMC v1.02 Maturity Level 3,PROCESS MATURITY (ML),MC01: Improve Asset Management activities,AM.3.997,AM.3.997,"AM.3.997: Establish, maintain, and resource a plan that includes Asset Management.","Establish, maintain, and resource a plan that includes Asset Management.","• CERT RMM v1.2 GG2.GP2
+• CERT RMM v1.2 GG2.GP3",Asset Management,AM
+CMMC v1.02 Maturity Level 3,PROCESS MATURITY (ML),MC01: Improve Audit and Accountability activities,AU.3.997,AU.3.997,"AU.3.997: Establish, maintain, and resource a plan that includes Audit and Accountability.","Establish, maintain, and resource a plan that includes Audit and Accountability.","• CERT RMM v1.2 GG2.GP2
+• CERT RMM v1.2 GG2.GP3",Audit and Accountability,AU
+CMMC v1.02 Maturity Level 3,PROCESS MATURITY (ML),MC01: Improve Awareness and Training activities,AT.3.997,AT.3.997,"AT.3.997: Establish, maintain, and resource a plan that includes Awareness and Training.","Establish, maintain, and resource a plan that includes Awareness and Training.","• CERT RMM v1.2 GG2.GP2
+• CERT RMM v1.2 GG2.GP3",Awareness and Training,AT
+CMMC v1.02 Maturity Level 3,PROCESS MATURITY (ML),MC01: Improve Configuration Management activities,CM.3.997,CM.3.997,"CM.3.997: Establish, maintain, and resource a plan that includes Configuration Management.","Establish, maintain, and resource a plan that includes Configuration Management.","• CERT RMM v1.2 GG2.GP2
+• CERT RMM v1.2 GG2.GP3",Configuration Management,CM
+CMMC v1.02 Maturity Level 3,PROCESS MATURITY (ML),MC01: Improve Identification and Authentication activities,IA.3.997,IA.3.997,"IA.3.997: Establish, maintain, and resource a plan that includes Identification and Authentication.","Establish, maintain, and resource a plan that includes Identification and Authentication.","• CERT RMM v1.2 GG2.GP2
+• CERT RMM v1.2 GG2.GP3",Identification and Authentication,IA
+CMMC v1.02 Maturity Level 3,PROCESS MATURITY (ML),MC01: Improve Incident Response activities,IR.3.997,IR.3.997,"IR.3.997: Establish, maintain, and resource a plan that includes Incident Response.","Establish, maintain, and resource a plan that includes Incident Response.","• CERT RMM v1.2 GG2.GP2
+• CERT RMM v1.2 GG2.GP3",Incident Response,IR
+CMMC v1.02 Maturity Level 3,PROCESS MATURITY (ML),MC01: Improve Maintenance activities,MA.3.997,MA.3.997,"MA.3.997: Establish, maintain, and resource a plan that includes Maintenance.","Establish, maintain, and resource a plan that includes Maintenance.","• CERT RMM v1.2 GG2.GP2
+• CERT RMM v1.2 GG2.GP3",Maintenance,MA
+CMMC v1.02 Maturity Level 3,PROCESS MATURITY (ML),MC01: Improve Media Protection activities,MP.3.997,MP.3.997,"MP.3.997: Establish, maintain, and resource a plan that includes Media Protection.","Establish, maintain, and resource a plan that includes Media Protection.","• CERT RMM v1.2 GG2.GP2
+• CERT RMM v1.2 GG2.GP3",Media Protection,MP
+CMMC v1.02 Maturity Level 3,PROCESS MATURITY (ML),MC01: Improve Personnel Security activities,PS.3.997,PS.3.997,"PS.3.997: Establish, maintain, and resource a plan that includes Personnel Security.","Establish, maintain, and resource a plan that includes Personnel Security.","• CERT RMM v1.2 GG2.GP2
+• CERT RMM v1.2 GG2.GP3",Personnel Security,PS
+CMMC v1.02 Maturity Level 3,PROCESS MATURITY (ML),MC01: Improve Physical Protection activities,PE.3.997,PE.3.997,"PE.3.997: Establish, maintain, and resource a plan that includes Physical Protection.","Establish, maintain, and resource a plan that includes Physical Protection.","• CERT RMM v1.2 GG2.GP2
+• CERT RMM v1.2 GG2.GP3",Physical Protection,PE
+CMMC v1.02 Maturity Level 3,PROCESS MATURITY (ML),MC01: Improve Recovery activities,RE.3.997,RE.3.997,"RE.3.997: Establish, maintain, and resource a plan that includes Recovery.","Establish, maintain, and resource a plan that includes Recovery.","• CERT RMM v1.2 GG2.GP2
+• CERT RMM v1.2 GG2.GP3",Recovery,RE
+CMMC v1.02 Maturity Level 3,PROCESS MATURITY (ML),MC01: Improve Risk Management activities,RM.3.997,RM.3.997,"RM.3.997: Establish, maintain, and resource a plan that includes Risk Management.","Establish, maintain, and resource a plan that includes Risk Management.","• CERT RMM v1.2 GG2.GP2
+• CERT RMM v1.2 GG2.GP3",Risk Management,RM
+CMMC v1.02 Maturity Level 3,PROCESS MATURITY (ML),MC01: Improve Security Assessment activities,CA.3.997,CA.3.997,"CA.3.997: Establish, maintain, and resource a plan that includes Security Assessment.","Establish, maintain, and resource a plan that includes Security Assessment.","• CERT RMM v1.2 GG2.GP2
+• CERT RMM v1.2 GG2.GP3",Security Assessment,CA
+CMMC v1.02 Maturity Level 3,PROCESS MATURITY (ML),MC01: Improve Situational Awareness activities,SA.3.997,SA.3.997,"SA.3.997: Establish, maintain, and resource a plan that includes Situational Awareness.","Establish, maintain, and resource a plan that includes Situational Awareness.","• CERT RMM v1.2 GG2.GP2
+• CERT RMM v1.2 GG2.GP3",Situational Awareness,SA
+CMMC v1.02 Maturity Level 3,PROCESS MATURITY (ML),MC01: Improve System and Communications Protection activities,SC.3.997,SC.3.997,"SC.3.997: Establish, maintain, and resource a plan that includes System and Communications Protection.","Establish, maintain, and resource a plan that includes System and Communications Protection.","• CERT RMM v1.2 GG2.GP2
+• CERT RMM v1.2 GG2.GP3",System and Communications Protection,SC
+CMMC v1.02 Maturity Level 3,PROCESS MATURITY (ML),MC01: Improve System and Information Integrity activities,SI.3.997,SI.3.997,"SI.3.997: Establish, maintain, and resource a plan that includes System and Information Integrity.","Establish, maintain, and resource a plan that includes System and Information Integrity.","• CERT RMM v1.2 GG2.GP2
+• CERT RMM v1.2 GG2.GP3",System and Information Integrity,SI
+CMMC v1.02 Maturity Level 3,ACCESS CONTROL (AC),C002: Control internal system access,AC.3.017,AC.3.017,AC.3.017: Separate the duties of individuals to reduce the risk of malevolent activity without collusion.,Separate the duties of individuals to reduce the risk of malevolent activity without collusion.,"• NIST SP 800-171 Rev 1 3.1.4
+• NIST CSF v1.1 PR.AC-4
+• NIST SP 800-53 Rev 4 AC-5",,
+CMMC v1.02 Maturity Level 3,ACCESS CONTROL (AC),C002: Control internal system access,AC.3.018,AC.3.018,AC.3.018: Prevent non-privileged users from executing privileged functions and capture the execution of such functions in audit logs.,Prevent non-privileged users from executing privileged functions and capture the execution of such functions in audit logs.,"• NIST SP 800-171 Rev 1 3.1.7
+• NIST CSF v1.1 PR.AC-4
+• CERT RMM v1.2 KIM:SG4.SP1
+• NIST SP 800-53 Rev 4 AC-6(9), AC-6(10)",,
+CMMC v1.02 Maturity Level 3,ACCESS CONTROL (AC),C002: Control internal system access,AC.3.019,AC.3.019,AC.3.019: Terminate (automatically) user sessions after a defined condition.,Terminate (automatically) user sessions after a defined condition.,"• NIST SP 800-171 Rev 1 3.1.11
+• CIS Controls v7.1 16.7, 16.11
+• NIST SP 800-53 Rev 4 AC-12",,
+CMMC v1.02 Maturity Level 3,ACCESS CONTROL (AC),C002: Control internal system access,AC.3.012,AC.3.012,AC.3.012: Protect wireless access using authentication and encryption.,Protect wireless access using authentication and encryption.,"• NIST SP 800-171 Rev 1 3.1.17
+• CIS Controls v7.1 15.7, 15.8
+• NIST CSF v1.1 PR.PT-4
+• CERT RMM v1.2 KIM:SG4.SP1
+• NIST SP 800-53 Rev 4 AC-18(1)",,
+CMMC v1.02 Maturity Level 3,ACCESS CONTROL (AC),C002: Control internal system access,AC.3.020,AC.3.020,AC.3.020: Control connection of mobile devices.,Control connection of mobile devices.,"• NIST SP 800-171 Rev 1 3.1.18
+• CIS Controls v7.1 13.6, 16.7
+• NIST CSF v1.1 PR.AC-3, PR.AC-6
+• CERT RMM v1.2 TM:SG2.SP2
+• NIST SP 800-53 Rev 4 AC-19
+• UK NCSC Cyber Essentials",,
+CMMC v1.02 Maturity Level 3,ACCESS CONTROL (AC),C003: Control remote system access,AC.3.014,AC.3.014,AC.3.014: Employ cryptographic mechanisms to protect the confidentiality of remote access sessions.,Employ cryptographic mechanisms to protect the confidentiality of remote access sessions.,"• NIST SP 800-171 Rev 1 3.1.13
+• CIS Controls v7.1 15.7, 15.8
+• NIST CSF v1.1 PR.AC-3, PR.PT-4
+• CERT RMM v1.2 KIM:SG4.SP1
+• NIST SP 800-53 Rev 4 AC-17(2)",,
+CMMC v1.02 Maturity Level 3,ACCESS CONTROL (AC),C003: Control remote system access,AC.3.021,AC.3.021,AC.3.021: Authorize remote execution of privileged commands and remote access to security-relevant information.,Authorize remote execution of privileged commands and remote access to security-relevant information.,"• NIST SP 800-171 Rev 1 3.1.15
+• CIS Controls v7.1 8.8, 12.11, 12.12
+• NIST CSF v1.1 PR.AC-3, PR.PT-4
+• CERT RMM v1.2 TM:SG2.SP2
+• NIST SP 800-53 Rev 4 AC-17(4)",,
+CMMC v1.02 Maturity Level 3,ACCESS CONTROL (AC),C004: Limit data access to authorized users and processes,AC.3.022,AC.3.022,AC.3.022: Encrypt CUI on mobile devices and mobile computing platforms.,Encrypt CUI on mobile devices and mobile computing platforms.,"• NIST SP 800-171 Rev 1 3.1.19
+• CIS Controls v7.1 13.6
+• NIST CSF v1.1 PR.AC-3
+• CERT RMM v1.2 KIM:SG4.SP1
+• NIST SP 800-53 Rev 4 AC-19(5)",,
+CMMC v1.02 Maturity Level 3,ASSET MANAGEMENT (AM),C005: Identify and document assets,AM.3.036,AM.3.036,AM.3.036: Define procedures for the handling of CUI data.,Define procedures for the handling of CUI data.,• CMMC,,
+CMMC v1.02 Maturity Level 3,AUDIT AND ACCOUNTABILITY (AU),C007: Define audit requirements,AU.3.045,AU.3.045,AU.3.045: Review and update logged events.,Review and update logged events.,"• NIST SP 800-171 Rev 1 3.3.3
+• CIS Controls v7.1 6.7
+• CERT RMM v1.2 IMC:SG2.SP2
+• NIST SP 800-53 Rev 4 AU-2(3)",,
+CMMC v1.02 Maturity Level 3,AUDIT AND ACCOUNTABILITY (AU),C007: Define audit requirements,AU.3.046,AU.3.046,AU.3.046: Alert in the event of an audit logging process failure.,Alert in the event of an audit logging process failure.,"• NIST SP 800-171 Rev 1 3.3.4
+• CIS Controls v7.1 6.7
+• NIST SP 800-53 Rev 4 AU-5",,
+CMMC v1.02 Maturity Level 3,AUDIT AND ACCOUNTABILITY (AU),C008: Perform auditing,AU.3.048,AU.3.048,"AU.3.048: Collect audit information (e.g., logs) into one or more central repositories.","Collect audit information (e.g., logs) into one or more central repositories.","• CMMC
+• CIS Controls v7.1 6.5
+• CERT RMM v1.2 COMP:SG3.SP1
+• NIST SP 800-53 Rev 4 AU-6(4)",,
+CMMC v1.02 Maturity Level 3,AUDIT AND ACCOUNTABILITY (AU),C009: Identify and protect audit information,AU.3.049,AU.3.049,"AU.3.049: Protect audit information and audit logging tools from unauthorized access, modification, and deletion.","Protect audit information and audit logging tools from unauthorized access, modification, and deletion.","• NIST SP 800-171 Rev 1 3.3.8 
+• CERT RMM v1.2 MON:SG2.SP3
+• NIST SP 800-53 Rev 4 AU-6(7), AU-9",,
+CMMC v1.02 Maturity Level 3,AUDIT AND ACCOUNTABILITY (AU),C009: Identify and protect audit information,AU.3.050,AU.3.050,AU.3.050: Limit management of audit logging functionality to a subset of privileged users.,Limit management of audit logging functionality to a subset of privileged users.,"• NIST SP 800-171 Rev 1 3.3.9
+• CERT RMM v1.2 MON:SG2.SP2
+• NIST SP 800-53 Rev 4 AU-6(7), AU-9(4)",,
+CMMC v1.02 Maturity Level 3,AUDIT AND ACCOUNTABILITY (AU),C010: Review and manage audit logs,AU.3.051,AU.3.051,"AU.3.051: Correlate audit record review, analysis, and reporting processes for investigation and response to indications of unlawful, unauthorized, suspicious, or unusual activity.","Correlate audit record review, analysis, and reporting processes for investigation and response to indications of unlawful, unauthorized, suspicious, or unusual activity.","• NIST SP 800-171 Rev 1 3.3.5
+• CIS Controls v7.1 6.6, 6.7
+• NIST CSF v1.1 DE.AE-3
+• CERT RMM v1.2 COMP: SG3.SP1
+• NIST SP 800-53 Rev 4 AU-6(3)",,
+CMMC v1.02 Maturity Level 3,AUDIT AND ACCOUNTABILITY (AU),C010: Review and manage audit logs,AU.3.052,AU.3.052,AU.3.052: Provide audit record reduction and report generation to support on-demand analysis and reporting.,Provide audit record reduction and report generation to support on-demand analysis and reporting.,"• NIST SP 800-171 Rev 1 3.3.6
+• NIST CSF v1.1 RS.AN-3
+• CERT RMM v1.2 COMP:SG3.SP2
+• NIST SP 800-53 Rev 4 AU-7 ",,
+CMMC v1.02 Maturity Level 3,AWARENESS AND TRAINING (AT),C011: Conduct security awareness activities,AT.3.058,AT.3.058,AT.3.058: Provide security awareness training on recognizing and reporting potential indicators of insider threat.,Provide security awareness training on recognizing and reporting potential indicators of insider threat.,"• NIST SP 800-171 Rev 1 3.2.3
+• NIST CSF v1.1 ID.RA-3
+• CERT RMM v1.2 OTA:SG2.SP1
+• NIST SP 800-53 Rev 4 AT-2(2)",,
+CMMC v1.02 Maturity Level 3,CONFIGURATION MANAGEMENT (CM),C014: Perform configuration and change management,CM.3.067,CM.3.067,"CM.3.067: Define, document, approve, and enforce physical and logical access restrictions associated with changes to organizational systems.","Define, document, approve, and enforce physical and logical access restrictions associated with changes to organizational systems.","• NIST SP 800-171 Rev 1 3.4.5
+• CIS Controls v7.1 2.5, 2.7, 2.8, 2.9, 4.3, 11.1, 11.3, 11.7
+• NIST CSF v1.1 PR.IP-1
+• CERT RMM v1.2 TM:SG4.SP1
+• NIST SP 800-53 Rev 4 CM-5
+• UK NCSC Cyber Essentials",,
+CMMC v1.02 Maturity Level 3,CONFIGURATION MANAGEMENT (CM),C014: Perform configuration and change management,CM.3.068,CM.3.068,"CM.3.068: Restrict, disable, or prevent the use of nonessential programs, functions, ports, protocols, and services.","Restrict, disable, or prevent the use of nonessential programs, functions, ports, protocols, and services.","• NIST SP 800-171 Rev 1 3.4.7
+• CIS Controls v7.1 9.2, 9.4, 12.4
+• NIST CSF v1.1 PR.IP-1, PR.PT-3
+• CERT RMM v1.2 TM:SG2.SP2
+• NIST SP 800-53 Rev 4 CM-7(1), CM-7(2)
+• UK NCSC Cyber Essentials",,
+CMMC v1.02 Maturity Level 3,CONFIGURATION MANAGEMENT (CM),C014: Perform configuration and change management,CM.3.069,CM.3.069,"CM.3.069: Apply deny-by-exception (blacklisting) policy to prevent the use of unauthorized software or deny-all, permit-by-exception (whitelisting) policy to allow the execution of authorized software.","Apply deny-by-exception (blacklisting) policy to prevent the use of unauthorized software or deny-all, permit-by-exception (whitelisting) policy to allow the execution of authorized software.","• NIST SP 800-171 Rev 1 3.4.8
+• CIS Controls v7.1 2.1, 2.2, 2.6, 2.7, 2.8, 2.9
+• NIST CSF v1.1 PR.PT-3
+• CERT RMM v1.2 TM:SG2.SP2
+• NIST SP 800-53 Rev 4 CM-7(4), CM-7(5)
+• UK NCSC Cyber Essentials",,
+CMMC v1.02 Maturity Level 3,IDENTIFICATION AND AUTHENTICATION (IA),C015: Grant access to authenticated entities,IA.3.083,IA.3.083,IA.3.083: Use multifactor authentication for local and network access to privileged accounts and for network access to non-privileged accounts.,Use multifactor authentication for local and network access to privileged accounts and for network access to non-privileged accounts.,"• NIST SP 800-171 Rev 1 3.5.3
+• CIS Controls v7.1 4.5, 11.5, 12.11
+• NIST CSF v1.1 PR.AC-1, PR.AC-6, PR.AC-7
+• CERT RMM v1.2 TM:SG4.SP1
+• NIST SP 800-53 Rev 4 IA-2(1), IA-2(2), IA-2(3)
+• AU ACSC Essential Eight",,
+CMMC v1.02 Maturity Level 3,IDENTIFICATION AND AUTHENTICATION (IA),C015: Grant access to authenticated entities,IA.3.084,IA.3.084,IA.3.084: Employ replay-resistant authentication mechanisms for network access to privileged and non-privileged accounts.,Employ replay-resistant authentication mechanisms for network access to privileged and non-privileged accounts.,"• NIST SP 800-171 Rev 1 3.5.4
+• NIST CSF v1.1 PR.AC-1, PR.AC-6, PR.AC-7
+• NIST SP 800-53 Rev 4 IA-2(8), IA-2(9)",,
+CMMC v1.02 Maturity Level 3,IDENTIFICATION AND AUTHENTICATION (IA),C015: Grant access to authenticated entities,IA.3.085,IA.3.085,IA.3.085: Prevent the reuse of identifiers for a defined period.,Prevent the reuse of identifiers for a defined period.,"• NIST SP 800-171 Rev 1 3.5.5
+• CIS Controls v7.1 16.7, 16.10, 16.12
+• NIST CSF v1.1 PR.AC-1, PR.AC-6, PR.AC-7
+• NIST SP 800-53 Rev 4 IA-4",,
+CMMC v1.02 Maturity Level 3,IDENTIFICATION AND AUTHENTICATION (IA),C015: Grant access to authenticated entities,IA.3.086,IA.3.086,IA.3.086: Disable identifiers after a defined period of inactivity.,Disable identifiers after a defined period of inactivity.,"• NIST SP 800-171 Rev 1 3.5.6
+• CIS Controls v7.1 16.9, 16.10, 16.11
+• NIST CSF v1.1 PR.AC-1, PR.AC-6, PR.AC-7
+• NIST SP 800-53 Rev 4 IA-4",,
+CMMC v1.02 Maturity Level 3,INCIDENT RESPONSE (IR),C018: Develop and implement a response to a declared incident,IR.3.098,IR.3.098,"IR.3.098: Track, document, and report incidents to designated officials and/or authorities both internal and external to the organization.","Track, document, and report incidents to designated officials and/or authorities both internal and external to the organization.","• NIST SP 800-171 Rev 1 3.6.2
+• CIS Controls v7.1 19.4
+• NIST CSF v1.1 RS.CO-2, RS.CO-3
+• CERT RMM v1.2 IMC:SG2.SP2
+• NIST SP 800-53 Rev 4 IR-6, IR-7",,
+CMMC v1.02 Maturity Level 3,INCIDENT RESPONSE (IR),C020: Test incident response,IR.3.099,IR.3.099,IR.3.099: Test the organizational incident response capability.,Test the organizational incident response capability.,"• NIST SP 800-171 Rev 1 3.6.3
+• CIS Controls v7.1 19.7
+• NIST CSF v1.1 DE.DP-3
+• NIST SP 800-53 Rev 4 IR-3",,
+CMMC v1.02 Maturity Level 3,MAINTENANCE (MA),C021: Manage maintenance,MA.3.115,MA.3.115,MA.3.115: Ensure equipment removed for off-site maintenance is sanitized of any CUI.,Ensure equipment removed for off-site maintenance is sanitized of any CUI.,"• NIST SP 800-171 Rev 1 3.7.3
+• CERT RMM v1.2 TM:SG5.SP2
+• NIST SP 800-53 Rev 4 MA-2",,
+CMMC v1.02 Maturity Level 3,MAINTENANCE (MA),C021: Manage maintenance,MA.3.116,MA.3.116,MA.3.116: Check media containing diagnostic and test programs for malicious code before the media are used in organizational systems.,Check media containing diagnostic and test programs for malicious code before the media are used in organizational systems.,"• NIST SP 800-171 Rev 1 3.7.4
+• NIST SP 800-53 Rev 4 MA-3(2)",,
+CMMC v1.02 Maturity Level 3,MEDIA PROTECTION (MP),C022: Identify and mark media,MP.3.122,MP.3.122,MP.3.122: Mark media with necessary CUI markings and distribution limitations.,Mark media with necessary CUI markings and distribution limitations.,"• NIST SP 800-171 Rev 1 3.8.4
+• NIST CSF v1.1 PR.PT-2
+• CERT RMM v1.2 MON:SG2.SP4
+• NIST SP 800-53 Rev 4 MP-3",,
+CMMC v1.02 Maturity Level 3,MEDIA PROTECTION (MP),C023: Protect and control media,MP.3.123,MP.3.123,MP.3.123: Prohibit the use of portable storage devices when such devices have no identifiable owner.,Prohibit the use of portable storage devices when such devices have no identifiable owner.,"• NIST SP 800-171 Rev 1 3.8.8
+• NIST CSF v1.1 PR.PT-2
+• CERT RMM v1.2 MON:SG2.SP4
+• NIST SP 800-53 Rev 4 MP-7(1)",,
+CMMC v1.02 Maturity Level 3,MEDIA PROTECTION (MP),C025: Protect media during transport,MP.3.124,MP.3.124,MP.3.124: Control access to media containing CUI and maintain accountability for media during transport outside of controlled areas.,Control access to media containing CUI and maintain accountability for media during transport outside of controlled areas.,"• NIST SP 800-171 Rev 1 3.8.5
+• NIST CSF v1.1 PR.PT-2
+• CERT RMM v1.2 KIM:SG4.SP2
+• NIST SP 800-53 Rev 4 MP-5",,
+CMMC v1.02 Maturity Level 3,MEDIA PROTECTION (MP),C025: Protect media during transport,MP.3.125,MP.3.125,MP.3.125: Implement cryptographic mechanisms to protect the confidentiality of CUI stored on digital media during transport unless otherwise protected by alternative physical safeguards.,Implement cryptographic mechanisms to protect the confidentiality of CUI stored on digital media during transport unless otherwise protected by alternative physical safeguards.,"• NIST SP 800-171 Rev 1 3.8.6
+• CIS Controls v7.1 13.9
+• CERT RMM v1.2 KIM:SG4.SP1
+• NIST SP 800-53 Rev 4 MP-5(4)",,
+CMMC v1.02 Maturity Level 3,PHYSICAL PROTECTION (PE),C028: Limit physical access,PE.3.136,PE.3.136,PE.3.136: Enforce safeguarding measures for CUI at alternate work sites.,Enforce safeguarding measures for CUI at alternate work sites.,"• NIST SP 800-171 Rev 1 3.10.6
+• CERT RMM v1.2 EC:SG2.SP1
+• NIST SP 800-53 Rev 4 PE-17",,
+CMMC v1.02 Maturity Level 3,RECOVERY (RE),C029: Manage backups,RE.3.139,RE.3.139,"RE.3.139: Regularly perform complete, comprehensive, and resilient data backups as organizationally defined.","Regularly perform complete, comprehensive, and resilient data backups as organizationally defined.","• CIS Controls v7.1 10.1, 10.2, 10.5
+• CERT RMM v1.2 KIM:SG6.SP1
+• NIST 800-53 Rev 4 CP-9, CP-9(3)",,
+CMMC v1.02 Maturity Level 3,RISK MANAGEMENT (RM),C031: Identify and evaluate risk,RM.3.144,RM.3.144,"RM.3.144: Periodically perform risk assessments to identify and prioritize risks according to the defined risk categories, risk sources, and risk measurement criteria.","Periodically perform risk assessments to identify and prioritize risks according to the defined risk categories, risk sources, and risk measurement criteria.","• NIST CSF v1.1 ID.RA-5
+• CERT RMM v1.2 RISK:SG3, RISK:SG4.SP3 
+• NIST SP 800-53 Rev 4 RA-3",,
+CMMC v1.02 Maturity Level 3,RISK MANAGEMENT (RM),C032: Manage risk,RM.3.146,RM.3.146,RM.3.146: Develop and implement risk mitigation plans.,Develop and implement risk mitigation plans.,"• NIST CSF v1.1 ID.RA-6, ID.RM-1
+• CERT RMM v1.2 RISK:SG5.SP1
+• NIST SP 800-53 Rev 4 PM-9",,
+CMMC v1.02 Maturity Level 3,RISK MANAGEMENT (RM),C032: Manage risk,RM.3.147,RM.3.147,"RM.3.147: Manage non-vendor-supported products (e.g., end of life) separately and restrict as necessary to reduce risk.","Manage non-vendor-supported products (e.g., end of life) separately and restrict as necessary to reduce risk.","• CMMC
+• CIS Controls v7.1 2.2
+• NIST SP 800-53 Rev 4 SA-22(1)",,
+CMMC v1.02 Maturity Level 3,SECURITY ASSESSMENT (CA),C035: Define and manage controls,CA.3.161,CA.3.161,CA.3.161: Monitor security controls on an ongoing basis to ensure the continued effectiveness of the controls.,Monitor security controls on an ongoing basis to ensure the continued effectiveness of the controls.,"• NIST SP 800-171 Rev 1 3.12.3
+• NIST CSF v1.1 PR.IP-7, DE.DP-5
+• CERT RMM v1.2 MON:SG1.SP1
+• NIST SP 800-53 Rev 4 CA-7",,
+CMMC v1.02 Maturity Level 3,SECURITY ASSESSMENT (CA),C036: Perform code reviews,CA.3.162,CA.3.162,"CA.3.162: Employ a security assessment of enterprise software that has been developed internally, for internal use, and that has been organizationally defined as an area of risk.","Employ a security assessment of enterprise software that has been developed internally, for internal use, and that has been organizationally defined as an area of risk.","• CMMC
+• CIS Controls v7.1 18.1, 18.2",,
+CMMC v1.02 Maturity Level 3,SITUATIONAL AWARENESS (SA),C037: Implement threat monitoring,SA.3.169,SA.3.169,SA.3.169: Receive and respond to cyber threat intelligence from information sharing forums and sources and communicate to stakeholders.,Receive and respond to cyber threat intelligence from information sharing forums and sources and communicate to stakeholders.,"• CMMC
+• NIST CSF v1.1 ID.RA-2
+• NIST SP 800-53 Rev 4 PM-16",,
+CMMC v1.02 Maturity Level 3,SYSTEM AND COMMUNICATIONS PROTECTION (SC),C038: Define security requirements for systems and communications,SC.3.177,SC.3.177,SC.3.177: Employ FIPS-validated cryptography when used to protect the confidentiality of CUI.,Employ FIPS-validated cryptography when used to protect the confidentiality of CUI.,"• NIST SP 800-171 Rev 1 3.13.11
+• CIS Controls v7.1 14.4, 14.8
+• NIST CSF v1.1 PR.DS-1, PR.DS-2
+• CERT RMM v1.2 KIM:SG4.SP1
+• NIST SP 800-53 Rev 4 SC-13",,
+CMMC v1.02 Maturity Level 3,SYSTEM AND COMMUNICATIONS PROTECTION (SC),C038: Define security requirements for systems and communications,SC.3.180,SC.3.180,"SC.3.180: Employ architectural designs, software development techniques, and systems engineering principles that promote effective information security within organizational systems.","Employ architectural designs, software development techniques, and systems engineering principles that promote effective information security within organizational systems.","• NIST SP 800-171 Rev 1 3.13.2
+• CIS Controls v7.1 5.1, 5.2, 5.4
+• NIST SP 800-53 Rev 4 SA-8",,
+CMMC v1.02 Maturity Level 3,SYSTEM AND COMMUNICATIONS PROTECTION (SC),C038: Define security requirements for systems and communications,SC.3.181,SC.3.181,SC.3.181: Separate user functionality from system management functionality.,Separate user functionality from system management functionality.,"• NIST SP 800-171 Rev 1 3.13.3
+• CIS Controls v7.1 4.3
+• CERT RMM v1.2 KIM:SG2.SP2
+• NIST SP 800-53 Rev 4 SC-2
+• AU ACSC Essential Eight",,
+CMMC v1.02 Maturity Level 3,SYSTEM AND COMMUNICATIONS PROTECTION (SC),C038: Define security requirements for systems and communications,SC.3.182,SC.3.182,SC.3.182: Prevent unauthorized and unintended information transfer via shared system resources.,Prevent unauthorized and unintended information transfer via shared system resources.,"• NIST SP 800-171 Rev 1 3.13.4
+• NIST SP 800-53 Rev 4 SC-4",,
+CMMC v1.02 Maturity Level 3,SYSTEM AND COMMUNICATIONS PROTECTION (SC),C038: Define security requirements for systems and communications,SC.3.183,SC.3.183,"SC.3.183: Deny network communications traffic by default and allow network communications traffic by exception (i.e., deny all, permit by exception).","Deny network communications traffic by default and allow network communications traffic by exception (i.e., deny all, permit by exception).","• NIST SP 800-171 Rev 1 3.13.6
+• NIST SP 800-53 Rev 4 SC-7(5)",,
+CMMC v1.02 Maturity Level 3,SYSTEM AND COMMUNICATIONS PROTECTION (SC),C038: Define security requirements for systems and communications,SC.3.184,SC.3.184,"SC.3.184: Prevent remote devices from simultaneously establishing non-remote connections with organizational systems and communicating via some other connection to resources in external networks (i.e., split tunneling).","Prevent remote devices from simultaneously establishing non-remote connections with organizational systems and communicating via some other connection to resources in external networks (i.e., split tunneling).","• NIST SP 800-171 Rev 1 3.13.7
+• CIS Controls v7.1 12.12
+• NIST CSF v1.1 PR.AC-3
+• NIST SP 800-53 Rev 4 SC-7(7)",,
+CMMC v1.02 Maturity Level 3,SYSTEM AND COMMUNICATIONS PROTECTION (SC),C038: Define security requirements for systems and communications,SC.3.185,SC.3.185,SC.3.185: Implement cryptographic mechanisms to prevent unauthorized disclosure of CUI during transmission unless otherwise protected by alternative physical safeguards.,Implement cryptographic mechanisms to prevent unauthorized disclosure of CUI during transmission unless otherwise protected by alternative physical safeguards.,"• NIST SP 800-171 Rev 1 3.13.8
+• NIST CSF v1.1 PR.AC-2
+• CERT RMM v1.2 KIM:SG4.SP1
+• NIST SP 800-53 Rev 4 SC-8(1)",,
+CMMC v1.02 Maturity Level 3,SYSTEM AND COMMUNICATIONS PROTECTION (SC),C038: Define security requirements for systems and communications,SC.3.186,SC.3.186,SC.3.186: Terminate network connections associated with communications sessions at the end of the sessions or after a defined period of inactivity.,Terminate network connections associated with communications sessions at the end of the sessions or after a defined period of inactivity.,"• NIST SP 800-171 Rev 1 3.13.9
+• NIST SP 800-53 Rev 4 SC-10",,
+CMMC v1.02 Maturity Level 3,SYSTEM AND COMMUNICATIONS PROTECTION (SC),C038: Define security requirements for systems and communications,SC.3.187,SC.3.187,SC.3.187: Establish and manage cryptographic keys for cryptography employed in organizational systems.,Establish and manage cryptographic keys for cryptography employed in organizational systems.,"• NIST SP 800-171 Rev 1 3.13.10
+• CERT RMM v1.2 KIM:SG4.SP1
+• NIST SP 800-53 Rev 4 SC-12",,
+CMMC v1.02 Maturity Level 3,SYSTEM AND COMMUNICATIONS PROTECTION (SC),C038: Define security requirements for systems and communications,SC.3.188,SC.3.188,SC.3.188: Control and monitor the use of mobile code.,Control and monitor the use of mobile code.,"• NIST SP 800-171 Rev 1 3.13.13
+• NIST CSF v1.1 DE.CM-5
+• NIST SP 800-53 Rev 4 SC-18
+• AU ACSC Essential Eight",,
+CMMC v1.02 Maturity Level 3,SYSTEM AND COMMUNICATIONS PROTECTION (SC),C038: Define security requirements for systems and communications,SC.3.189,SC.3.189,SC.3.189: Control and monitor the use of Voice over Internet Protocol (VoIP) technologies.,Control and monitor the use of Voice over Internet Protocol (VoIP) technologies.,"• NIST SP 800-171 Rev 1 3.13.14
+• NIST SP 800-53 Rev 4 SC-19",,
+CMMC v1.02 Maturity Level 3,SYSTEM AND COMMUNICATIONS PROTECTION (SC),C038: Define security requirements for systems and communications,SC.3.190,SC.3.190,SC.3.190: Protect the authenticity of communications sessions.,Protect the authenticity of communications sessions.,"• NIST SP 800-171 Rev 1 3.13.15
+• NIST SP 800-53 Rev 4 SC-23",,
+CMMC v1.02 Maturity Level 3,SYSTEM AND COMMUNICATIONS PROTECTION (SC),C038: Define security requirements for systems and communications,SC.3.191,SC.3.191,SC.3.191: Protect the confidentiality of CUI at rest.,Protect the confidentiality of CUI at rest.,"• NIST SP 800-171 Rev 1 3.13.16
+• CIS Controls v7.1 14.8
+• NIST CSF v1.1 PR.DS-1
+• NIST SP 800-53 Rev 4 SC-28",,
+CMMC v1.02 Maturity Level 3,SYSTEM AND COMMUNICATIONS PROTECTION (SC),C039: Control communications at system boundaries,SC.3.192,SC.3.192,SC.3.192: Implement Domain Name System (DNS) filtering services.,Implement Domain Name System (DNS) filtering services.,"• CMMC
+• CIS Controls v7.1 7.7
+• NIST SP 800-53 Rev 4 SC-20",,
+CMMC v1.02 Maturity Level 3,SYSTEM AND COMMUNICATIONS PROTECTION (SC),C039: Control communications at system boundaries,SC.3.193,SC.3.193,"SC.3.193: Implement a policy restricting the publication of CUI on externally owned, publicly accessible websites (e.g., forums, LinkedIn, Facebook, Twitter).","Implement a policy restricting the publication of CUI on externally owned, publicly accessible websites (e.g., forums, LinkedIn, Facebook, Twitter).",• CMMC,,
+CMMC v1.02 Maturity Level 3,SYSTEM AND INFORMATION INTEGRITY (SI),C042: Perform network and system monitoring,SI.3.218,SI.3.218,SI.3.218: Employ spam protection mechanisms at information system access entry and exit points.,Employ spam protection mechanisms at information system access entry and exit points.,"• CMMC
+• NIST SP 800-53 Rev 4 SI-8",,
+CMMC v1.02 Maturity Level 3,SYSTEM AND INFORMATION INTEGRITY (SI),C043: Implement advanced email protections,SI.3.219,SI.3.219,SI.3.219: Implement email forgery protections.,Implement email forgery protections.,"• CMMC
+• CIS Controls v7.1 7.8
+• NIST CSF v1.1 PR.DS-2
+• CERT RMM v1.2 KIM:SG4.SP1
+• NIST SP 800-53 Rev 4 SC-8",,
+CMMC v1.02 Maturity Level 3,SYSTEM AND INFORMATION INTEGRITY (SI),C043: Implement advanced email protections,SI.3.220,SI.3.220,SI.3.220: Utilize sandboxing to detect or block potentially malicious email.,Utilize sandboxing to detect or block potentially malicious email.,"• CIS Controls v7.1 7.10
+• NIST SP 800-53 Rev 4 SC-44",,

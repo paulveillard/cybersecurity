@@ -1,0 +1,776 @@
+﻿Framework,Control Number,Class,Family,Short Name,Long Name,Description,Supplemental Guidance
+NIST 800-171,3.1.1,Basic,Access Control,NIST 800-171 3.1.1,"NIST 800-171 3.1.1: Limit information system access to authorized users, processes acting on behalf of authorized users, or devices (including other information systems).","Maintain list of authorized users defining their identity and associated role and sync with system, application and data layers. Account requests must be authorized before access is granted. ","NIST 800-53 Mapping: AC-2, AC-3, AC-17
+
+ISO 27002:2013 Mapping: A.6.2.1, A.6.2.2, A.6.2.2, A.9.1.2, A.9.2.1, A.9.2.2, A.9.2.3, A.9.2.5, A.9.2.6, A.9.4.1, A.9.4.4, A.9.4.5, A.13.1.1, A.13.1.1, A.13.2.1, A.14.1.2, A.14.1.2, A.14.1.3, A.18.1.3
+
+Relevant 20 Critical Control: 12, 13, 15, 16, 17, 
+
+DFARS 7012 (2013) Covered: AC-2"
+NIST 800-171,3.1.2,Derived,Access Control,NIST 800-171 3.1.2,NIST 800-171 3.1.2: Limit information system access to the types of transactions and functions that authorized users are permitted to execute.,Utilize access control lists (derived from 3.1.1) to limit access to applications and data based on role and/or identity. Log access as appropriate.,"NIST 800-53 Mapping: AC-2, AC-3, AC-17
+
+ISO 27002:2013 Mapping: A.6.2.1, A.6.2.2, A.6.2.2, A.9.1.2, A.9.2.1, A.9.2.2, A.9.2.3, A.9.2.5, A.9.2.6, A.9.4.1, A.9.4.4, A.9.4.5, A.13.1.1, A.13.1.1, A.13.2.1, A.14.1.2, A.14.1.2, A.14.1.3, A.18.1.3
+
+Relevant 20 Critical Control: 12, 13, 15, 16, 17
+
+DFARS 7012 (2013) Covered: AC-2"
+NIST 800-171,3.1.3,Derived,Access Control,NIST 800-171 3.1.3,NIST 800-171 3.1.3: Control the flow of CUI in accordance with approved authorizations.,"Provide architectual solutions to control the flow of system data. The solutions may include firewalls, proxies, encryption, and other security technologies.","NIST 800-53 Mapping: AC-4
+
+ISO 27002:2013 Mapping: A.13.1.3, A.13.2.1, A.14.1.2, A.14.1.3
+
+Relevant 20 Critical Control: 10, 11, 13, 17, 19
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.1.4,Derived,Access Control,NIST 800-171 3.1.4,NIST 800-171 3.1.4: Separate the duties of individuals to reduce the risk of malevolent activity without collusion.,"If a system user accesses data as well as maintains the system in someway, create separate accounts with approriate access levels to separate functions.","NIST 800-53 Mapping: AC-5
+
+ISO 27002:2013 Mapping: A.6.1.2
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.1.5,Derived,Access Control,NIST 800-171 3.1.5,"NIST 800-171 3.1.5: Employ the principle of least privilege, including for specific security functions and privileged accounts.",Only grant enough privileges to a system user to allow them to sufficiently fulfill their job duties. 3.1.4 references account separation.,"NIST 800-53 Mapping: AC-6, AC-6(1), AC-6(5)
+
+ISO 27002:2013 Mapping: A.9.1.2, A.9.2.3, A.9.4.4, A.9.4.5
+
+Relevant 20 Critical Control: 12, 15
+
+DFARS 7012 (2013) Covered: AC-6"
+NIST 800-171,3.1.6,Derived,Access Control,NIST 800-171 3.1.6,NIST 800-171 3.1.6: Use non-privileged accounts or roles when accessing nonsecurity functions.,"Users with multiple accounts (as defined in 3.1.4 and 3.1.5) must logon with the least privileged account. Most likely, this will be enforced as a policy. REWORD. POLICY","NIST 800-53 Mapping: AC-6(2)
+
+ISO 27002:2013 Mapping: A.9.1.2, A.9.2.3, A.9.4.4, A.9.4.5
+
+Relevant 20 Critical Control: 12, 15
+
+DFARS 7012 (2013) Covered: no"
+NIST 800-171,3.1.7,Derived,Access Control,NIST 800-171 3.1.7,NIST 800-171 3.1.7: Prevent non-privileged users from executing privileged functions and audit the execution of such functions.,"Enable auditing of all privileged functions, and control access using access control lists based on identity or role.","NIST 800-53 Mapping: AC-6(9), AC-6(10)
+
+ISO 27002:2013 Mapping: A.9.1.2, A.9.2.3, A.9.4.4, A.9.4.5
+
+Relevant 20 Critical Control: 12, 15
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.1.8,Derived,Access Control,NIST 800-171 3.1.8,NIST 800-171 3.1.8: Limit unsuccessful logon attempts.,Configure system to lock logon mechanism for a predetermined time and lock user account out of system after a predetermined number of invalid logon attempts.,"NIST 800-53 Mapping: AC-7
+
+ISO 27002:2013 Mapping: A.9.4.2
+
+Relevant 20 Critical Control: 16
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.1.9,Derived,Access Control,NIST 800-171 3.1.9,NIST 800-171 3.1.9: Provide privacy and security notices consistent with applicable CUI rules.,Logon screen should display appropriate notices.,"NIST 800-53 Mapping: AC-9
+
+ISO 27002:2013 Mapping: A.9.4.2
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.1.10,Basic,Access Control,NIST 800-171 3.1.10,NIST 800-171 3.1.10: Use session lock with pattern-hiding displays to prevent access/viewing of data after period of inactivity.,Configure system to lock session after a predetermined time of inactivity. Allow user to lock session for temporary absence.,"NIST 800-53 Mapping: AC-11, AC-11(1)
+
+ISO 27002:2013 Mapping: A.11.2.8, A.11.2.9
+
+Relevant 20 Critical Control: 16
+
+DFARS 7012 (2013) Covered: AC-11(1)"
+NIST 800-171,3.1.11,Derived,Access Control,NIST 800-171 3.1.11,NIST 800-171 3.1.11: Terminate (automatically) a user session after a defined condition.,Configure system to end a user session after a predetermined time based on duration and/or inactivity of session.,"NIST 800-53 Mapping: AC-12
+
+ISO 27002:2013 Mapping: None
+
+Relevant 20 Critical Control: 16
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.1.12,Derived,Access Control,NIST 800-171 3.1.12,NIST 800-171 3.1.12: Monitor and control remote access sessions.,"Run network and system monitoring applications to monitor remote system access and log accordingly.  Control remote access by running only necessary applications, firewalling appropriately, and utilize end to end encryption with appropriate access (re 3.1.1)","NIST 800-53 Mapping: AC-17(1)
+
+ISO 27002:2013 Mapping: A.6.2.1, A.6.2.2, A.13.1.1, A.13.2.1, A.14.1.2
+
+Relevant 20 Critical Control: 12, 13
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.1.13,Derived,Access Control,NIST 800-171 3.1.13,NIST 800-171 3.1.13: Employ cryptographic mechanisms to protect the confidentiality of remote access sessions.,Any application used to remotely access the system must use approved encryption methods.,"NIST 800-53 Mapping: AC-17(2)
+
+ISO 27002:2013 Mapping: A.6.2.1, A.6.2.2, A.13.1.1, A.13.2.1, A.14.1.2
+
+Relevant 20 Critical Control: 12,13
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.1.14,Derived,Access Control,NIST 800-171 3.1.14,NIST 800-171 3.1.14: Route remote access via managed access control points.,Remote access is by authorized methods only and is maintained by IT Operations.,"NIST 800-53 Mapping: AC-17(3)
+
+ISO 27002:2013 Mapping: A.6.2.1, A.6.2.2, A.13.1.1, A.13.2.1, A.14.1.2
+
+Relevant 20 Critical Control: 12,13
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.1.15,Derived,Access Control,NIST 800-171 3.1.15,NIST 800-171 3.1.15: Authorize remote execution of privileged commands and remote access to security-relevant information.,Remote access for privileged actions is only permitted for necessary operational functions.,"NIST 800-53 Mapping: AC-17(4)
+
+ISO 27002:2013 Mapping: A.6.2.1, A.6.2.2, A.13.1.1, A.13.2.1, A.14.1.2
+
+Relevant 20 Critical Control: 12, 13 
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.1.16,Derived,Access Control,NIST 800-171 3.1.16,NIST 800-171 3.1.16: Authorize wireless access prior to allowing such connections.,"Organization officials will authorize the use of wireless technologies and provide guidance on their use. Wireless network access will be restricted to the established guidelines, monitored, and controlled.","NIST 800-53 Mapping: AC-18
+
+ISO 27002:2013 Mapping: A.6.2.1, A.13.1.1, A.13.2.1
+
+Relevant 20 Critical Control: 7
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.1.17,Derived,Access Control,NIST 800-171 3.1.17,NIST 800-171 3.1.17: Protect wireless access using authentication and encryption.,Wireless access will restricted to authorized users only and encrypted according to industry best practices.,"NIST 800-53 Mapping: AC-18(1)
+
+ISO 27002:2013 Mapping: A.6.2.1, A.13.1.1, A.13.2.1
+
+Relevant 20 Critical Control: 7
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.1.18,Derived,Access Control,NIST 800-171 3.1.18,NIST 800-171 3.1.18: Control connection of mobile devices.,Organization officials will establish guidelines for the use of mobile devices and restrict the operation of those devices to the guidelines. Usage will be monitored and controlled.,"NIST 800-53 Mapping: AC-19
+
+ISO 27002:2013 Mapping: A.6.2.1, A.11.2.6, A.13.2.1
+
+Relevant 20 Critical Control: 7, 12
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.1.19,Derived,Access Control,NIST 800-171 3.1.19,NIST 800-171 3.1.19: Encrypt CUI on mobile devices.,Mobile devices will be encrypted.,"NIST 800-53 Mapping: AC-19(5)
+
+ISO 27002:2013 Mapping: A.6.2.1, A.11.2.6, A.13.2.1
+
+Relevant 20 Critical Control: 7, 12
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.1.20,Derived,Access Control,NIST 800-171 3.1.20,NIST 800-171 3.1.20: Verify and control/limit connections to and use of external information systems.,Guidelines and restrictions will be placed on the use of personally owned or external system access. Only authorized individuals will be permitted external access and those systems must meet the security standards set out by the organization.,"NIST 800-53 Mapping: AC-20, AC-20(1)
+
+ISO 27002:2013 Mapping: A.11.2.6, A.13.1.1, A.13.2.1
+
+Relevant 20 Critical Control: 13
+
+DFARS 7012 (2013) Covered: Ac-20(1)"
+NIST 800-171,3.1.21,Derived,Access Control,NIST 800-171 3.1.21,NIST 800-171 3.1.21: Limit use of organizational portable storage devices on external information systems.,Guidelines and restrictions will be placed on the use of portable storage devices.,"NIST 800-53 Mapping: AC-20(2)
+
+ISO 27002:2013 Mapping: A.11.2.6, A.13.1.1, A.13.2.1
+
+Relevant 20 Critical Control: 13
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.1.22,Derived,Access Control,NIST 800-171 3.1.22,NIST 800-171 3.1.22: Control information posted or processed on publicly accessible information systems.,Only authorized individuals will post information on publically accessible information systems. Authorized individuals will be trained to ensure that non-public information is not posted. Public information will be reviewed annually to ensure that non-public information is not posted.,"NIST 800-53 Mapping: AC-22
+
+ISO 27002:2013 Mapping: None
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.2.1,Basic,Awareness and Training,NIST 800-171 3.2.1,"NIST 800-171 3.2.1: Ensure that managers, systems administrators, and users of organizational information systems are made aware of the security risks associated with their activities and of the applicable policies, standards, and procedures related to the security of organizational information systems.","Users, managers, and system administrators of the information system will receive initial and annual training commensurate with their role and responsibilities.  The training will provide a basic understanding of the need for information security, applicable policies, standards, and procedures related to the security of the information system, as well as user actions to maintain security and respond to suspected security incidents.  The content will also address awareness of the need for operations security.","NIST 800-53 Mapping: AT-2, AT-3
+
+ISO 27002:2013 Mapping: A.7.2.2, A.12.2.1
+
+Relevant 20 Critical Control: 9
+
+DFARS 7012 (2013) Covered: AT-2"
+NIST 800-171,3.2.2,Basic,Awareness and Training,NIST 800-171 3.2.2,NIST 800-171 3.2.2: Ensure that organizational personnel are adequately trained to carry out their assigned information security-related duties and responsibilities.,"Personnel with security-related duties and responsibilities will receive initial and annual training on their specific operational, managerial, and technical roles and responsibilities covering physical, personnel, and technical safeguards and countermeasures.  Training will address required security controls related to environmental and physical security risks, as well as training on indications of potentially suspicious email or web communications, to include suspicious communications and other anomalous system behavior.","NIST 800-53 Mapping: AT-2, AT-3
+
+ISO 27002:2013 Mapping: A.7.2.2, A.12.2.1
+
+Relevant 20 Critical Control: 9
+
+DFARS 7012 (2013) Covered: AT-2"
+NIST 800-171,3.2.3,Derived,Awareness and Training,NIST 800-171 3.2.3,NIST 800-171 3.2.3: Provide security awareness training on recognizing and reporting potential indicators of insider threat.,"Users, managers, and administrators of the information system will receive annual training on potential indicators and possible precursors of insider threat, to include long-term job dissatisfaction, attempts to gain unauthorized accesss to information, unexplained access to financial resources, bullying or sexual harassment of fellow employees, workplace violence, and other serious violations of organizational policies, procedures, directives, rules, or practices.  Security training will include how to communicate employee and management concerns regarding potential indicators of insider threat in accordance with established organizational policies and procedures.","NIST 800-53 Mapping: AT-2(2)
+
+ISO 27002:2013 Mapping: A.7.2.2, A.12.2.1
+
+Relevant 20 Critical Control: 9
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.3.1,Basic,Audit and Accountability,NIST 800-171 3.3.1,"NIST 800-171 3.3.1: Create, protect, and retain information system audit records to the extent needed to enable the monitoring, analysis, investigation, and reporting of unlawful, unauthorized, or inappropriate information system activity.","The organization creates, protects, retains information system audit records for between 30-days and 1-year (depending on data source and applicable regulations) in order to enable the monitoring, analysis, investigation, and reporting of unlawful, unauthorized, or inappropriate information system activity.","NIST 800-53 Mapping: AU-2, AU-3, AU-3(1), AU-6, AU-12
+
+ISO 27002:2013 Mapping: A.12.4.1, A.12.4.3, A.16.1.2, A.16.1.4
+
+Relevant 20 Critical Control: 14
+
+DFARS 7012 (2013) Covered: AU-2, AU-3"
+NIST 800-171,3.3.2,Basic,Audit and Accountability,NIST 800-171 3.3.2,NIST 800-171 3.3.2: Ensure that the actions of individual information system users can be uniquely traced to those users so they can be held accountable for their actions.,The organization correlates network activity to individual user information order to uniquely trace and hold accountable users responsible for unauthorized actions.,"NIST 800-53 Mapping: AU-2, AU-3, AU-3(1), AU-6, AU-12
+
+ISO 27002:2013 Mapping: A.12.4.1, A.12.4.3, A.16.1.2, A.16.1.4
+
+Relevant 20 Critical Control: 14
+
+DFARS 7012 (2013) Covered: AU-2, AU-3"
+NIST 800-171,3.3.3,Derived,Audit and Accountability,NIST 800-171 3.3.3,NIST 800-171 3.3.3: Review and update audited events.,"The organization reviews and updates audited events annually or in the event of substantial system changes or as needed, to ensure that the information system is capable of auditing the following events, to ensure coordination with other organizational entities requiring audit-related information, and provide a rational for why auditable events are deemed adequate to support security investigations.","NIST 800-53 Mapping: AU-2(3)
+
+ISO 27002:2013 Mapping: None
+
+Relevant 20 Critical Control: 14
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.3.4,Derived,Audit and Accountability,NIST 800-171 3.3.4,NIST 800-171 3.3.4: Alert in the event of an audit process failure.,"The information system alerts personnel with security responsibilities in the event of an audit processing failure, and maintains audit records on host servers until log delivery to central repositories can be re-established.","NIST 800-53 Mapping: AU-5
+
+ISO 27002:2013 Mapping: None
+
+Relevant 20 Critical Control: 14
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.3.5,Derived,Audit and Accountability,NIST 800-171 3.3.5,"NIST 800-171 3.3.5: Use automated mechanisms to integrate and correlate audit review, analysis, and reporting processes for investigation and response to indications of inappropriate, suspicious, or unusual activity.","The organization employs automated mechanisms across different repositories to integrate audit review, analysis, correlation, and reporting processes in order to support organizational processes for investigation and response to suspicious activities, as well as gain organization-wide situational awareness.","NIST 800-53 Mapping: AU-6(1), AU-6(3)
+
+ISO 27002:2013 Mapping: A.12.4.1, A.16.1.2, A.16.1.4
+
+Relevant 20 Critical Control: 14
+
+DFARS 7012 (2013) Covered: AU-6(1)"
+NIST 800-171,3.3.6,Derived,Audit and Accountability,NIST 800-171 3.3.6,NIST 800-171 3.3.6: Provide audit reduction and report generation to support on-demand analysis and reporting.,"The information system's audit capability supports an audit reduction and report generation capability that supports on-demand audit review, analysis, and reporting requirements and after-the-fact security investigations; and does not alter the original content or time ordering of audit records.  The system provides the capability to process audit records for events based on a variety of unique fields, to include user identity, event type, location, times, dates, system resources, IP, or information object accessed.","NIST 800-53 Mapping: AU-7
+
+ISO 27002:2013 Mapping: None
+
+Relevant 20 Critical Control: 14
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.3.7,Derived,Audit and Accountability,NIST 800-171 3.3.7,NIST 800-171 3.3.7: Provide an information system capability that compares and synchronizes internal system clocks with an authoritative source to generate time stamps for audit records.,"The information system uses internal system clocks to generate time stamps for audit records, and records time stamps that can be mapped to UTC; compares system clocks with authoritative NTP servers, and synchronizes system clocks when the time difference is greater than 1 second.","NIST 800-53 Mapping: AU-8, AU-8(1)
+
+ISO 27002:2013 Mapping: A.12.4.4
+
+Relevant 20 Critical Control: 14
+
+DFARS 7012 (2013) Covered: AU-8"
+NIST 800-171,3.3.8,Derived,Audit and Accountability,NIST 800-171 3.3.8,"NIST 800-171 3.3.8: Protect audit information and audit tools from unauthorized access, modification, and deletion.","The information system protects audit information and audit tools from unauthorized access, modification, and deletion.","NIST 800-53 Mapping: AU-9
+
+ISO 27002:2013 Mapping: A.12.4.2, A.12.4.3, A.18.1.3
+
+Relevant 20 Critical Control: 14
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.3.9,Derived,Audit and Accountability,NIST 800-171 3.3.9,NIST 800-171 3.3.9: Limit management of audit functionality to a subset of privileged users.,The organization authorizes access to management of audit functionality to only authorized individuals with a designated audit responsibility,"NIST 800-53 Mapping: AU-9(4)
+
+ISO 27002:2013 Mapping: A.12.4.2, A.12.4.3, A.18.1.3
+
+Relevant 20 Critical Control: 14
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.4.1,Basic,Configuration Management,NIST 800-171 3.4.1,"NIST 800-171 3.4.1: Establish and maintain baseline configurations and inventories of organizational information systems (including hardware, software, firmware, and documentation) throughout the respective system development life cycles.","Baseline configurations will be developed, documented, and maintained for each information system type. Baseline configurations will include software versions and patch level, configuration parameters, network information including topologies, and communications with connected systems. Baseline configurations will be updated as needed to accomodate security risks or software changes. Baseline configurations will be developed and approved in conjunction with the CISO (or equivalent) and the information security owner. Deviations from baseline configurations will be documented.","NIST 800-53 Mapping: CM-2, CM-6, CM-8, CM-8(1)
+
+ISO 27002:2013 Mapping: A.8.1.1, A.8.1.2
+
+Relevant 20 Critical Control: 1, 2, 3, 7, 10, 11, 13,
+
+DFARS 7012 (2013) Covered: CM-2, CM-6, CM-8"
+NIST 800-171,3.4.2,Basic,Configuration Management,NIST 800-171 3.4.2,NIST 800-171 3.4.2: Establish and enforce security configuration settings for information technology products employed in organizational information systems.,Security settings will be included as part of baseline configurations. Security settings will reflect the most restrictive appropriate for compliance requirements. Changes or deviations to security settings will be documented.,"NIST 800-53 Mapping: CM-2, CM-6, CM-8, CM-8(1)
+
+ISO 27002:2013 Mapping: A.8.1.1, A.8.1.2
+
+Relevant 20 Critical Control: 1, 2, 3, 7, 10, 11, 13
+
+DFARS 7012 (2013) Covered: CM-2, CM-6, CM-8"
+NIST 800-171,3.4.3,Derived,Configuration Management,NIST 800-171 3.4.3,"NIST 800-171 3.4.3: Track, review, approve/disapprove, and audit changes to information systems.",Changes or deviations to information system security control configurations that affect compliance requirements will be reviewed and approved by a change advisory board. The changes will also be tracked and documented in an approved service management system (ITSM) or equivalent tracking service. Change control tracking will be audited annually.,"NIST 800-53 Mapping: CM-3
+
+ISO 27002:2013 Mapping: A.12.1.2, A.14.2.2, A.14.2.3, A.14.2.4
+
+Relevant 20 Critical Control: 3, 10
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.4.4,Derived,Configuration Management,NIST 800-171 3.4.4,NIST 800-171 3.4.4: Analyze the security impact of changes prior to implementation.,Changes or deviations that affect information system security controls pertaining to compliance requirments will be tested prior to implementation to test their effectiveness. Only those changes or deviations that continue to meet compliance requirements will be approved and implemented.,"NIST 800-53 Mapping: CM-4
+
+ISO 27002:2013 Mapping: A.14.2.3
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.4.5,Derived,Configuration Management,NIST 800-171 3.4.5,"NIST 800-171 3.4.5: Define, document, approve, and enforce physical and logical access restrictions associated with changes to the information system.",Only those individuals approved to make physical or logical changes on information systems will be allowed to do so. Authorized personnel will be approved and documented by the service owner and IT security. All change documentation will include the authorized personnel making the change.,"NIST 800-53 Mapping: CM-5
+
+ISO 27002:2013 Mapping: A.9.2.3, A.9.4.5, A.12.1.2, A.12.1.4, A.12.5.1
+
+Relevant 20 Critical Control: 3, 10 
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.4.6,Derived,Configuration Management,NIST 800-171 3.4.6,NIST 800-171 3.4.6: Employ the principle of least functionality by configuring the information system to provide only essential capabilities.,Information systems will be configured to deliver one function per system where practical.,"NIST 800-53 Mapping: CM-7
+
+ISO 27002:2013 Mapping: A.12.5.1 (ISO control doesn't completely match NIST 800-53)
+
+Relevant 20 Critical Control: 3
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.4.7,Derived,Configuration Management,NIST 800-171 3.4.7,"NIST 800-171 3.4.7: Restrict, disable, and prevent the use of nonessential programs, functions, ports, protocols, and services.",Only those ports and protocols necessary to provide the service of the information system will be configured for that system. Applications and services not necessary to provide the service of the information system will not be configured or enabled. Systems services will be reviewed to determine what is essential for the function of that system.,"NIST 800-53 Mapping: CM-7(1), CM-7(2)
+
+ISO 27002:2013 Mapping: A.12.5.1 (ISO control doesn't completely match NIST 800-53)
+
+Relevant 20 Critical Control: 3
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.4.8,Derived,Configuration Management,NIST 800-171 3.4.8,"NIST 800-171 3.4.8: Apply deny-by-exception (blacklist) policy to prevent the use of unauthorized software or deny-all, permit-by-exception (whitelisting) policy to allow the execution of authorized software.",The information system will be configured to only allow authorized software to run. The system will be configured to disallow running unauthorized software. The controls for allowing or disallowing the running of software may include but is not limited to the use of firewalls to restrict port access and user operational controls.,"NIST 800-53 Mapping: CM-7(4), CM-7(5)
+
+ISO 27002:2013 Mapping: A.12.5.1 (ISO control doesn't completely match NIST 800-53)
+
+Relevant 20 Critical Control: 3
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.4.9,Derived,Configuration Management,NIST 800-171 3.4.9,NIST 800-171 3.4.9: Control and monitor user-installed software.,User controls will be in place to prohibit the installation of unauthorized software. All software for information systems must be approved.,"NIST 800-53 Mapping: CM-11
+
+ISO 27002:2013 Mapping: A.12.5.1, A.12.6.2
+
+Relevant 20 Critical Control: 2, 3
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.5.1,Basic,Identification and Authentication,NIST 800-171 3.5.1,"NIST 800-171 3.5.1: Identify information system users, processes acting on behalf of users, or devices.","Systems will make use of institutionally assigned accounts for unique access by individual. Should service accounts be necessary for device or process authentication, the accounts will be created by the central identity management team and assigned to a member of the research team. Institutional and service accounts are managed centrally and deprovisioned automatically when an individual leaves.","NIST 800-53 Mapping: IA-2, IA-5
+
+ISO 27002:2013 Mapping: A.9.2.1, A.9.2.4, A.9.3.1, A.9.4.3
+
+Relevant 20 Critical Control: 12, 16
+
+DFARS 7012 (2013) Covered: IA-2"
+NIST 800-171,3.5.2,Basic,Identification and Authentication,NIST 800-171 3.5.2,"NIST 800-171 3.5.2: Authenticate (or verify) the identities of those users, processes, or devices, as a prerequisite to allowing access to organizational information systems.","Per control 3.5.1, the accounts in use will be assigned and managed by a central identity management system. Accounts are provisioned as part of the established account creation process. Accounts are uniquely assigned to employees upon hire or affiliates when sponsored by an authorized employee. Access to data associated with the project is controlled through role-based authorization by the project's PI. Initial passwords are randomly generated strings provided via a password reset mechanism to each employee or affiliate. The password must be reset upon first use. All passwords are at least 8 characters, and require a mix of upper and lower case letters, numbers, and special characters. OPTIONAL: Access to the project data stored in (INSERT LOCATION) requires use of institutional multifactor authentication services. New faculty and staff receive their account and instructions for creating a password from HR during the hiring process. New students receive notification of their account via registered email with an activation link to set their initial password. Passwords may be reset by contacting the service desk and providing proof of identity, or using the online reset service using pre-defined challenge and response questions. Default passwords for information systems are changed before they are introduced to the network. Passwords are stored centrally in institutionally-managed authentication systems (LIST? - AD, Kerberos) and hashed using <INSERT HASHING ALGORITHM?>. Encrypted transmission of passwords is required.","NIST 800-53 Mapping: IA-2, IA-5
+
+ISO 27002:2013 Mapping: A.9.2.1, A.9.2.4, A.9.3.1, A.9.4.3
+
+Relevant 20 Critical Control: 12, 16
+
+DFARS 7012 (2013) Covered: IA-2"
+NIST 800-171,3.5.3,Derived,Identification and Authentication,NIST 800-171 3.5.3,NIST 800-171 3.5.3: Use multifactor authentication for local and network access to privileged accounts and for network access to non-privileged accounts.,Any network access to servers and virtual machines hosting the project data requires multifactor authentication regardless if the account is privileged or unprivileged.,"NIST 800-53 Mapping: IA-2(1), IA-2(2), IA-2(3)
+
+ISO 27002:2013 Mapping: A.9.2.1
+
+Relevant 20 Critical Control: 12, 16
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.5.4,Derived,Identification and Authentication,NIST 800-171 3.5.4,NIST 800-171 3.5.4: Employ replay-resistant authentication mechanisms for network access to privileged and non-privileged accounts.,"Only anti-replay authentication mechanisms will be used. The authentication front-end technologies include shibboleth, SSH, Microsoft remote desktop protocol, and <VENDOR> SSL VPN. Backend authentication mechanisms in use include Kerberos and Active Directory.","NIST 800-53 Mapping: IA-2(8), IA-2(9)
+
+ISO 27002:2013 Mapping: A.9.2.1
+
+Relevant 20 Critical Control: 12, 16
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.5.5,Derived,Identification and Authentication,NIST 800-171 3.5.5,NIST 800-171 3.5.5: Prevent reuse of identifiers for a defined period.,"Per control 3.5.1, the accounts in use will be assigned and managed by the university's central identity management system. Accounts are provisioned as part of the established account creation process. Accounts are uniquely assigned to faculty, staff, students and affiliates (guests). Account identifiers are not reused.","NIST 800-53 Mapping: IA-4
+
+ISO 27002:2013 Mapping: A.9.2.1
+
+Relevant 20 Critical Control: 12
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.5.6,Derived,Identification and Authentication,NIST 800-171 3.5.6,NIST 800-171 3.5.6: Disable identifiers after a defined period of inactivity.,User accounts or identifiers associated with a project or contract covered by NIST 800-171 are monitored for inactivity. Account access to the in-scope systems after 90/180/365 days of inactivity.,"NIST 800-53 Mapping: IA-4
+
+ISO 27002:2013 Mapping: A.9.2.1
+
+Relevant 20 Critical Control: 12
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.5.7,Derived,Identification and Authentication,NIST 800-171 3.5.7,NIST 800-171 3.5.7: Enforce a minimum password complexity and change of characters when new passwords are created.,"Account passwords must be a minimum of 8 characters and a mix of upper/lower case, numbers and symbols.","NIST 800-53 Mapping: IA-5(1)
+
+ISO 27002:2013 Mapping: A.9.2.1, A.9.2.4, A.9.3.1, A.9.4.3
+
+Relevant 20 Critical Control: 12, 16
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.5.8,Derived,Identification and Authentication,NIST 800-171 3.5.8,NIST 800-171 3.5.8: Prohibit password reuse for a specified number of generations.,"Passwords may not be re-used for <XX days>. OR
+ 
+ Users may not re-use the same password when changing their password for at least XX changes.","NIST 800-53 Mapping: IA-5(1)
+
+ISO 27002:2013 Mapping: A.9.2.1, A.9.2.4, A.9.3.1, A.9.4.3
+
+Relevant 20 Critical Control: 12, 16
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.5.9,Derived,Identification and Authentication,NIST 800-171 3.5.9,NIST 800-171 3.5.9: Allow temporary password use for system logons with an immediate change to a permanent password.,"New employees will receive an account and instructions for creating a password from HR during the hiring process. New students receive notification of their account via email with an activation link to set their initial password. Temporary password activation links are sent to validated faculty, staff and students should they require a password reset or change. Temporary passwords are only good to allow for a password reset.","NIST 800-53 Mapping: IA-5(1)
+
+ISO 27002:2013 Mapping: A.9.2.1, A.9.2.4, A.9.3.1, A.9.4.3
+
+Relevant 20 Critical Control: 12, 16
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.5.10,Derived,Identification and Authentication,NIST 800-171 3.5.10,NIST 800-171 3.5.10: Store and transmit only encrypted representation of passwords.,"Passwords are not stored in reversible encryption form in any of our systems. Instead, they are stored as one-way hashes constructed from passwords. Specifically, passwords stored in the MIT Kerberos system make use of of AES256 keys generated using a hashing algorithm that starts with the user’s password and includes various salting data, which is then encrypted on disk in a master key. On the AD domain controllers, passwords are stored as NTLMv2 hashed passwords and associated Kerberos AES keys.","NIST 800-53 Mapping: IA-5(1)
+
+ISO 27002:2013 Mapping: A.9.2.1, A.9.2.4, A.9.3.1, A.9.4.3
+
+Relevant 20 Critical Control: 12, 16
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.5.11,Derived,Identification and Authentication,NIST 800-171 3.5.11,NIST 800-171 3.5.11: Obscure feedback of authentication information.,"The most basic feedback control is never informing the user in an error message what part of the of the authentication transaction failed. In the case of shibboleth, for example, the error message is generic regardless of whether the userid was mistyped, the password was wrong, or (in the case of MFA) there was a problem with the MFA credential provided — the failure simply says that the credentials were invalid. Likewise, unsuccessful authentications at the Kerberos KDCs don’t distinguish between the “principal not found” and the “invalid key” case. LDAP-based authentication interfaces only return a “failure to bind” message from both the main LDAPs and the AD.","NIST 800-53 Mapping: IA-5(1)
+
+ISO 27002:2013 Mapping: A.9.2.1, A.9.2.4, A.9.3.1, A.9.4.3
+
+Relevant 20 Critical Control: 12, 16
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.6.1,Basic,Incident Response,NIST 800-171 3.6.1,"NIST 800-171 3.6.1: Establish an operational incident-handling capability for organizational information systems that includes adequate preparation, detection, analysis, containment, recovery, and user response activities.",Develop an institutional incident response policy; specifically outline requirements for handling of incidents involvoing CUI.,"NIST 800-53 Mapping: IR-2, IR-4, IR-5, IR-6, IR-7
+
+ISO 27002:2013 Mapping: A.6.1.3, A.7.2.2 (ISO Control doesn't completely match NIST 800-53), A.16.1.2, A.16.1.4, A.16.1.5, A.16.1.6
+
+Relevant 20 Critical Control: 18
+
+DFARS 7012 (2013) Covered: IR-2, IR-4, IR-5, IR-6"
+NIST 800-171,3.6.2,Basic,Incident Response,NIST 800-171 3.6.2,"NIST 800-171 3.6.2: Track, document, and report incidents to appropriate officials and/or authorities both internal and external to the organization.",Develop an institutional incident response policy; specifically outline requirements for tracking and reporting of incidents involving CUI to appropriate officials.,"NIST 800-53 Mapping: IR-2, IR-4, IR-5, IR-6, IR-7
+
+ISO 27002:2013 Mapping: A.6.1.3, A.7.2.2 (ISO Control doesn't completely match NIST 800-53), A.16.1.2, A.16.1.4, A.16.1.5, A.16.1.6
+
+Relevant 20 Critical Control: 18
+
+DFARS 7012 (2013) Covered: IR-2, IR-4, IR-5, IR-6"
+NIST 800-171,3.6.3,Derived,Incident Response,NIST 800-171 3.6.3,NIST 800-171 3.6.3: Test the organizational incident response capability.,Develop an institutional incident response policy; specifically outline requirements for regular testing and reviews/improvements to incident response capabilities.,"NIST 800-53 Mapping: IR-3, IR-3(2)
+
+ISO 27002:2013 Mapping: None
+
+Relevant 20 Critical Control: 18
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.7.1,Basic,Maintenance,NIST 800-171 3.7.1,NIST 800-171 3.7.1: Perform maintenance on organizational information systems.,"All systems, devices, supporting systems for organizational information systems must be maintained according to manufacturer recommendations or organizationally defined schedules ","NIST 800-53 Mapping: MA-2, MA-3, MA-3(1), MA-3(2)
+
+ISO 27002:2013 Mapping: A.11.2.4, A.11.2.5 (ISO Controls don't completely match NIST 800-53)
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.7.2,Basic,Maintenance,NIST 800-171 3.7.2,"NIST 800-171 3.7.2: Provide effective controls on the tools, techniques, mechanisms, and personnel used to conduct information system maintenance.","Organizations will put in place controls that limit the tools, techniques, mechanisms and personnel that will be used to maintain information systems, devices, and supporting systems.  This can include a lists of authorized tools, authorized personnel, and authorized techniques and mechanisms.  Any such maintenance must occur within the context of other information systems controls in place.","NIST 800-53 Mapping: MA-2, MA-3, MA-3(1), MA-3(2)
+
+ISO 27002:2013 Mapping: A.11.2.4, A.11.2.5 (ISO Controls don't completely match NIST 800-53)
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.7.3,Derived,Maintenance,NIST 800-171 3.7.3,NIST 800-171 3.7.3: Ensure equipment removed for off-site maintenance is sanitized of any CUI.,Any media that is removed from the premises for maintenance or disposal must be sanitized according to the organization's media sanitization policies.,"NIST 800-53 Mapping: MA-2
+
+ISO 27002:2013 Mapping: A.11.2.4, A.11.2.5 (ISO Controls don't completely match NIST 800-53)
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.7.4,Derived,Maintenance,NIST 800-171 3.7.4,NIST 800-171 3.7.4: Check media containing diagnostic and test programs for malicious code before the media are used in the information system.,"Any media that is provided by authorized maintenance personnel (and not normal Systems administrators/owners) for troubleshooting, diagnostics, or other maintenance must be run through an anti-virus/anti-malware program prior to use in an organizational information system.","NIST 800-53 Mapping: MA-3(2)
+
+ISO 27002:2013 Mapping: None
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.7.5,Derived,Maintenance,NIST 800-171 3.7.5,NIST 800-171 3.7.5: Require multifactor authentication to establish nonlocal maintenance sessions via external network connections and terminate such connections when nonlocal maintenance is complete.,All remote access to an information system for maintenance or diagnostics must occur via an approved remote solution using multi-factor authentication.  A remote session must be disconnected when maintenance is complete,"NIST 800-53 Mapping: MA-4
+
+ISO 27002:2013 Mapping: None
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.7.6,Derived,Maintenance,NIST 800-171 3.7.6,NIST 800-171 3.7.6: Supervise the maintenance activities of maintenance personnel without required access authorization.,All activities of maintenance personnel who do not normally have access to a system must be monitored.  The organization will define approved methods for supervision.,"NIST 800-53 Mapping: MA-5
+
+ISO 27002:2013 Mapping: None
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.8.1,Basic,Media Protection,NIST 800-171 3.8.1,"NIST 800-171 3.8.1: Protect (i.e., physically control and securely store) information system media containing CUI, both paper and digital.","Responsible parties for data in these systems will document and ensure proper authorization controls for data in media and print.  Documented workflow, data access contols and media policy will be enforced to ensure proper access controls.","NIST 800-53 Mapping: MP-2, MP-4, MP-6
+
+ISO 27002:2013 Mapping: A.8.2.3, A.8.3.1, A.8.3.2, A.11.2.7, A.11.2.9
+
+Relevant 20 Critical Control: 8
+
+DFARS 7012 (2013) Covered: MP-4, MP-6"
+NIST 800-171,3.8.2,Basic,Media Protection,NIST 800-171 3.8.2,NIST 800-171 3.8.2: Limit access to CUI on information system media to authorized users.,All CUI systems will be managed under least access rules.,"NIST 800-53 Mapping: MP-2, MP-4, MP-6
+
+ISO 27002:2013 Mapping: A.8.2.3, A.8.3.1, A.8.3.2, A.11.2.7, A.11.2.9
+
+Relevant 20 Critical Control: 8
+
+DFARS 7012 (2013) Covered: MP-4, MP-6"
+NIST 800-171,3.8.3,Basic,Media Protection,NIST 800-171 3.8.3,NIST 800-171 3.8.3: Sanitize or destroy information system media containing CUI before disposal or release for reuse.,"All managed data storage will be erased, encrypted or destroyed using mechanisms with sufficient power to ensure that no usable data is retrievable from storage devices identified in the workflow of these systems/services.","NIST 800-53 Mapping: MP-2, MP-4, MP-6
+
+ISO 27002:2013 Mapping: A.8.2.3, A.8.3.1, A.8.3.2, A.11.2.7, A.11.2.9
+
+Relevant 20 Critical Control: 8
+
+DFARS 7012 (2013) Covered: MP-4, MP-6"
+NIST 800-171,3.8.4,Derived,Media Protection,NIST 800-171 3.8.4,NIST 800-171 3.8.4: Mark media with necessary CUI markings and distribution limitations.,All CUI system will be identified with an asset control identifier,"NIST 800-53 Mapping: MP-3
+
+ISO 27002:2013 Mapping: A.8.2.2
+
+Relevant 20 Critical Control: 15
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.8.5,Derived,Media Protection,NIST 800-171 3.8.5,NIST 800-171 3.8.5: Control access to media containing CUI and maintain accountability for media during transport outside of controlled areas.,Only approved individuals are to have access to media from CUI systems.  Chain of evidence will be maintained for any media removed from these systems.,"NIST 800-53 Mapping: MP-5
+
+ISO 27002:2013 Mapping: A.8.2.3, A.8.3.1, A.8.3.3, A.11.2.5, A.11.2.6
+
+Relevant 20 Critical Control: 15
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.8.6,Derived,Media Protection,NIST 800-171 3.8.6,NIST 800-171 3.8.6: Implement cryptographic mechanisms to protect the confidentiality of CUI stored on digital media during transport unless otherwise protected by alternative physical safeguards.,All CUI data on media will be encrypted or physically locked prior to transport outside of the institutions secure locations.,"NIST 800-53 Mapping: MP-5(4)
+
+ISO 27002:2013 Mapping: A.8.2.3, A.8.3.1, A.8.3.3, A.11.2.5, A.11.2.6
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.8.7,Derived,Media Protection,NIST 800-171 3.8.7,NIST 800-171 3.8.7: Control the use of removable media on information system components.,Removable media will only be allowed if there are processes in place to control them. Removable media must be able to support physical encryption and key vaulting must be utilized to ensure recoverabliity,"NIST 800-53 Mapping: MP-7
+
+ISO 27002:2013 Mapping: A.8.2.3, A.8.3.1
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.8.8,Derived,Media Protection,NIST 800-171 3.8.8,NIST 800-171 3.8.8: Prohibit the use of portable storage devices when such devices have no identifiable owner.,Only approved portable storage devices under asset management are to be used to store CUI data.,"NIST 800-53 Mapping: MP-7(1)
+
+ISO 27002:2013 Mapping: A.8.2.3, A.8.3.1
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.8.9,Derived,Media Protection,NIST 800-171 3.8.9,NIST 800-171 3.8.9: Protect the confidentiality of backup CUI at storage locations.,Data backups will be encrypted on media before removal from a secured facility,"NIST 800-53 Mapping: CP-9
+
+ISO 27002:2013 Mapping: A.12.3.1, A.17.1.2, A.18.1.3
+
+Relevant 20 Critical Control: 8
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.9.1,Basic,Personnel Security,NIST 800-171 3.9.1,NIST 800-171 3.9.1: Screen individuals prior to authorizing access to information systems containing CUI.,"The organization will screen individuals prior to authorizing access to the information system, in accordance with applicable federal laws, Executive Orders, directives, regulations, policies, standards, guidance, and specific criteria established for the risk designations of assigned positions.  Criteria may include, for example, position sensitivity background screening requirements.","NIST 800-53 Mapping: PS-3, PS-4, PS-5
+
+ISO 27002:2013 Mapping: A.7.1.1, A.7.3.1, A.8.1.4
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.9.2,Basic,Personnel Security,NIST 800-171 3.9.2,NIST 800-171 3.9.2: Ensure that CUI and information systems containing CUI are protected during and after personnel actions such as terminations and transfers.,"The organzation will disable information system accesss prior to individual termination or transfer.  Within 24 hours of termination or transfer, the organization will revoke any authenticators/credentials associated with the individual, retrieve all organizational information system-related property from the individual, retain access to organizational information and information systems formerly controlled by the individual, and notify the information security office and data owner of the change in authorization.","NIST 800-53 Mapping: PS-3, PS-4, PS-5
+
+ISO 27002:2013 Mapping: A.7.1.1, A.7.3.1, A.8.1.4
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.10.1,Basic,Physical Protection,NIST 800-171 3.10.1,"NIST 800-171 3.10.1: Limit physical access to organizational information systems, equipment, and the respective operating environments to authorized individuals.","The Area/Building Manager will desginate building areas as ""sensitve"" and design physical security protections (including guards, locks, cameras, card readers, etc) as necessary to limit physical access to the area to only authorized individuals.  Output devices such as printers should be placed in areas where their use does not expose data to unauthorized individuals.","NIST 800-53 Mapping: PE-2, PE-5, PE-6
+
+ISO 27002:2013 Mapping: A.11.1.2, A.11.1.3
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: PE-2, PE-5"
+NIST 800-171,3.10.2,Basic,Physical Protection,NIST 800-171 3.10.2,NIST 800-171 3.10.2: Protect and monitor the physical facility and support infrastructure for those information systems.,"The Area/Building Manager will review the location and type of physical security in use (including guards, locks, card readers, etc) and evaluate its suitability for the organization's needs.","NIST 800-53 Mapping: PE-2, PE-5, PE-6
+
+ISO 27002:2013 Mapping: A.11.1.2, A.11.1.3
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: PE-2, PE-5"
+NIST 800-171,3.10.3,Derived,Physical Protection,NIST 800-171 3.10.3,NIST 800-171 3.10.3: Escort visitors and monitor visitor activity.,All visitors to sensitive areas will be escorted by an authorized employee at all times.,"NIST 800-53 Mapping: PE-3
+
+ISO 27002:2013 Mapping: A.11.1.1, A.11.1.2, A.11.1.3
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.10.4,Derived,Physical Protection,NIST 800-171 3.10.4,NIST 800-171 3.10.4: Maintain audit logs of physical access.,Logs of physical access to sensitive areas are maintained according to retention policies.  This includes authorized access as well as visitor access.,"NIST 800-53 Mapping: PE-3
+
+ISO 27002:2013 Mapping: A.11.1.1, A.11.1.2, A.11.1.3
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.10.5,Derived,Physical Protection,NIST 800-171 3.10.5,NIST 800-171 3.10.5: Control and manage physical access devices.,"Physical access devices (such as card readers, proximity readers, and locks) will be maintained and operated according to the manufacturer recommendations.  These devices will be updated with any changed access control information as necessary to prevent unauthorized access.   The Area/Building Manager will review the location and type of each physical access device and evaluate its suitability for the organization's needs.","NIST 800-53 Mapping: PE-3
+
+ISO 27002:2013 Mapping: A.11.1.1, A.11.1.2, A.11.1.3
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.10.6,Derived,Physical Protection,NIST 800-171 3.10.6,"NIST 800-171 3.10.6: Enforce safeguarding measures for CUI at alternate work sites (e.g., telework sites).",All alternate sites where sensitive data is stored or processed must meet the same physical security requirements as the main site.,"NIST 800-53 Mapping: PE-17
+
+ISO 27002:2013 Mapping: A.6.2.2, A.11.2.6, A.13.2.1
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.11.1,Basic,Risk Assessment,NIST 800-171 3.11.1,"NIST 800-171 3.11.1: Periodically assess the risk to organizational operations (including mission, functions, image, or reputation), organizational assets, and individuals, resulting from the operation of organizational information systems and the associated processing, storage, or transmission of CUI.","The stewards of the system/services will provide an initial and periodic risk assessment.  The assessments will be impact scrored using FIPS 199.  Changes in the environment that may affect the system or service, changes in use of or infrastructure will be documented and assessed as modified.  The impact analysis is to be a living document and incorporated into a larger risk assessment profile for the system/service.","NIST 800-53 Mapping: RA-3
+
+ISO 27002:2013 Mapping: A.12.6.1 (ISO control doesn't completely match NIST 800-53)
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.11.2,Derived,Risk Assessment,NIST 800-171 3.11.2,NIST 800-171 3.11.2: Scan for vulnerabilities in the information system and applications periodically and when new vulnerabilities affecting the system are identified.,Systems will be periodically scanned for common and new vulnerabilities.  Any vulnerability not documented will be risk assessed and documented.  Reports regarding the scans will be made available to system stewards and owners in a timely manner.  ,"NIST 800-53 Mapping: RA-5, RA-5(5)
+
+ISO 27002:2013 Mapping: A.12.6.1 (ISO control doesn't completely match NIST 800-53)
+
+Relevant 20 Critical Control: 3
+
+DFARS 7012 (2013) Covered: RA-5"
+NIST 800-171,3.11.3,Derived,Risk Assessment,NIST 800-171 3.11.3,NIST 800-171 3.11.3: Remediate vulnerabilities in accordance with assessments of risk.,"Stewards and owners upon recognition of any vulnerablity will provide an action plan for remediation, acceptance, aversion or transferance of the vulnerability risk including a reasonable time frame for implementation.  All high vulnerabilities will be prioritized.","NIST 800-53 Mapping: RA-5
+
+ISO 27002:2013 Mapping: A.12.6.1 (ISO control doesn't completely match NIST 800-53)
+
+Relevant 20 Critical Control: 3
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.12.1,Basic,Security Assessment,NIST 800-171 3.12.1,NIST 800-171 3.12.1: Periodically assess the security controls in organizational information systems to determine if the controls are effective in their application.,"An annual security assessment will be conducted to ensure that security controls are implemented correctly and meet the security requirements for the compliance environment. The assessment scope includes all information systems and networks in or directly connected to the compliance environment and all security controls and procedures necessary to meet the compliance requirements of the environment. The assessment will include, but is not limited to, vulnerability scanning, penetration testing, security control testing and reviews, configuration testing and reviews, log reviews, and personnel interviews. A representative sampling of systems will be assessed. Information Security, or an independent security auditor, will conduct the assessment. A final written assessment report and findings will be provided to the CIO at the conclusion of the assessment.","NIST 800-53 Mapping: CA-2, CA-5, CA-7
+
+ISO 27002:2013 Mapping: A.14.2.8, A.18.2.2, A.18.2.3 (for CA-2 only)
+
+Relevant 20 Critical Control: 1, 2, 3, 4, 5, 7, 10, 11, 12, 13, 14, 15, 17,  20
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.12.2,Basic,Security Assessment,NIST 800-171 3.12.2,NIST 800-171 3.12.2: Develop and implement plans of action designed to correct deficiencies and reduce or eliminate vulnerabilities in organizational information systems.,"An action plan to remediate identified weaknesses or deficiencies will be maintained. The action plan will designate remediation dates and milestones for each item. Definiciencies and weaknesses identified in security controls assessments, security impact analyses, and
+continuous monitoring activities will be added to the action plan within 30 days of the findings being reported.","NIST 800-53 Mapping: CA-2, CA-5, CA-7
+
+ISO 27002:2013 Mapping: A.14.2.8, A.18.2.2, A.18.2.3 (for CA-2 only)
+
+Relevant 20 Critical Control: 1, 2, 3, 4, 5, 7, 10, 11, 12, 13, 14, 15, 17,  20
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.12.3,Basic,Security Assessment,NIST 800-171 3.12.3,NIST 800-171 3.12.3: Monitor information system security controls on an ongoing basis to ensure the continued effectiveness of the controls.,"Continuous monitoring tools will be deployed for front Internet facing systems or those used to store or transmit sensitive data. At a minimum, systems will be monitored for privileged access, permission changes, kernel modifications, and binary changes, against a control and system baseline. Continuous monitoring reports and alerts will be reviewed daily. Unauthorized changes or unauthorized access will be reported to the CISO and information system owner within 24 hours of it being reported.","NIST 800-53 Mapping: CA-2, CA-5, CA-7
+
+ISO 27002:2013 Mapping: A.14.2.8, A.18.2.2, A.18.2.3 (for CA-2 only)
+
+Relevant 20 Critical Control: 1, 2, 3, 4, 5, 7, 10, 11, 12, 13, 14, 15, 17, 20
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.12.4,Basic,Security Assessment,NIST 800-171 3.12.4,"NIST 800-171 3.12.4: Develop, document, and periodically update system security plans that describe system
+boundaries, system environments of operation, how security requirements are implemented,
+and the relationships with or connections to other systems.","System security plans relate security requirements to a set of security controls. System security plans also describe, at a high level, how the security controls meet those security requirements, but do not provide detailed, technical descriptions of the design or implementation of the controls.","NIST 800-53 Mapping: PL-2
+
+ISO 27002:2013 Mapping: A.6.1.2
+
+Relevant 20 Critial Control: N/A
+
+DFARS 7012 (2013) Covered: N/A"
+NIST 800-171,3.13.1,Basic,System and Communications Protection,NIST 800-171 3.13.1,"NIST 800-171 3.13.1: Monitor, control, and protect organizational communications (i.e., information transmitted or received by organizational information systems) at the external boundaries and key internal boundaries of the information systems.","Enumerate policies for managed interfaces such as gateways, routers, firewalls, VPNs; organizational DMZs; and restricting external web traffic to only designated servers.","NIST 800-53 Mapping: SC-7, SA-8
+
+ISO 27002:2013 Mapping: A.8.2.3, A.13.1.1, A.13.1.3, A.13.2.1, A.13.2.3, A.14.1.2, A.14.1.3
+
+Relevant 20 Critical Control: 13, 19
+
+DFARS 7012 (2013) Covered: SC-7"
+NIST 800-171,3.13.2,Basic,System and Communications Protection,NIST 800-171 3.13.2,"NIST 800-171 3.13.2: Employ architectural designs, software development techniques, and systems engineering principles that promote effective information security within organizational information systems.","Outline organizational information security policies, to include standards for architectural design, software development, and system engineering principles designed to promote information security.","NIST 800-53 Mapping: SC-7, SA-8
+
+ISO 27002:2013 Mapping: A.13.1.1, A.13.1.3, A.13.2.1, A.14.1.3, A.14.2.5
+
+Relevant 20 Critical Control: 13, 19
+
+DFARS 7012 (2013) Covered: SC-7"
+NIST 800-171,3.13.3,Derived,System and Communications Protection,NIST 800-171 3.13.3,NIST 800-171 3.13.3: Separate user functionality from information system management functionality.,"Enumerate the physical or logical controls used to separate user functionality from system management-related functionality (e.g., to ensure that administration (e.g. privilege) options are not available to general users).","NIST 800-53 Mapping: SC-2
+
+ISO 27002:2013 Mapping: None
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.13.4,Derived,System and Communications Protection,NIST 800-171 3.13.4,NIST 800-171 3.13.4: Prevent unauthorized and unintended information transfer via shared system resources.,Enumerate the controls implemented to prevent object reuse and to protect residual information.,"NIST 800-53 Mapping: SC-4
+
+ISO 27002:2013 Mapping: None
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.13.5,Derived,System and Communications Protection,NIST 800-171 3.13.5,NIST 800-171 3.13.5: Implement subnetworks for publicly accessible system components that are physically or logically separated from internal networks.,Outline the policies for organizational DMZs.,"NIST 800-53 Mapping: SC-7, SA-8
+
+ISO 27002:2013 Mapping: A.13.1.1, A.13.1.3, A.13.2.1, A.14.1.3, A.14.2.5
+
+Relevant 20 Critical Control: 13, 19
+
+DFARS 7012 (2013) Covered: SC-7"
+NIST 800-171,3.13.6,Derived,System and Communications Protection,NIST 800-171 3.13.6,"NIST 800-171 3.13.6: Deny network communications traffic by default and allow network communications traffic by exception (i.e., deny all, permit by exception).",Document all business need exceptions to network communications traffic (inbound/outbound) “deny all” policies.,"NIST 800-53 Mapping: SC-7(5)
+
+ISO 27002:2013 Mapping: A.13.1.1, A.13.1.3, A.13.2.1, A.14.1.3
+
+Relevant 20 Critical Control: 13, 19
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.13.7,Derived,System and Communications Protection,NIST 800-171 3.13.7,NIST 800-171 3.13.7: Prevent remote devices from simultaneously establishing non-remote connections with the information system and communicating via some other connection to resources in external networks.,"Outline controls to prevent split tunneling in remote devices, and to mandate VPN use when necessary for business functions.","NIST 800-53 Mapping: SC-7(7)
+
+ISO 27002:2013 Mapping: A.13.1.1, A.13.1.3, A.13.2.1, A.14.1.3
+
+Relevant 20 Critical Control: 13, 19
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.13.8,Derived,System and Communications Protection,NIST 800-171 3.13.8,NIST 800-171 3.13.8: Implement cryptographic mechanisms to prevent unauthorized disclosure of CUI during transmission unless otherwise protected by alternative physical safeguards.,Outline the processes and automated mechanisms used to provide encryption of CUI during transmission; or document all alternative physical safeguards used to provide confidentiality of CUI during transmission.,"NIST 800-53 Mapping: SC-8, SC-8(1)
+
+ISO 27002:2013 Mapping: A.8.2.3, A.13.1.1, A.13.2.1, A.13.2.3, A.14.1.2, A.14.1.3
+
+Relevant 20 Critical Control: 17
+
+DFARS 7012 (2013) Covered: SC-8(1)"
+NIST 800-171,3.13.9,Derived,System and Communications Protection,NIST 800-171 3.13.9,NIST 800-171 3.13.9: Terminate network connections associated with communications sessions at the end of the sessions or after a defined period of inactivity.,"Outline controls for terminating communications sessions on both internal and external networks (e.g., deallocating TCP/IP addresses/port pairs); and institute time periods of inactivity based on type of network accesses.","NIST 800-53 Mapping: SC-10
+
+ISO 27002:2013 Mapping: A.13.1.1
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.13.10,Derived,System and Communications Protection,NIST 800-171 3.13.10,NIST 800-171 3.13.10: Establish and manage cryptographic keys for cryptography employed in the information system;,"Outline the processes and automated mechanisms used to provide key management within the information system (should also follow any relevant laws, regulations, and policies).","NIST 800-53 Mapping: SC-12
+
+ISO 27002:2013 Mapping: A.10.1.2
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.13.11,Derived,System and Communications Protection,NIST 800-171 3.13.11,NIST 800-171 3.13.11: Employ FIPS-validated cryptography when used to protect the confidentiality of CUI.,Outline where FIPS-validated cryptographic is used.,"NIST 800-53 Mapping: SC-13
+
+ISO 27002:2013 Mapping: A.10.1.1, A.14.1.2, A.14.1.3, A.18.1.5
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.13.12,Derived,System and Communications Protection,NIST 800-171 3.13.12,NIST 800-171 3.13.12: Prohibit remote activation of collaborative computing devices and provide indication of devices in use to users present at the device.,"Enumerate actions to remove or disable collaborative computing devices from information systems housing CUI; and to notify users when collaborative computing devices are in use (e.g., cameras, microphones, etc.).","NIST 800-53 Mapping: SC-15
+
+ISO 27002:2013 Mapping: A.13.2.1 (ISO control doesn't completely match NIST 800-53)
+
+Relevant 20 Critical Control: 3
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.13.13,Derived,System and Communications Protection,NIST 800-171 3.13.13,NIST 800-171 3.13.13: Control and monitor the use of mobile code.,"Define limits of mobile code usage, establish usage restrictions, and specifically authorize use of mobile code (e.g., Java, ActiveX, Flash, etc.) within an information system.","NIST 800-53 Mapping: SC-18
+
+ISO 27002:2013 Mapping: None
+
+Relevant 20 Critical Control: 2
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.13.14,Derived,System and Communications Protection,NIST 800-171 3.13.14,NIST 800-171 3.13.14: Control and monitor the use of Voice over Internet Protocol (VoIP) technologies.,"Define and establish usage restrictions, and specifically authorize the business necessary use of VoIP technologies within an information system.","NIST 800-53 Mapping: SC-19
+
+ISO 27002:2013 Mapping: None
+
+Relevant 20 Critical Control: 
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.13.15,Derived,System and Communications Protection,NIST 800-171 3.13.15,NIST 800-171 3.13.15: Protect the authenticity of communications sessions.,"Outline the controls implemented to protect session communications (e.g., the controls implemented to validate identities and information transmitted to protect against MITM attacks, session hijacking, and insertion of false information into sessions).","NIST 800-53 Mapping: SC-23
+
+ISO 27002:2013 Mapping: None
+
+Relevant 20 Critical Control: 16
+
+DFARS 7012 (2013) Covered: No"
+NIST 800-171,3.13.16,Derived,System and Communications Protection,NIST 800-171 3.13.16,NIST 800-171 3.13.16: Protect the confidentiality of CUI at rest.,Outline controls used to protect CUI while stored in organizational information systems.,"NIST 800-53 Mapping: SC-28
+
+ISO 27002:2013 Mapping: A.8.2.3 (ISO control doesn't completely match NIST 800-53)
+
+Relevant 20 Critical Control: 17
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.14.1,Basic,System and Information Integrity,NIST 800-171 3.14.1,"NIST 800-171 3.14.1: Identify, report, and correct information and information system flaws in a timely manner.","The organization will perform all security-relevant software updates, to include patching, service packs, hot fixes, and anti-virus signature additions in response to identified system flas and vulnerabilities within the time prescribed by organizational policy (Critical/High: 5 days, Moderate: 30 days, Low: As-Available).  When available, managers and administrators of the information system will rely on centralized management of the flaw remediation process, to include the use of automated update software, patch management tools, and automated status scanning.  ","NIST 800-53 Mapping: SI-2, SI-3, SI-5
+
+ISO 27002:2013 Mapping: A.6.1.4 (ISO control doesn't completely match NIST 800-53), A.12.2.1, A.12.6.1, A.14.2.2, A.14.2.3, A.16.1.3
+
+Relevant 20 Critical Control: 3, 5
+
+DFARS 7012 (2013) Covered: SI-2, SI-3"
+NIST 800-171,3.14.2,Basic,System and Information Integrity,NIST 800-171 3.14.2,NIST 800-171 3.14.2: Provide protection from malicious code at appropriate locations within organizational information systems.,"The organization will employ malicious code protection mechanisms at information system entry and exit points to minimize the presence of malicious code.  These protection mechanisms may include, for example, firewalls, electronic mail servers, web servers, proxy servers, remote-access servers, workstations, notebook computers, and mobile devices.","NIST 800-53 Mapping: SI-2, SI-3, SI-5
+
+ISO 27002:2013 Mapping: A.6.1.4 (ISO control doesn't completely match NIST 800-53), A.12.2.1, A.12.6.1, A.14.2.2, A.14.2.3, A.16.1.3
+
+Relevant 20 Critical Control: 3, 5
+
+DFARS 7012 (2013) Covered: SI-2, SI-3"
+NIST 800-171,3.14.3,Basic,System and Information Integrity,NIST 800-171 3.14.3,NIST 800-171 3.14.3: Monitor information system security alerts and advisories and take appropriate actions in response.,"The organization will receive security alerts, advisories, and directives from reputable external agencies, and disseminate this information to individuals with need-to-know in the organization.  In the event of alerts, advisories, or directives that have widespread impact on the organization, internal security directives will be disseminated directly to information system users, managers, and administrators.","NIST 800-53 Mapping: SI-2, SI-3, SI-5
+
+ISO 27002:2013 Mapping: A.6.1.4 (ISO control doesn't completely match NIST 800-53), A.12.2.1, A.12.6.1, A.14.2.2, A.14.2.3, A.16.1.3
+
+Relevant 20 Critical Control: 3, 5
+
+DFARS 7012 (2013) Covered: SI-2, SI-3"
+NIST 800-171,3.14.4,Derived,System and Information Integrity,NIST 800-171 3.14.4,NIST 800-171 3.14.4: Update malicious code protection mechanisms when new releases are available.,The organization will update information system protection mechanisms within 5 days of new releases.,"NIST 800-53 Mapping: SI-3
+
+ISO 27002:2013 Mapping: A.12.2.1
+
+Relevant 20 Critical Control: 5
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.14.5,Derived,System and Information Integrity,NIST 800-171 3.14.5,"NIST 800-171 3.14.5: Perform periodic scans of the information system and real-time scans of files from external sources as files are downloaded, opened, or executed.","The organization will perform quarterly scans of the information system, as well as real-time scanning of files from external sources. ","NIST 800-53 Mapping: SI-3
+
+ISO 27002:2013 Mapping: A.12.2.1
+
+Relevant 20 Critical Control: 5
+
+DFARS 7012 (2013) Covered: Yes"
+NIST 800-171,3.14.6,Derived,System and Information Integrity,NIST 800-171 3.14.6,"NIST 800-171 3.14.6: Monitor the information system including inbound and outbound communications traffic, to detect attacks and indicators of potential attacks.","The organizaiton will monitor the information system to detect attacks and indicators of potential attacks, as well as unauthorized local, network, and remote connections.  The organization will strategically deploy monitoring devices within the information system to collect essential information system.  Information gained from these monitoring tools will be protected from unauthorized access, modification, and deletion. ","NIST 800-53 Mapping: SI-4, SI-4(4)
+
+ISO 27002:2013 Mapping: None
+
+Relevant 20 Critical Control: 1, 2, 3, 5, 7, 10, 11, 12, 13, 14, 15, 16, 17, 
+
+DFARS 7012 (2013) Covered: SI-4"
+NIST 800-171,3.14.7,Derived,System and Information Integrity,NIST 800-171 3.14.7,NIST 800-171 3.14.7: Identify unauthorized use of the information system.,"The organization will monitor the information system to identify unauthorized access and use, as well as potential misuse of the information system.","NIST 800-53 Mapping: SI-4
+
+ISO 27002:2013 Mapping: None
+
+Relevant 20 Critical Control: 1, 2, 3, 5, 7, 10, 11, 12, 13, 14, 15, 16, 17
+
+DFARS 7012 (2013) Covered: Yes"
