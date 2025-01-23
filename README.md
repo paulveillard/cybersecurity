@@ -94,7 +94,9 @@ Today, The field of **cybersecurity** can be categorized into ten (10) main doma
 
 ## `Cybersecurity`
 
-![cybersecurity](https://github.com/paulveillard/cybersecurity/blob/main/cyber-security.png)
+<p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity/blob/main/img/cybersecurity-ecosystem.jpg?raw=true" alt="Sublime's custom image"/>
+</p>
 
 ### Security Domains
 
