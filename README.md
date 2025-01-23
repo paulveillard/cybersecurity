@@ -1,4 +1,5 @@
-# Cybersecurity
+# Cybersecurity: Theory, Techniques, and Tools
+
 ###### Welcome to the most extensive collection of encyclopedic knowledge in the world of Cybersecurity:
 An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources in Cybersecurity.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
@@ -9,9 +10,11 @@ An ongoing & curated collection of awesome software best practices and technique
 > [CISA](https://www.cisa.gov/news-events/news/what-cybersecurity) defines it as "Cybersecurity is the art of protecting networks, devices, and data from unauthorized access or criminal use and the practice of ensuring confidentiality, integrity, and availability of information."
 > It seems that everything relies on computers and the internet now—communication (e.g., email, smartphones, tablets), entertainment (e.g., interactive video games, social media, apps ), transportation (e.g., navigation systems), shopping (e.g., online shopping, credit cards), medicine (e.g., medical equipment, medical records), and the list goes on. How much of your daily life relies on technology? How much of your personal information is stored either on your own computer, smartphone, tablet or on someone else's system?
 
+<p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity/blob/main/img/cybersecurity-market.jpg?raw=true" alt="Sublime's custom image"/>
+</p>
 
 
-![security](https://github.com/paulveillard/cybersecurity/blob/main/img/Cyber-Security-Download-PNG-Image.png)
 
 **[Cybersecurity](https://en.wikipedia.org/wiki/Computer_security), computer security, or information technology security (IT Security)**  is  a  very  important  part  of  the  cyber  world. 
 
