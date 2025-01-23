@@ -17,6 +17,7 @@ An ongoing & curated collection of awesome software best practices and technique
 
 
 **[Cybersecurity](https://en.wikipedia.org/wiki/Computer_security), computer security, or information technology security (IT Security)**  is  a  very  important  part  of  the  cyber  world. 
+- Security is a [$200B industry](https://www.gartner.com/en/newsroom/press-releases/2022-10-13-gartner-identifies-three-factors-influencing-growth-i#:~:text=ZTNA%20is%20the%20fastest%2Dgrowing,on%20VPNs%20for%20secure%20access.) growing over 11% each year, making it one of the largest and most mission-critical technology sectors.
 
 
 
