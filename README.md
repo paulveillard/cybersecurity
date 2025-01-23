@@ -16,7 +16,9 @@ An ongoing & curated collection of awesome software best practices and technique
 
 
 
-**[Cybersecurity](https://en.wikipedia.org/wiki/Computer_security), computer security, or information technology security (IT Security)**  is  a  very  important  part  of  the  cyber  world. 
+**[Cybersecurity](https://en.wikipedia.org/wiki/Computer_security), computer security, or information technology security (IT Security)**  is  a  very  important  part  of  the  cyberspace. 
+> Cyberspace is a larger term than the internet. It refers to digital environments in which the exchange of electronic information takes place—that includes private networks and online services beyond the public internet.
+The role of cybersecurity has only become more important for the modern enterprise and increasingly for the individual. Cybersecurity is unlike any other technology sector. It’s an industry that thrives on human fear, not greed. The sector isn’t a revenue driver for businesses neither can its cost-saving impact always be empirically measured.
 - Security is a [$200B industry](https://www.gartner.com/en/newsroom/press-releases/2022-10-13-gartner-identifies-three-factors-influencing-growth-i#:~:text=ZTNA%20is%20the%20fastest%2Dgrowing,on%20VPNs%20for%20secure%20access.) growing over 11% each year, making it one of the largest and most mission-critical technology sectors.
 
 
