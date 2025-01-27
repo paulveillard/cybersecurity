@@ -94,14 +94,12 @@ Today, The field of **cybersecurity** can be categorized into ten (10) main doma
 
 ## `Cybersecurity`
 
-### Vendors Ecosystem
 
-<p align="center">
-  <img src="https://github.com/paulveillard/cybersecurity/blob/main/img/cyberspace-ecosystem.jpg?raw=true" alt="Sublime's custom image"/>
-</p>
 
 ### Security Domains
-
+<p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity/blob/main/img/cybersecurity_domains_3.1.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 * Access Control
 
