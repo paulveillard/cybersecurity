@@ -273,6 +273,7 @@ Utimaco Safeware Inc.,
 	
 * [Uber Privacy & Security](https://medium.com/uber-security-privacy) - Insights and updates from Uber’s security and privacy teams 	
 
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation.
 * [Cobalt.io](https://cobalt.io/) - Connecting the global application security community to enterprises. 
 	
 * [Independent Security Evaluators](https://www.ise.io/) - Security specialists that provide custom services including security assessments and software development. ISE also runs IoT Village, which hosts talks by expert security researchers and hacking contests. 
